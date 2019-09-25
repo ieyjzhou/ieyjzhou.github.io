@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Yanjie Zhou / Yanjie Zhou's Homepage"
+title                    : "Yanjie Zhou / Homepage"
 title_separator          : "-"
 name                     : &name "Yanjie Zhou"
 description              : &description "personal description"
@@ -80,9 +80,9 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Sidebar Name"
+  name             : "Zhou Yanjie (周艳杰)"
   avatar           : "zhou.png"
-  bio              : "Your biography for the left-hand sidebar"
+  bio              : "Ph.D student of Department of Industrial Engineering at Pusan National University"
   location         : "Location"
   employer         :
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
