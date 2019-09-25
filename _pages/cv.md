@@ -25,34 +25,28 @@ Work experience
 * July.2012 ~ Sep. 2012: Visiting student
   * University of Chinese Academy of Sciences (中国科学院大学)
     * Cloud Computing & Intelligent Information Processing Lab (云计算与智能信息处理实验室)
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
 
-Publications
+Awards and Honors
 ======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+   * Chinese Government Award for Outstanding Students in Korea (Embassy of China in Korea) (2017)
+   * Best Paper Award of The Second Global Conference on Theory and Applications of OR/OM for Sustainability (2017)
+   * Best Student Paper Award of The 46th International Conference on Computers & Industrial Engineering (CIE46) (2016)
+   * State-Sponsored Scholarship Program for Graduate Students (China Scholarship Council) (2016)
+   * Brain Korea 21 Program for Leading Universities and Students Scholarship (National Research Foundation of Korea) (2015)
+   * International Student Scholarship of Pusan National University (2015)
+   * Excellent Graduate of Zhengzhou University(2015)
+   * Merit Student of Henan Province(2015)
+   * National Master Candidate. Scholarships of P.R.China (2014)
+   * [More information >>>>](https://ieyjzhou.github.io/YanjieZhou/AwardsandHonors.html)
+   
+
+Professional Activities
+======
+  Reviewer (number of papers reviewed)
+  *Computer and Industrial Engineering (1)
+  *Advances in Difference Equations (2)
+  *International Journal of Computational Intelligence Systems (2)
+  *The 20th Asia Pacific Industrial Engineering and Management Systems (7)
+  *The 1nd International Conference of the Yangtze River Research and Innovation Belt (2)
   
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+ 
