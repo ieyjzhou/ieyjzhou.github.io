@@ -6,10 +6,10 @@ author_profile: true
 ---
 Working Manuscripts
 ------
-**Zhou, Y.**, & Kim, K. H. (2019). Coevolution based procedure to determine the terminal handling charges for competi-
+1. **Zhou, Y.**, & Kim, K. H. (2019). Coevolution based procedure to determine the terminal handling charges for competi-
 tive container terminals. Computer & Industrial Engineering. **(Under review)**
-**Zhou, Y.**, & Kim, K. H. (2019). Optimal concession contract between a port authority and container-terminal operators by revenue-sharing schemes with quantity discount. Maritime Policy & Management. **(Under review)**
-**Zhou, Y.**, & Kim, K. H. (2019). Optimal parameters of fixed and variable rental fees in concession contracts for port
+1. **Zhou, Y.**, & Kim, K. H. (2019). Optimal concession contract between a port authority and container-terminal operators by revenue-sharing schemes with quantity discount. Maritime Policy & Management. **(Under review)**
+1. **Zhou, Y.**, & Kim, K. H. (2019). Optimal parameters of fixed and variable rental fees in concession contracts for port
 authorities. International Journal of Logistics Research and Applications. **(Under review)**
 
 Journal Publications
