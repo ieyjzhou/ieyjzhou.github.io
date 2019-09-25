@@ -55,12 +55,12 @@ demand uncertainty. In 2018 ieee international conference on smart manufacturing
 1. Tuladhar, U. M., **Zhou, Y.**, Lee, G. M., & Ahn, S. (2017). Design and implementation of segmentation algorithm for artis-
 tic drawing using 2-axis computer numerical controller. In The 7th international conference on manufacturing, machine
 design and tribology. (April 19-22, 2017, Jeju, Korea.)
-1. Zhou, Y.**, Das, A., Gao, X., & Lee, G. M. (2017). A biobjective mathematical programming for medical relief shelter lo-
+1. **Zhou, Y.**, Das, A., Gao, X., & Lee, G. M. (2017). A biobjective mathematical programming for medical relief shelter lo-
 cation problem. In The second global conference on theory and applications of or & om for sustainability. (September 6-8,
-2017, Beijing, China. Best paper award)
+2017, Beijing, China. <font color="red">Best paper award<font>)
 1. Gu, J., **Zhou, Y.**, & Lee, G. M. (2016). Medical relief shelter location considering the severity of patients under limited
 relief budget. In The 46th international conference on computers & industrial engineering. (October 29-31, 2016, Tianjin,
-China. Best student paper award)
+China. <font color="red">Best student paper award<font>)
 1. **Zhou, Y.**, & Lee, G. M. (2016). Linking the optimization to the art; an efficient k-continuous line drawing using image
 segmentation, stippling, and the traveling salesman problem. In The 2016 international symposium on semiconductor
 manufacturing intelligence. (August 7-10, 2016, Hsinchu, Taiwan.)
