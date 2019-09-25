@@ -38,7 +38,7 @@ Awards and Honors
    * Excellent Graduate of Zhengzhou University(2015)
    * Merit Student of Henan Province(2015)
    * National Master Candidate. Scholarships of P.R.China (2014)
-   * more>>>>(https://ieyjzhou.github.io/YanjieZhou/AwardsandHonors.html)
+   * [More information >>>>](https://ieyjzhou.github.io/YanjieZhou/AwardsandHonors.html)
    
 ![alt text](http://s09.flagcounter.com/count2/opgi/bg_FFFFFF/txt_000000/border_CCCCCC/columns_8/maxflags_24/viewers_1/labels_1/pageviews_1/flags_1/percent_1/)
  
