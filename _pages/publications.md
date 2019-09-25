@@ -65,5 +65,4 @@ China. Best student paper award)
 segmentation, stippling, and the traveling salesman problem. In The 2016 international symposium on semiconductor
 manufacturing intelligence. (August 7-10, 2016, Hsinchu, Taiwan.)
 1. Zhou, B., **Zhou, Y.**, Xu, M., & Wu, F. (2014). Computation-aware motion estimation algorithm based on qoe control. In
-2014 ieee computers communications and it applications conference (pp. 261–265). IEEE. doi:10.1109/ComComAp.2014.
-7017207. (October 20-22, 2014, Beijing, China.
+2014 ieee computers communications and it applications conference (pp. 261–265). IEEE. doi:10.1109/ComComAp.2014.7017207. (October 20-22, 2014, Beijing, China.)
