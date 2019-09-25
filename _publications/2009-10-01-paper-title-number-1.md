@@ -1,5 +1,5 @@
 ---
-title: "Paper Title Number 1"
+title: "Linking soft computing to art: introduction of efficient k-continuous line drawing"
 collection: publications
 permalink: /publication/2009-10-01-paper-title-number-1
 excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
