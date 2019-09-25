@@ -15,7 +15,7 @@ Education
 * M.S. in Computer Applied Technology, Zhengzhou University (郑州大学), 2012.09-2015.06
 * Ph.D in Industrial Engineering, 	Pusan National University (부산대학교), 2015.09-2020.08 (expected)
 
-Work experience
+Work Experiences
 ======
 * July.2013 ~ Apr.2015: Visiting student
   * Zhejiang University (浙江大学)
