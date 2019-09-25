@@ -14,7 +14,7 @@ tive container terminals. Computer & Industrial Engineering. **(Under review)**
 Journal Publications
 ------
 1. Gu, J., **Zhou, Y.**, Das, A., Moon, I., & Lee, G. M. (2018). Medical relief shelter location problem with patient severity
-under a limited relief budget. Computers & Industrial Engineering, 125, 720–728.**[PDF](https://ieyjzhou.github.io/YanjieZhou/Paper/CIE2018_correct_proof_version.pdf)**
+under a limited relief budget. Computers & Industrial Engineering, 125, 720–728. **[PDF](https://ieyjzhou.github.io/YanjieZhou/Paper/CIE2018_correct_proof_version.pdf)**
 1. **Zhou, Y.**, & Lee, G. M. (2018b). Linking soft computing to art: Introduction of efficient k-continuous line drawing. Ap-
 plied Soft Computing, 68, 932–943.
 1. Gao, X., **Zhou, Y.**, Amir, M. I. H., Rosyidah, F. A., & Lee, G. M. (2017). A hybrid genetic algorithm for multi-emergency
