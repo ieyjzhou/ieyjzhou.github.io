@@ -80,14 +80,13 @@ analytics:
 
 # Site Author
 author:
-  name             : "Zhou Yanjie (周艳杰)"
+  name             : "Yanjie Zhou (周艳杰)"
   avatar           : "zhou.png"
   bio              : "Ph.D student of Department of Industrial Engineering at Pusan National University"
   location         : "Location"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=7mZV_YsAAAAJ&hl=en"
-  email            :
+  email            : "y.j.zhou.g@gmail.com"
   researchgate     : "https://www.researchgate.net/profile/Yanjie_Zhou2"
   uri              :
   bitbucket        :
