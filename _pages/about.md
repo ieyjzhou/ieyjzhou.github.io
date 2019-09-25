@@ -12,6 +12,4 @@ I am a fifth-years Ph.D student advised by Prof. Kap Hwan Kim in Department of I
 
 
 ![alt text](http://s09.flagcounter.com/count2/opgi/bg_FFFFFF/txt_000000/border_CCCCCC/columns_8/maxflags_24/viewers_1/labels_1/pageviews_1/flags_1/percent_1/)
- <img src="http://s09.flagcounter.com/count2/opgi/bg_FFFFFF/txt_000000/border_CCCCCC/columns_8/maxflags_24/viewers_1/labels_1/pageviews_1/flags_1/percent_1/" alt="Flag Counter" border="0" width=905px >
-
  
