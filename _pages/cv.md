@@ -43,10 +43,10 @@ Awards and Honors
 Professional Activities
 ======
   Reviewer (number of papers reviewed)
-  *Computer and Industrial Engineering (1)
-  *Advances in Difference Equations (2)
-  *International Journal of Computational Intelligence Systems (2)
-  *The 20th Asia Pacific Industrial Engineering and Management Systems (7)
-  *The 1nd International Conference of the Yangtze River Research and Innovation Belt (2)
+    * Computer and Industrial Engineering (1)
+    * Advances in Difference Equations (2)
+    * International Journal of Computational Intelligence Systems (2)
+    * The 20th Asia Pacific Industrial Engineering and Management Systems (7)
+    * The 1nd International Conference of the Yangtze River Research and Innovation Belt (2)
   
  
