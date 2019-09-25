@@ -15,12 +15,12 @@ Journal Publications
 ------
 1. Gu, J., **Zhou, Y.**, Das, A., Moon, I., & Lee, G. M. (2018). Medical relief shelter location problem with patient severity
 under a limited relief budget. Computers & Industrial Engineering, 125, 720–728. **[PDF](https://ieyjzhou.github.io/YanjieZhou/Paper/CIE2018_correct_proof_version.pdf)**
-1. **Zhou, Y.**, & Lee, G. M. (2018b). Linking soft computing to art: Introduction of efficient k-continuous line drawing. Ap-
-plied Soft Computing, 68, 932–943.
+1. **Zhou, Y.**, & Lee, G. M. (2018). Linking soft computing to art: Introduction of efficient k-continuous line drawing. Ap-
+plied Soft Computing, 68, 932–943. **[PDF](https://ieyjzhou.github.io/YanjieZhou/Paper/KCLD_2018_Published_Version.pdf)**
 1. Gao, X., **Zhou, Y.**, Amir, M. I. H., Rosyidah, F. A., & Lee, G. M. (2017). A hybrid genetic algorithm for multi-emergency
 medical service centers location-allocation problem in disaster response. International Journal of Industrial Engineering:
-Theory, Applications and Practice, 24(6), 663–679. 
+Theory, Applications and Practice, 24(6), 663–679. **[PDF](https://ieyjzhou.github.io/YanjieZhou/Paper/IJIE%202017.pdf)**
 1. Gao, Y., **Zhou, Y.**, Zhou, B., Shi, L., & Zhang, J. (2017). Handling data skew in mapreduce cluster by using partition tun-
-ing. Journal of healthcare engineering, 2017. 
+ing. Journal of healthcare engineering, 2017. **[PDF](https://ieyjzhou.github.io/YanjieZhou/Paper/JHE2017.pdf)**
 1. **Zhou, Y.**, & Lee, G. M. (2017). A lagrangian relaxation-based solution method for a green vehicle routing problem to
-minimize greenhouse gas emissions. Sustainability, 9(5), 776
+minimize greenhouse gas emissions. Sustainability, 9(5), 776 **[PDF](https://ieyjzhou.github.io/YanjieZhou/Paper/sustainability-09-00776.pdf)**
