@@ -4,6 +4,14 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
+Working Manuscripts
+------
+**Zhou, Y.**, & Kim, K. H. (2019). Coevolution based procedure to determine the terminal handling charges for competi-
+tive container terminals. Computer & Industrial Engineering. **(Under review)**
+**Zhou, Y.**, & Kim, K. H. (2019). Optimal concession contract between a port authority and container-terminal operators by revenue-sharing schemes with quantity discount. Maritime Policy & Management. **(Under review)**
+**Zhou, Y.**, & Kim, K. H. (2019). Optimal parameters of fixed and variable rental fees in concession contracts for port
+authorities. International Journal of Logistics Research and Applications. **(Under review)**
+
 Journal Publications
 ------
 1. Gu, J., **Zhou, Y.**, Das, A., Moon, I., & Lee, G. M. (2018). Medical relief shelter location problem with patient severity
