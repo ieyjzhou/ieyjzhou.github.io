@@ -1,7 +1,7 @@
 ---
 permalink: /
-title: "About me"
-excerpt: "About me"
+title: "Yanjie Zhou Homepage"
+excerpt: "Yanjie Zhou 周艳杰"
 author_profile: true
 redirect_from: 
   - /about/
