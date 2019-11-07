@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Yanjie Zhou Homepage"
+title: "Yanjie Zhou  (周艳杰)"
 excerpt: "Yanjie Zhou 周艳杰"
 author_profile: true
 redirect_from: 
