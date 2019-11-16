@@ -1,8 +1,8 @@
 ---
-title: "Portfolio item number 1"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/Chinju.jpg'>"
+title: "진주시 2019-04-18"
+excerpt: "Night view of Chokseongnu Pavilion in Jinju <br/><img src='https://drive.google.com/uc?id=1dQUv2MGbB5sK58FWihD-GsrXn0TMO_uV&export=download'>"
 collection: portfolio
 ---
 
  
- 
+ [Google Map](https://www.google.com/maps/@35.1894544,128.0818163,3a,75y,262.15h,94.3t/data=!3m8!1e1!3m6!1sAF1QipNBqK-XQpNxOGDK76kFvfQcYO0n0AsYHcaIrA8!2e10!3e11!6shttps:%2F%2Flh5.googleusercontent.com%2Fp%2FAF1QipNBqK-XQpNxOGDK76kFvfQcYO0n0AsYHcaIrA8%3Dw203-h100-k-no-pi-0-ya92.257-ro-0-fo100!7i8704!8i4352)
