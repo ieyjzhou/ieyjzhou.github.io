@@ -1,5 +1,5 @@
 ---
-title: "진주시 2019-04-18"
+title: "진주시 2019-10-04"
 excerpt: "Night view of Chokseongnu Pavilion in Jinju <br/><img src='https://drive.google.com/uc?id=1dQUv2MGbB5sK58FWihD-GsrXn0TMO_uV&export=download'>"
 collection: portfolio
 ---
