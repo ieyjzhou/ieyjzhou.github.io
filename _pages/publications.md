@@ -7,11 +7,11 @@ author_profile: true
 Working Manuscripts
 ------
 1. **Zhou, Y.**, & Kim, K. H. (2019). A game theoretic model and a coevolutionary solution procedure to determine the terminal handling charges for container terminals. Computer & Industrial Engineering. **(Second round review)**
-1. **Zhou, Y.**, & Kim, K. H. (2019). Optimal concession contract between a port authority and container-terminal operators by revenue-sharing schemes with quantity discount. Maritime Policy & Management. **(Third round review)**
 1. **Zhou, Y.**, & Kim, K. H. (2019). Optimal parameters in concession contracts between container terminal operators and investors. International Journal of Logistics Research and Applications. **(First round review)**
 
 Journal Publications
 ------
+1. **Zhou, Y.**, & Kim, K. H. (2019). Optimal concession contract between a port authority and container-terminal operators by revenue-sharing schemes with quantity discount. Maritime Policy & Management. **(Accept)**
 1. Gu, J., **Zhou, Y.**, Das, A., Moon, I., & Lee, G. M. (2018). Medical relief shelter location problem with patient severity
 under a limited relief budget. Computers & Industrial Engineering, 125, 720–728. **[PDF](https://ieyjzhou.github.io/YanjieZhou/Paper/CIE2018_correct_proof_version.pdf)**
 1. **Zhou, Y.**, & Lee, G. M. (2018). Linking soft computing to art: Introduction of efficient k-continuous line drawing. Ap-
