@@ -28,14 +28,15 @@ Work Experiences
 
 Awards and Honors
 ======
-   * Chinese Government Award for Outstanding Students in Korea (Embassy of China in Korea) (2017)
+   * Out Standing Paper Award of The Second International Conference of the Yangtze River Research and Innovation Belt (2019)  
+   * Chinese Government Award for Outstanding Students in Korea (Embassy of China in Korea) (2017/2018)
    * Best Paper Award of The Second Global Conference on Theory and Applications of OR/OM for Sustainability (2017)
    * Best Student Paper Award of The 46th International Conference on Computers & Industrial Engineering (CIE46) (2016)
    * State-Sponsored Scholarship Program for Graduate Students (China Scholarship Council) (2016)
    * Brain Korea 21 Program for Leading Universities and Students Scholarship (National Research Foundation of Korea) (2015)
    * International Student Scholarship of Pusan National University (2015)
-   * Excellent Graduate of Zhengzhou University(2015)
-   * Merit Student of Henan Province(2015)
+   * Excellent Graduate of Zhengzhou University (2015)
+   * Merit Student of Henan Province (2015)
    * National Master Candidate. Scholarships of P.R.China (2014)
    * [More information >>>>](https://ieyjzhou.github.io/YanjieZhou/AwardsandHonors.html)
    
