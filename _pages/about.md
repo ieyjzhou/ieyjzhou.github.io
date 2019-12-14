@@ -33,6 +33,8 @@ Selected Papers
   * Zhou, Y., & Lee, G. M. (2018). Linking soft computing to art: Introduction of efficient k-continuous line drawing. Ap- plied Soft Computing, 68, 932–943.
   * Gu, J., Zhou, Y., Das, A., Moon, I., & Lee, G. M. (2018). Medical relief shelter location problem with patient severity under a limited relief budget. Computers & Industrial Engineering, 125, 720–728.
  * [More Papers](https://ieyjzhou.github.io/publications/)
+ 
+ 
 Awards and Honors
 ======
    * Out Standing Paper Award of The Second International Conference of the Yangtze River Research and Innovation Belt (2019)  
