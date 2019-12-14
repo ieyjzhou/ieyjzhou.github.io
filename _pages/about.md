@@ -30,7 +30,7 @@ Work experience
 Selected Papers
 ======
   * Zhou, Y., & Kim, K. H. (2019). Optimal concession contract between a port authority and container-terminal operators by revenue-sharing schemes with quantity discount. Maritime Policy & Management. (Accept)
-  * Zhou, Y., & Lee, G. M. (2018). Linking soft computing to art: Introduction of efficient k-continuous line drawing. Ap- plied Soft Computing, 68, 932–943.
+  * Zhou, Y., & Lee, G. M. (2018). Linking soft computing to art: Introduction of efficient k-continuous line drawing. Applied Soft Computing, 68, 932–943.
   * Gu, J., Zhou, Y., Das, A., Moon, I., & Lee, G. M. (2018). Medical relief shelter location problem with patient severity under a limited relief budget. Computers & Industrial Engineering, 125, 720–728.
  * [More Papers](https://ieyjzhou.github.io/publications/)
  
