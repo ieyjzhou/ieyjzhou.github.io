@@ -29,7 +29,8 @@ Work experience
 
 Awards and Honors
 ======
-   * Chinese Government Award for Outstanding Students in Korea (Embassy of China in Korea) (2017)
+   * Out Standing Paper Award of The Second International Conference of the Yangtze River Research and Innovation Belt (2019)  
+   * Chinese Government Award for Outstanding Students in Korea (Embassy of China in Korea) (2017/2018)
    * Best Paper Award of The Second Global Conference on Theory and Applications of OR/OM for Sustainability (2017)
    * Best Student Paper Award of The 46th International Conference on Computers & Industrial Engineering (CIE46) (2016)
    * State-Sponsored Scholarship Program for Graduate Students (China Scholarship Council) (2016)
