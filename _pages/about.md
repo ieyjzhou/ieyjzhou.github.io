@@ -27,6 +27,12 @@ Work experience
   * University of Chinese Academy of Sciences (中国科学院大学)
     * Cloud Computing & Intelligent Information Processing Lab (云计算与智能信息处理实验室)
 
+Selected Papers
+======
+  * Zhou, Y., & Kim, K. H. (2019). Optimal concession contract between a port authority and container-terminal operators by revenue-sharing schemes with quantity discount. Maritime Policy & Management. (Accept)
+  * Zhou, Y., & Lee, G. M. (2018). Linking soft computing to art: Introduction of efficient k-continuous line drawing. Ap- plied Soft Computing, 68, 932–943.
+  * Gu, J., Zhou, Y., Das, A., Moon, I., & Lee, G. M. (2018). Medical relief shelter location problem with patient severity under a limited relief budget. Computers & Industrial Engineering, 125, 720–728.
+ * [More Papers](https://ieyjzhou.github.io/publications/)
 Awards and Honors
 ======
    * Out Standing Paper Award of The Second International Conference of the Yangtze River Research and Innovation Belt (2019)  
