@@ -32,7 +32,7 @@ Selected Papers
   * Zhou, Y., & Kim, K. H. (2019). Optimal concession contract between a port authority and container-terminal operators by revenue-sharing schemes with quantity discount. Maritime Policy & Management. (Accept)
   * Zhou, Y., & Lee, G. M. (2018). Linking soft computing to art: Introduction of efficient k-continuous line drawing. Applied Soft Computing, 68, 932–943.
   * Gu, J., Zhou, Y., Das, A., Moon, I., & Lee, G. M. (2018). Medical relief shelter location problem with patient severity under a limited relief budget. Computers & Industrial Engineering, 125, 720–728.
- * [More Papers](https://ieyjzhou.github.io/publications/)
+ * [More papers >>>>](https://ieyjzhou.github.io/publications/)
  
  
 Awards and Honors
@@ -47,7 +47,7 @@ Awards and Honors
    * Excellent Graduate of Zhengzhou University(2015)
    * Merit Student of Henan Province(2015)
    * National Master Candidate. Scholarships of P.R.China (2014)
-   * [More information >>>>](https://ieyjzhou.github.io/YanjieZhou/AwardsandHonors.html)
+   * [More awards and honors >>>>](https://ieyjzhou.github.io/YanjieZhou/AwardsandHonors.html)
    
 ![alt text](http://s09.flagcounter.com/count2/opgi/bg_FFFFFF/txt_000000/border_CCCCCC/columns_8/maxflags_24/viewers_1/labels_1/pageviews_1/flags_1/percent_1/)
  
