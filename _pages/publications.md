@@ -11,7 +11,7 @@ Working Manuscripts
 
 Journal Publications
 ------
-1. **Zhou, Y.**, & Kim, K. H. (2019). Optimal concession contract between a port authority and container-terminal operators by revenue-sharing schemes with quantity discount. Maritime Policy & Management. **(Accept)**
+1. **Zhou, Y.**, & Kim, K. H. (2019). Optimal concession contract between a port authority and container-terminal operators by revenue-sharing schemes with quantity discount. Maritime Policy & Management. **[https://doi.org/10.1080/03088839.2019.1707314](https://doi.org/10.1080/03088839.2019.1707314)**
 1. Gu, J., **Zhou, Y.**, Das, A., Moon, I., & Lee, G. M. (2018). Medical relief shelter location problem with patient severity
 under a limited relief budget. Computers & Industrial Engineering, 125, 720–728. **[PDF](https://ieyjzhou.github.io/YanjieZhou/Paper/CIE2018_correct_proof_version.pdf)**
 1. **Zhou, Y.**, & Lee, G. M. (2018). Linking soft computing to art: Introduction of efficient k-continuous line drawing. Ap-
