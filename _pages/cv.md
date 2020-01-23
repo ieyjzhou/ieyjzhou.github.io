@@ -52,10 +52,10 @@ Professional Activities
   Reviewer 
  
   Journals
-   * [Computer and Industrial Engineering](https://www.journals.elsevier.com/computers-and-industrial-engineering) 
-   * [Advances in Difference Equations](https://advancesindifferenceequations.springeropen.com/) 
-   * [International Journal of Computational Intelligence Systems](https://www.atlantis-press.com/journals/ijcis)
-   * [Journal of Industrial and Production Engineering](https://www.tandfonline.com/toc/tjci21/current)
+   * [Computer and Industrial Engineering](https://www.journals.elsevier.com/computers-and-industrial-engineering),**Elsevier**
+   * [Advances in Difference Equations](https://advancesindifferenceequations.springeropen.com/), **Springer Nature**
+   * [International Journal of Computational Intelligence Systems](https://www.atlantis-press.com/journals/ijcis),**Atlantis Press**
+   * [Journal of Industrial and Production Engineering](https://www.tandfonline.com/toc/tjci21/current),**Taylor and Francis Group**
    
   Conferences
    * The 20th Asia Pacific Industrial Engineering and Management Systems 
