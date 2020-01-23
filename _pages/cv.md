@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
- ======
+
 Education
  ======
  
@@ -17,7 +17,7 @@ Education
 * M.S. in Computer Applied Technology, Zhengzhou University (郑州大学), 2012.09-2015.06
 * Ph.D in Industrial Engineering, 	Pusan National University (부산대학교), 2015.09-2020.08 (expected)
 
-======
+
 Work Experiences
 ======
  
@@ -30,7 +30,7 @@ Work Experiences
   * University of Chinese Academy of Sciences (中国科学院大学)
     * Cloud Computing & Intelligent Information Processing Lab (云计算与智能信息处理实验室)
 
-======
+
 Awards and Honors
 ======
  
@@ -46,7 +46,7 @@ Awards and Honors
    * National Master Candidate. Scholarships of P.R.China (2014)
    * [More information >>>>](https://ieyjzhou.github.io/YanjieZhou/AwardsandHonors.html)
    
- ======
+
 Professional Activities
  ======
  
