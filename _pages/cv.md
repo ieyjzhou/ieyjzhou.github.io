@@ -22,13 +22,13 @@ Education
 Work Experiences
 ======
  
-* July.2013 ~ Apr.2015: Visiting student
-  * Zhejiang University (浙江大学)
+* Zhejiang University (浙江大学)
+  * Visiting student (July.2013 ~ Apr.2015) @
     * State Key Laboratory of CAD&CG (计算机辅助设计与图形学国家重点实验室)
     * Graphics and Parallel Systems Lab (图形与并行系统实验室)  
 
-* July.2012 ~ Sep. 2012: Visiting student
-  * University of Chinese Academy of Sciences (中国科学院大学)
+* University of Chinese Academy of Sciences (中国科学院大学)
+  * Visiting student (July.2012 ~ Sep. 2012) @
     * Cloud Computing & Intelligent Information Processing Lab (云计算与智能信息处理实验室)
 
 
