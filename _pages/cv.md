@@ -48,7 +48,9 @@ Professional Activities
    * Advances in Difference Equations 
    * International Journal of Computational Intelligence Systems  
    * Journal of Industrial and Production Engineering  
-  Reviewer (Conferences)
+  ******
+  Conferences
+  ******
    * The 20th Asia Pacific Industrial Engineering and Management Systems 
    * The 1nd International Conference of the Yangtze River Research and Innovation Belt 
   
