@@ -14,19 +14,19 @@ redirect_from:
 Education
 ======
  
-* B.S. in Computer Science, Zhengzhou University (郑州大学), 2008.09-2012.06
-* M.S. in Computer Applied Technology, Zhengzhou University (郑州大学), 2012.09-2015.06
-* Ph.D in Industrial Engineering, 	Pusan National University (부산대학교), 2015.09-2020.08 (expected)
+* B.S. in Computer Science, [Zhengzhou University (郑州大学)](http://www.zzu.edu.cn/), 2008.09-2012.06
+* M.S. in Computer Applied Technology, [Zhengzhou University (郑州大学)](http://www.zzu.edu.cn/), 2012.09-2015.06
+* Ph.D in Industrial Engineering, 	[Pusan National University (부산대학교)](http://www.pusan.ac.kr/), 2015.09-2020.08 (expected)
 
 
 Work Experiences
 ======
  
-* Zhejiang University (浙江大学),Visiting student, July.2013 ~ Apr.2015  
+* Visiting student, [Zhejiang University (浙江大学)](http://www.zju.edu.cn/), July.2013 ~ Apr.2015  
     * State Key Laboratory of CAD&CG (计算机辅助设计与图形学国家重点实验室)
     * Graphics and Parallel Systems Lab (图形与并行系统实验室)  
 
-* University of Chinese Academy of Sciences (中国科学院大学), Visiting student, July.2012 ~ Sep. 2012   
+* Visiting student, [University of Chinese Academy of Sciences (中国科学院大学)](https://www.ucas.ac.cn/), July.2012 ~ Sep. 2012   
     * Cloud Computing & Intelligent Information Processing Lab (云计算与智能信息处理实验室)
 
 
