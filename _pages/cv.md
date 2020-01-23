@@ -11,7 +11,7 @@ redirect_from:
 
 [English Version CV]() / [Chinese Version CV]()
 
-Education
+Educations
 ======
  
 * B.S. in Computer Science, [Zhengzhou University (郑州大学)](http://www.zzu.edu.cn/), 2008.09-2012.06
