@@ -8,13 +8,13 @@ redirect_from:
 ---
 
 {% include base_path %}
-
+******
 Education
 ******
 * B.S. in Computer Science, Zhengzhou University (郑州大学), 2008.09-2012.06
 * M.S. in Computer Applied Technology, Zhengzhou University (郑州大学), 2012.09-2015.06
 * Ph.D in Industrial Engineering, 	Pusan National University (부산대학교), 2015.09-2020.08 (expected)
-
+******
 Work Experiences
 ******
 * July.2013 ~ Apr.2015: Visiting student
@@ -25,7 +25,7 @@ Work Experiences
 * July.2012 ~ Sep. 2012: Visiting student
   * University of Chinese Academy of Sciences (中国科学院大学)
     * Cloud Computing & Intelligent Information Processing Lab (云计算与智能信息处理实验室)
-
+******
 Awards and Honors
 ******
    * Out Standing Paper Award of The Second International Conference of the Yangtze River Research and Innovation Belt (2019)  
@@ -40,7 +40,7 @@ Awards and Honors
    * National Master Candidate. Scholarships of P.R.China (2014)
    * [More information >>>>](https://ieyjzhou.github.io/YanjieZhou/AwardsandHonors.html)
    
-
+******
 Professional Activities
  ******
   Reviewer 
@@ -51,7 +51,8 @@ Professional Activities
    * International Journal of Computational Intelligence Systems  
    * Journal of Industrial and Production Engineering  
   ======
-   Conferences
+  
+  Conferences
    * The 20th Asia Pacific Industrial Engineering and Management Systems 
    * The 1nd International Conference of the Yangtze River Research and Innovation Belt 
   
