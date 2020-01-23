@@ -48,6 +48,7 @@ Professional Activities
    * Computer and Industrial Engineering (1)
    * Advances in Difference Equations (2)
    * International Journal of Computational Intelligence Systems (2)
+   * Journal of Industrial and Production Engineering (1)
    * The 20th Asia Pacific Industrial Engineering and Management Systems (7)
    * The 1nd International Conference of the Yangtze River Research and Innovation Belt (2)
   
