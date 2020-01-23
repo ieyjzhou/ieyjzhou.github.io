@@ -23,11 +23,11 @@ Work Experiences
 ======
  
 * Visiting student, [Zhejiang University (浙江大学)](http://www.zju.edu.cn/), July.2013 ~ Apr.2015  
-    * State Key Laboratory of CAD&CG (计算机辅助设计与图形学国家重点实验室)
-    * Graphics and Parallel Systems Lab (图形与并行系统实验室)  
+    * [State Key Laboratory of CAD&CG (计算机辅助设计与图形学国家重点实验室)](http://www.cad.zju.edu.cn/)
+    * [Graphics and Parallel Systems Lab (图形与并行系统实验室)](http://www.gaps-zju.org/)  
 
 * Visiting student, [University of Chinese Academy of Sciences (中国科学院大学)](https://www.ucas.ac.cn/), July.2012 ~ Sep. 2012   
-    * Cloud Computing & Intelligent Information Processing Lab (云计算与智能信息处理实验室)
+    * [Cloud Computing & Intelligent Information Processing Lab (云计算与智能信息处理实验室)](http://feds.ac.cn/)
 
 
 Awards and Honors
