@@ -52,10 +52,10 @@ Professional Activities
   Reviewer 
  
   Journals
-   * Computer and Industrial Engineering 
-   * Advances in Difference Equations 
-   * International Journal of Computational Intelligence Systems  
-   * Journal of Industrial and Production Engineering  
+   * [Computer and Industrial Engineering](https://www.journals.elsevier.com/computers-and-industrial-engineering) 
+   * [Advances in Difference Equations](https://advancesindifferenceequations.springeropen.com/) 
+   * [International Journal of Computational Intelligence Systems](https://www.atlantis-press.com/journals/ijcis)
+   * [Journal of Industrial and Production Engineering](https://www.tandfonline.com/toc/tjci21/current)
    
   Conferences
    * The 20th Asia Pacific Industrial Engineering and Management Systems 
