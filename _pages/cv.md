@@ -9,9 +9,10 @@ redirect_from:
 
 {% include base_path %}
 
+[English Version CV]() / [Chinese Version CV]()
 
 Education
- ======
+======
  
 * B.S. in Computer Science, Zhengzhou University (郑州大学), 2008.09-2012.06
 * M.S. in Computer Applied Technology, Zhengzhou University (郑州大学), 2012.09-2015.06
@@ -48,7 +49,7 @@ Awards and Honors
    
 
 Professional Activities
- ======
+======
  
   Reviewer 
  
