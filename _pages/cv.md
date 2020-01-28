@@ -46,19 +46,19 @@ Awards and Honors
    * [More information >>>>](https://ieyjzhou.github.io/YanjieZhou/AwardsandHonors.html)
    
 
-Professional Activities
+Academic Service
 ======
  
-  Reviewer 
- 
-  Journals
+  Journal Reviewer
    * [Computer and Industrial Engineering](https://www.journals.elsevier.com/computers-and-industrial-engineering), **Elsevier**
    * [Advances in Difference Equations](https://advancesindifferenceequations.springeropen.com/), **Springer Nature**
    * [International Journal of Computational Intelligence Systems](https://www.atlantis-press.com/journals/ijcis), **Atlantis Press**
    * [Journal of Industrial and Production Engineering](https://www.tandfonline.com/toc/tjci21/current), **Taylor and Francis Group**
    
-  Conferences
+  Conference Reviewer
    * The 20th Asia Pacific Industrial Engineering and Management Systems 
    * The 1nd International Conference of the Yangtze River Research and Innovation Belt 
   
+  Membership
+   * Korean Operations Research and Management Science Society
  
