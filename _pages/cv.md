@@ -60,5 +60,5 @@ Academic Service
    * The 1nd International Conference of the Yangtze River Research and Innovation Belt 
   
   Membership
-   * Korean Operations Research and Management Science Society
+   * [Korean Operations Research and Management Science Society](http://www.korms.or.kr), Regular Member 
  
