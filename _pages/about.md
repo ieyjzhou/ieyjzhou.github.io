@@ -13,9 +13,9 @@ I am a fifth-years Ph.D student advised by [Prof. Kap Hwan Kim](https://scholar.
 Educations
 ======
  
-* B.S. in Computer Science, [Zhengzhou University (郑州大学)](http://www.zzu.edu.cn/), 2008.09-2012.06
-* M.S. in Computer Applied Technology, [Zhengzhou University (郑州大学)](http://www.zzu.edu.cn/), 2012.09-2015.06
-* Ph.D in Industrial Engineering, 	[Pusan National University (부산대학교)](http://www.pusan.ac.kr/), 2015.09-2020.08 (expected)
+* B.S. in Computer Science, [Zhengzhou University (郑州大学)](http://www.zzu.edu.cn/), 2008.09 ~ 2012.06
+* M.S. in Computer Applied Technology, [Zhengzhou University (郑州大学)](http://www.zzu.edu.cn/), 2012.09 ~ 2015.06
+* Ph.D in Industrial Engineering, 	[Pusan National University (부산대학교)](http://www.pusan.ac.kr/), 2015.09 ~ 2020.08 (expected)
 
 
 Work Experiences
