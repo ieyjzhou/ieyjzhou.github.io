@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a fifth-years Ph.D student advised by [Prof. Kap Hwan Kim](https://scholar.google.com/citations?user=MRFdiCQAAAAJ&hl=en) in the Department of Industrial Engineering at [Pusan National University](http://www.pusan.ac.kr). Before that, I received my B.S. Degree and M.S. Degree in Computer Science and Computer Applied Technology from [Zhengzhou University](http://www.zzu.edu.cn) in 2012 and 2015 respectively.
+I am a fifth-years Ph.D student advised by [Prof. Kap Hwan Kim](https://scholar.google.com/citations?user=MRFdiCQAAAAJ&hl=en) in the Department of Industrial Engineering at [Pusan National University](http://www.pusan.ac.kr). Before that, I received my B.S. Degree and M.S. Degree in Computer Science and Computer Applied Technology from [Zhengzhou University](http://www.zzu.edu.cn) in 2012 and 2015,  respectively.
 
 Educations
 ======
