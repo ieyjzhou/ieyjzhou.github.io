@@ -52,7 +52,5 @@ Contact
  <iframe src="https://www.google.com/maps/d/embed?mid=1Rc8bf_-5XOlccvpL18x2lHHIcmj4-Wa8&hl=en" width="770" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
  
  
-<a href="http://info.flagcounter.com/opgi"><img src="http://s09.flagcounter.com/count2/opgi/bg_FFFFFF/txt_000000/border_CCCCCC/columns_8/maxflags_24/viewers_1/labels_1/pageviews_1/flags_1/percent_1/" alt="Flag Counter" border="0" width=905px ></a>
-
-![alt text](http://s09.flagcounter.com/count2/opgi/bg_FFFFFF/txt_000000/border_CCCCCC/columns_8/maxflags_24/viewers_1/labels_1/pageviews_1/flags_1/percent_1/)
+<a href="http://info.flagcounter.com/opgi"> ![alt text](http://s09.flagcounter.com/count2/opgi/bg_FFFFFF/txt_000000/border_CCCCCC/columns_8/maxflags_24/viewers_1/labels_1/pageviews_1/flags_1/percent_1/)</a>
  
