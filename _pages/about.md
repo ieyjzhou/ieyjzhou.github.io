@@ -12,10 +12,12 @@ I am a fifth-years Ph.D student advised by [Prof. Kap Hwan Kim](https://scholar.
 
 Educations
 ======
- 
-* B.S. in Computer Science, [Zhengzhou University (郑州大学)](http://www.zzu.edu.cn/), 2008.09 ~ 2012.06
-* M.S. in Computer Applied Technology, [Zhengzhou University (郑州大学)](http://www.zzu.edu.cn/), 2012.09 ~ 2015.06
 * Ph.D in Industrial Engineering, 	[Pusan National University (부산대학교)](http://www.pusan.ac.kr/), 2015.09 ~ 2020.08 (expected)
+  * Advisor Prof. Kap Hwan Kim [金甲焕](https://scholar.google.com/citations?user=MRFdiCQAAAAJ&hl=en) 
+* M.S. in Computer Applied Technology, [Zhengzhou University (郑州大学)](http://www.zzu.edu.cn/), 2012.09 ~ 2015.06
+  * Advisor Prof. Bing Zhou [周兵](http://xg.zzu.edu.cn/bdsd/1502183295270.jhtml)
+* B.S. in Computer Science, [Zhengzhou University (郑州大学)](http://www.zzu.edu.cn/), 2008.09 ~ 2012.06
+  * Advisor Prof. Lei Zhuang [庄雷](http://xg.zzu.edu.cn/bdsd/1502181273959.jhtml)
 
 
 Work Experiences
