@@ -24,7 +24,7 @@ minimize greenhouse gas emissions. **Sustainability**, 9(5), 776 **[PDF](https:/
 
 Conference Publications
 ------
-1. **Zhou, Y.**, & Kim, K. H. (2019). Competition and Cooperation among Vessel Carriers in Feeder Network Design The 2nd Y-RIB International Conference (December 1-3, 2019, Chongqing, China,<font color="red">Out Standing Paper Award<font>)
+1. **Zhou, Y.**, & Kim, K. H. (2019). Competition and Cooperation among Vessel Carriers in Feeder Network Design The 2nd Y-RIB International Conference (December 1-3, 2019, Chongqing, China. <font color="red">Out Standing Paper Award<font>)
 1. **Zhou, Y.**, & Kim, K. H. (2019). A note on optimizing the concession contracts for landlord port authorities to max-
 imise fee revenues. In The 4 th international conference of supply chain and technology innovation (ICOSTI 2019). (August
 13-15, 2019, Busan, Korea.)
