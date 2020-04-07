@@ -31,6 +31,7 @@ Work Experiences
 
 Selected Papers
 ======
+  * Zhou, Y., & Kim, K. H. (2020). A game theoretic model and a coevolutionary solution procedure to determine the terminal handling charges for container terminals. Computer & Industrial Engineering. (Accept)
   * Zhou, Y., & Kim, K. H. (2019). Optimal concession contract between a port authority and container-terminal operators by revenue-sharing schemes with quantity discount. Maritime Policy & Management. (Accept)
   * Zhou, Y., & Lee, G. M. (2018). Linking soft computing to art: Introduction of efficient k-continuous line drawing. Applied Soft Computing, 68, 932–943.
   * Gu, J., Zhou, Y., Das, A., Moon, I., & Lee, G. M. (2018). Medical relief shelter location problem with patient severity under a limited relief budget. Computers & Industrial Engineering, 125, 720–728.
