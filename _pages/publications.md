@@ -25,32 +25,29 @@ minimize greenhouse gas emissions. **Sustainability**, 9(5), 776 **[PDF](https:/
 Conference Publications
 ------
 1. **Zhou, Y.**, & Kim, K. H. (2019). A note on optimizing the concession contracts for landlord port authorities to max-
-imise fee revenues. In The 4 th international conference of supply chain and technology innovation (icosti 2019). (August
+imise fee revenues. In The 4 th international conference of supply chain and technology innovation (ICOSTI 2019). (August
 13-15, 2019, Busan, Korea.)
-1. **Zhou, Y.**, & Kim, K. H. (2019). Competition and collaboration among express delivery companies. In The 9th interna-
-tional conference on logistics and maritime systems (logms 2019). (August 14-16, 2019, Singapore, Singapore.)
+1. **Zhou, Y.**, & Kim, K. H. (2019). Competition and collaboration among express delivery companies. In The 9th international conference on logistics and maritime systems (LOGMS 2019). (August 14-16, 2019, Singapore, Singapore.)
 1. **Zhou, Y.**, & Kim, K. H. (2019). Optimal rental charge schedule between the port authority and container terminals
-under various contract schemes.. In The 27th annual conference of the international association of maritime economists
-2019 (iame 2019 ). (June 25-28, 2019, Athens, Greece.)
+under various contract schemes. In The 27th annual conference of the international association of maritime economists
+2019 (IAME 2019 ). (June 25-28, 2019, Athens, Greece.)
 1. **Zhou, Y.**, & Kim, K. H. (2019). Terminal location and sharing problem in a competitive environment. In The 4th belt
-and road initiative conference 2019(bri 2019). (August 1-3, 2019, Bangkok, Thailand.)
+and road initiative conference 2019(BRI 2019). (August 1-3, 2019, Bangkok, Thailand.)
 1. Gao, Y., Zhou, B., **Zhou, Y.**, Shi, L., Tao, Y., & Zhang, J. (2018). Transfer learning-based behavioural task decoding from
 brain activity. In The international conference on healthcare science and engineering (pp. 71–81). Springer. doi:10.1007/
 978-981-13-6837-0_6. (June 1-3, 2018, Guangxi, China.)
 1. **Zhou, Y.**, Choi, S.-H., & Kim, K. H. (2018). Determining rental charges by a port authority considering container han-
-dling prices by terminals. In The 19th asia pacific industrial engineering and management systems (apiems 2018). (Decem-
-ber 5-8, 2018, Hong Kong, China.)
+dling prices by terminals. In The 19th asia pacific industrial engineering and management systems (APIEMS 2018). (December 5-8, 2018, Hong Kong, China.)
 1. **Zhou, Y.**, & Kim, K. H. (2018). Optimal concession contract between the port authority and container terminals by a
-royalty fee scheme. In The 8th international conference on logistics and maritime systems (logms 2018). (December 9-12,
+royalty fee scheme. In The 8th international conference on logistics and maritime systems (LOGMS 2018). (December 9-12,
 2018, Guangzhou, China.)
 1. **Zhou, Y.**, Kim, K. H., & Kim, J. G. (2018). A coevolutionary approach to pricing container handles by container termi-
-nals. In The seventh international conference on transportation and logistics (7th t-log). (September 8-10, 2018, Dalian,
+nals. In The seventh international conference on transportation and logistics (7th T-LOG). (September 8-10, 2018, Dalian,
 China.)
 1. **Zhou, Y.**, & Lee, G. M. (2018). A robust mathematical model for capacity planning in semiconductor industry under
 demand uncertainty. In 2018 ieee international conference on smart manufacturing, industrial & logistics engineering.
 (February 7-9, 2018, Hsinchu, Taiwan.)
-1. Tuladhar, U. M., **Zhou, Y.**, Lee, G. M., & Ahn, S. (2017). Design and implementation of segmentation algorithm for artis-
-tic drawing using 2-axis computer numerical controller. In The 7th international conference on manufacturing, machine
+1. Tuladhar, U. M., **Zhou, Y.**, Lee, G. M., & Ahn, S. (2017). Design and implementation of segmentation algorithm for artistic drawing using 2-axis computer numerical controller. In The 7th international conference on manufacturing, machine
 design and tribology. (April 19-22, 2017, Jeju, Korea.)
 1. **Zhou, Y.**, Das, A., Gao, X., & Lee, G. M. (2017). A biobjective mathematical programming for medical relief shelter lo-
 cation problem. In The second global conference on theory and applications of or & om for sustainability. (September 6-8,
