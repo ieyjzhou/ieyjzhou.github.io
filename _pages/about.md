@@ -2,13 +2,13 @@
 permalink: /
 title: "About me"
 excerpt: "Yanjie Zhou 周艳杰"
-author_profile: true
+author_profile: false
 redirect_from: 
   - /about/
   - /about.html
 gallery:
-  - url: /images/20190119_123020.jpg
-    image_path: /images/20190119_123020.jpg
+  - url: ../images/20190119_123020.jpg
+    image_path: ../images/20190119_123020.jpg
     alt: "placeholder image 1"
     title: "Image 1 title caption"
 ---
