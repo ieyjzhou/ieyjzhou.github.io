@@ -61,4 +61,8 @@ Academic Services
   
   Membership
    * [Korean Operations Research and Management Science Society](http://www.korms.or.kr), Regular Member 
- 
+
+Contact
+======  
+ [46241] 부산광역시 금정구 부산대학로63번길 2(장전동) 공과대학 산업공학과 (특성화공학관 6층 615)
+ <iframe src="https://www.google.com/maps/d/embed?mid=1Rc8bf_-5XOlccvpL18x2lHHIcmj4-Wa8&hl=en" width="770" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
