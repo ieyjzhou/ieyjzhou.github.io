@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "About me"
+title: ""
 excerpt: "Yanjie Zhou 周艳杰"
 author_profile: true
 redirect_from: 
@@ -27,9 +27,16 @@ gallery:
     image_path: ../images/river.jpg
     alt: "Rivulet @金井山 2019-10-03"
     title: "金井山小溪"
- 
+   - url: ../images/lotus.jpg
+    image_path: ../images/lotus.jpg
+    alt: "Seoul 景福宫 2019-07-16"
+    title: "景福宫荷花"
+   - url: ../images/taejongdae.jpg
+    image_path: ../images/taejongdae.jpg
+    alt: "太宗台(태종대) 2019-06-30"
+    title: "太宗台绣球花"
 ---
-{% include gallery caption="This is a sample gallery with **Markdown support**." %}
+{% include gallery caption="I took these photos by a Samsung phone (Note 5) in 2019. [More photos>>](https://ieyjzhou.github.io/portfolio/)." %}
 
 I am a fifth-year Ph.D student in the Department of Industrial Engineering at [Pusan National University](http://www.pusan.ac.kr). Before that, I received my B.S. Degree and M.S. Degree in Computer Science and Computer Applied Technology from [Zhengzhou University](http://www.zzu.edu.cn) in 2012 and 2015,  respectively.
 
