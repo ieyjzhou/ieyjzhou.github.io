@@ -6,7 +6,13 @@ author_profile: true
 redirect_from: 
   - /about/
   - /about.html
+gallery:
+  - url: /images/20190119_123020.jpg
+    image_path: /images/20190119_123020.jpg
+    alt: "placeholder image 1"
+    title: "Image 1 title caption"
 ---
+{% include gallery caption="This is a sample gallery with **Markdown support**." %}
 
 I am a fifth-year Ph.D student in the Department of Industrial Engineering at [Pusan National University](http://www.pusan.ac.kr). Before that, I received my B.S. Degree and M.S. Degree in Computer Science and Computer Applied Technology from [Zhengzhou University](http://www.zzu.edu.cn) in 2012 and 2015,  respectively.
 
