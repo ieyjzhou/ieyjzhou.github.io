@@ -225,6 +225,7 @@ defaults:
       type: publications
     values:
       layout: single
+      classes: wide
       #author_profile: false
       share: true
       comments: true
@@ -234,6 +235,7 @@ defaults:
       type: portfolio
     values:
       layout: single
+      classes: wide
       #author_profile: false
       share: true
       comment: true
