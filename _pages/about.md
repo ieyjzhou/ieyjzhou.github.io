@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Aboubt me"
+title: "About me"
 excerpt: "Yanjie Zhou 周艳杰"
 author_profile: true
 redirect_from: 
@@ -35,7 +35,9 @@ gallery:
     image_path: ../images/taejongdae.jpg
     alt: "太宗台(태종대) 2019-06-30"
     title: "太宗台绣球花"
+    
 ---
+
 {% include gallery caption="I took these photos by a Samsung phone (Note 5) in 2019. [More photos>>](https://ieyjzhou.github.io/portfolio/)." %}
 
 I am a fifth-year Ph.D student in the Department of Industrial Engineering at [Pusan National University](http://www.pusan.ac.kr). Before that, I received my B.S. Degree and M.S. Degree in Computer Science and Computer Applied Technology from [Zhengzhou University](http://www.zzu.edu.cn) in 2012 and 2015,  respectively.
