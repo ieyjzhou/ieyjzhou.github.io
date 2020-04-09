@@ -1,16 +1,12 @@
 ---
 permalink: /
-title: "About me"
+title: ""
 excerpt: "Yanjie Zhou 周艳杰"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 gallery:
-  - url: ../images/20190119_123020.jpg
-    image_path: ../images/20190119_123020.jpg
-    alt: "広島／ひろしまし Hiroshima 2019-01-19"
-    title: "广岛一隅"
   - url: ../images/20191003_162855.jpg
     image_path: ../images/20191003_162855.jpg
     alt: "梵魚寺 (범어사) 2019-10-03"
@@ -39,6 +35,8 @@ gallery:
 
 {% include gallery caption="I took these photos by a Samsung phone (Note 5) in 2019. [More photos>>](https://ieyjzhou.github.io/portfolio/)." %}
 
+About me
+======
 I am a fifth-year Ph.D student in the Department of Industrial Engineering at [Pusan National University](http://www.pusan.ac.kr). Before that, I received my B.S. Degree and M.S. Degree in Computer Science and Computer Applied Technology from [Zhengzhou University](http://www.zzu.edu.cn) in 2012 and 2015,  respectively.
 
 Educations
