@@ -32,9 +32,6 @@ gallery:
     alt: "太宗台(태종대) 2019-06-30"
     title: "太宗台绣球花"
 ---
-
-{% include gallery caption="I took these photos by a Samsung phone (Note 5) in 2019. [More photos>>](https://ieyjzhou.github.io/portfolio/)." %}
-
 About me
 ======
 I am a fifth-year Ph.D student in the Department of Industrial Engineering at [Pusan National University](http://www.pusan.ac.kr). Before that, I received my B.S. Degree and M.S. Degree in Computer Science and Computer Applied Technology from [Zhengzhou University](http://www.zzu.edu.cn) in 2012 and 2015,  respectively.
@@ -79,10 +76,9 @@ Awards and Honors
    * State-Sponsored Scholarship Program for Graduate Students (China Scholarship Council) (2016) 
    * [More awards and honors >>>>](https://ieyjzhou.github.io/YanjieZhou/AwardsandHonors.html)
    
-Contact
+Photos
 ======  
- [46241] 부산광역시 금정구 부산대학로63번길 2(장전동) 공과대학 산업공학과 (특성화공학관 6층 615)
- <iframe src="https://www.google.com/maps/d/embed?mid=1Rc8bf_-5XOlccvpL18x2lHHIcmj4-Wa8&hl=en" width="770" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
+{% include gallery caption="I took these photos by a Samsung phone (Note 5) in 2019. [More photos>>](https://ieyjzhou.github.io/portfolio/)." %}
  
  
 <a href="http://info.flagcounter.com/opgi"> ![alt text](http://s09.flagcounter.com/count2/opgi/bg_FFFFFF/txt_000000/border_CCCCCC/columns_8/maxflags_24/viewers_1/labels_1/pageviews_1/flags_1/percent_1/)</a>
