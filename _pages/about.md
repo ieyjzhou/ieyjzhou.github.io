@@ -2,15 +2,32 @@
 permalink: /
 title: "About me"
 excerpt: "Yanjie Zhou 周艳杰"
-author_profile: false
+author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 gallery:
   - url: ../images/20190119_123020.jpg
     image_path: ../images/20190119_123020.jpg
-    alt: "placeholder image 1"
-    title: "Image 1 title caption"
+    alt: "広島／ひろしまし Hiroshima 2019-01-19"
+    title: "广岛一隅"
+  - url: ../images/20191003_162855.jpg
+    image_path: ../images/20191003_162855.jpg
+    alt: "梵魚寺 (범어사) 2019-10-03"
+    title: "梵魚寺"
+  - url: ../images/Chinju.jpg
+    image_path: ../images/Chinju.jpg
+    alt: "진주시 2019-10-04"
+    title: "Night view of Chokseongnu Pavilion in Jinju"
+  - url: ../images/azalea.jpg
+    image_path: ../images/azalea.jpg
+    alt: "Azalea (PNU) 2019-04-23"
+    title: "釜山大学杜鹃花"
+  - url: ../images/river.jpg
+    image_path: ../images/river.jpg
+    alt: "Rivulet @金井山 2019-10-03"
+    title: "金井山小溪"
+ 
 ---
 {% include gallery caption="This is a sample gallery with **Markdown support**." %}
 
