@@ -11,6 +11,10 @@ gallery:
     image_path: ../images/20191003_162855.jpg
     alt: "梵魚寺 (범어사) 2019-10-03"
     title: "梵魚寺"
+  - url: ../images/river.jpg
+    image_path: ../images/river.jpg
+    alt: "Rivulet @金井山 2019-10-03"
+    title: "金井山小溪"    
   - url: ../images/Chinju.jpg
     image_path: ../images/Chinju.jpg
     alt: "진주시 2019-10-04"
@@ -19,10 +23,6 @@ gallery:
     image_path: ../images/azalea.jpg
     alt: "Azalea (PNU) 2019-04-23"
     title: "釜山大学杜鹃花"
-  - url: ../images/river.jpg
-    image_path: ../images/river.jpg
-    alt: "Rivulet @金井山 2019-10-03"
-    title: "金井山小溪"
   - url: ../images/lotus.jpg
     image_path: ../images/lotus.jpg
     alt: "Seoul 景福宫 2019-07-16"
