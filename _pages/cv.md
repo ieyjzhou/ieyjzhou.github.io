@@ -51,6 +51,7 @@ Academic Services
  
   Journal Reviewer
    * [Computer and Industrial Engineering](https://www.journals.elsevier.com/computers-and-industrial-engineering), **Elsevier**
+   * [Maritime Policy & Management](https://www.tandfonline.com/toc/tmpm20/current), **Taylor and Francis Group**
    * [Advances in Difference Equations](https://advancesindifferenceequations.springeropen.com/), **Springer Nature**
    * [International Journal of Computational Intelligence Systems](https://www.atlantis-press.com/journals/ijcis), **Atlantis Press**
    * [Journal of Industrial and Production Engineering](https://www.tandfonline.com/toc/tjci21/current), **Taylor and Francis Group**
