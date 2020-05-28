@@ -39,6 +39,7 @@ I am a fifth-year Ph.D student in the Department of Industrial Engineering at [P
 Educations
 ======
 
+|||||
 |----------------- | :---------------------------------: | -----------------------------------------------------------: | -----------------------------------------------------------: |
 |2015.09 ~ 2020.08 |   Ph.D in Industrial Engineering    | [Pusan National University (부산대학교)](http://www.pusan.ac.kr/)<br>Advisor Prof. Kap Hwan Kim [(金甲焕教授)](https://scholar.google.com/citations?user=MRFdiCQAAAAJ&hl=en) | ![pnu](http://www.pusan.ac.kr/_contents/kor/_Img/Layout/logo.png) |
 |2012.09 ~ 2015.06 | M.S. in Computer Applied Technology | [Zhengzhou University (郑州大学)](http://www.zzu.edu.cn/)<br>Advisor Prof. Bing Zhou [(周兵教授)](http://xg.zzu.edu.cn/bdsd/1502183295270.jhtml) |                ![zzu](http://www.zzu.edu.cn/images/logo.png) |
