@@ -38,15 +38,17 @@ I am a fifth-year Ph.D student in the Department of Industrial Engineering at [P
 
 Educations
 ======
-2015.09 ~ 2020.08 | Ph.D in Industrial Engineering | [Pusan National University (부산대학교)](http://www.pusan.ac.kr/)<br>Advisor Prof. Kap Hwan Kim [(金甲焕教授)](https://scholar.google.com/citations?user=MRFdiCQAAAAJ&hl=en) | ![pnu](http://www.pusan.ac.kr/_contents/kor/_Img/Layout/logo.png) 
-2012.09 ~ 2015.06 | M.S. in Computer Applied Technology | [Zhengzhou University (郑州大学)](http://www.zzu.edu.cn/)<br>Advisor Prof. Bing Zhou [(周兵教授)](http://xg.zzu.edu.cn/bdsd/1502183295270.jhtml) | ![zzu](http://www.zzu.edu.cn/images/logo.png)
-2008.09 ~ 2012.06 | B.S. in Computer Science|[Zhengzhou University (郑州大学)](http://www.zzu.edu.cn/)<br>Advisor Prof. Lei Zhuang [(庄雷教授)](http://xg.zzu.edu.cn/bdsd/1502181273959.jhtml) | ![zzu](http://www.zzu.edu.cn/images/logo.png)
+|2015.09 ~ 2020.08 | Ph.D in Industrial Engineering | [Pusan National University (부산대학교)](http://www.pusan.ac.kr/)<br>Advisor Prof. Kap Hwan Kim [(金甲焕教授)](https://scholar.google.com/citations?user=MRFdiCQAAAAJ&hl=en) | ![pnu](http://www.pusan.ac.kr/_contents/kor/_Img/Layout/logo.png) |
+|----------|:-------------:|------:|------:|
+|2012.09 ~ 2015.06 | M.S. in Computer Applied Technology | [Zhengzhou University (郑州大学)](http://www.zzu.edu.cn/)<br>Advisor Prof. Bing Zhou [(周兵教授)](http://xg.zzu.edu.cn/bdsd/1502183295270.jhtml) | ![zzu](http://www.zzu.edu.cn/images/logo.png)|
+|2008.09 ~ 2012.06 | B.S. in Computer Science|[Zhengzhou University (郑州大学)](http://www.zzu.edu.cn/)<br>Advisor Prof. Lei Zhuang [(庄雷教授)](http://xg.zzu.edu.cn/bdsd/1502181273959.jhtml) | ![zzu](http://www.zzu.edu.cn/images/logo.png)|
 
 Work Experiences
 ======
- 
-July.2013 ~ Apr.2015 | Research Intern | [Zhejiang University (浙江大学)](http://www.zju.edu.cn/)<br>[State Key Laboratory of CAD&CG (计算机辅助设计与图形学国家重点实验室)](http://www.cad.zju.edu.cn/)<br>[Graphics and Parallel Systems Lab (图形与并行系统实验室)](http://www.gaps-zju.org/)  | ![zjulogo](http://www.zju.edu.cn/_upload/tpl/05/e5/1509/template1509/wap_res/logo.png)
-July.2012 ~ Sep. 2012 | Research Intern | [University of Chinese Academy of Sciences (中国科学院大学)](https://www.ucas.ac.cn/)<br>[Cloud Computing & Intelligent Information Processing Lab (云计算与智能信息处理实验室)](http://feds.ac.cn/) | ![cas](http://www.cas.cn/images/z19_logo.png)
+
+|July.2013 ~ Apr.2015 | Research Intern | [Zhejiang University (浙江大学)](http://www.zju.edu.cn/)<br>[State Key Laboratory of CAD&CG (计算机辅助设计与图形学国家重点实验室)](http://www.cad.zju.edu.cn/)<br>[Graphics and Parallel Systems Lab (图形与并行系统实验室)](http://www.gaps-zju.org/)  | ![zjulogo](http://www.zju.edu.cn/_upload/tpl/05/e5/1509/template1509/wap_res/logo.png)|
+|----------|:-------------:|------:|------:|
+|July.2012 ~ Sep. 2012 | Research Intern | [University of Chinese Academy of Sciences (中国科学院大学)](https://www.ucas.ac.cn/)<br>[Cloud Computing & Intelligent Information Processing Lab (云计算与智能信息处理实验室)](http://feds.ac.cn/) | ![cas](http://www.cas.cn/images/z19_logo.png)|
 
 Selected Papers
 ======
