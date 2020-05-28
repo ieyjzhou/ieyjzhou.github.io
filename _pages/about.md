@@ -46,8 +46,8 @@ Educations
   * Advisor Prof. Lei Zhuang [(庄雷教授)](http://xg.zzu.edu.cn/bdsd/1502181273959.jhtml) 
 
 |2015.09 ~ 2020.08 | Ph.D in Industrial Engineering | [Pusan National University (부산대학교)](http://www.pusan.ac.kr/)<br>Advisor Prof. Kap Hwan Kim [(金甲焕教授)](https://scholar.google.com/citations?user=MRFdiCQAAAAJ&hl=en) | <img src="https://www.mathworks.com/academia/tah-portal/pusan-national-university-40788303/_jcr_content/schoolLogo.adapt.full.low.jpg/1578491734060.jpg" alt="Pusan National University - MATLAB Access for Everyone - MATLAB ..." style="zoom:33%;" /> |
-|2012.09 ~ 2015.06|M.S. in Computer Applied Technology|[Zhengzhou University (郑州大学)](http://www.zzu.edu.cn/)<br>Advisor Prof. Bing Zhou [(周兵教授)](http://xg.zzu.edu.cn/bdsd/1502183295270.jhtml) |
-|2008.09 ~ 2012.06|B.S. in Computer Science|[Zhengzhou University (郑州大学)](http://www.zzu.edu.cn/)<br>Advisor Prof. Lei Zhuang [(庄雷教授)](http://xg.zzu.edu.cn/bdsd/1502181273959.jhtml) |
+|2012.09 ~ 2015.06|M.S. in Computer Applied Technology|[Zhengzhou University (郑州大学)](http://www.zzu.edu.cn/)<br>Advisor Prof. Bing Zhou [(周兵教授)](http://xg.zzu.edu.cn/bdsd/1502183295270.jhtml) ||
+|2008.09 ~ 2012.06|B.S. in Computer Science|[Zhengzhou University (郑州大学)](http://www.zzu.edu.cn/)<br>Advisor Prof. Lei Zhuang [(庄雷教授)](http://xg.zzu.edu.cn/bdsd/1502181273959.jhtml) ||
 
 Work Experiences
 ======
