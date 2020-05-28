@@ -40,7 +40,7 @@ Educations
 ======
 
 
-|2015.09 ~ 2020.08 |   Ph.D in Industrial Engineering    | [Pusan National University](http://www.pusan.ac.kr/)<br>Advisor Prof. Kap Hwan Kim](https://scholar.google.com/citations?user=MRFdiCQAAAAJ&hl=en) | ![pnu](http://www.pusan.ac.kr/_contents/kor/_Img/Layout/logo.png) |
+|2015.09 ~ 2020.08 |   Ph.D in Industrial Engineering    | [Pusan National University](http://www.pusan.ac.kr/)<br>Advisor Prof. [Kap Hwan Kim](https://scholar.google.com/citations?user=MRFdiCQAAAAJ&hl=en) | ![pnu](http://www.pusan.ac.kr/_contents/kor/_Img/Layout/logo.png) |
 |2012.09 ~ 2015.06 | M.S. in Computer Applied Technology | [Zhengzhou University](http://www.zzu.edu.cn/)<br>Advisor Prof. [Bing Zhou](http://xg.zzu.edu.cn/bdsd/1502183295270.jhtml) |                ![zzu](http://www.zzu.edu.cn/images/logo.png) |
 |2008.09 ~ 2012.06 |      B.S. in Computer Science       | [Zhengzhou University](http://www.zzu.edu.cn/)<br>Advisor Prof. [Lei Zhuang](http://xg.zzu.edu.cn/bdsd/1502181273959.jhtml) |                ![zzu](http://www.zzu.edu.cn/images/logo.png) |
 
@@ -48,8 +48,8 @@ Work Experiences
 ======
 
 
-|July.2013 ~ Apr.2015 | Research Intern | [Zhejiang University](http://www.zju.edu.cn/)<br>[State Key Laboratory of CAD&CG ](http://www.cad.zju.edu.cn/)<br>[Graphics and Parallel Systems Lab](http://www.gaps-zju.org/)  | ![zjulogo](../images/logo_sm.jpg)|
-|July.2012 ~ Sep. 2012 | Research Intern | [University of Chinese Academy of Sciences](https://www.ucas.ac.cn/)<br>[Cloud Computing & Intelligent Information Processing Lab](http://feds.ac.cn/) | ![cas](http://www.cas.cn/images/z19_logo.png)|
+|2013.07 ~ 2015.04 | Research Intern | [Zhejiang University](http://www.zju.edu.cn/)<br>[State Key Laboratory of CAD&CG ](http://www.cad.zju.edu.cn/)<br>[Graphics and Parallel Systems Lab](http://www.gaps-zju.org/)  | ![zjulogo](../images/logo_sm.jpg)|
+|2012.07 ~ 20120.9 | Research Intern | [University of Chinese Academy of Sciences](https://www.ucas.ac.cn/)<br>[Cloud Computing & Intelligent Information Processing Lab](http://feds.ac.cn/) | ![cas](http://www.cas.cn/images/z19_logo.png)|
 
 Selected Papers
 ======
