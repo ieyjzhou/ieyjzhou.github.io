@@ -46,9 +46,9 @@ Educations
 Work Experiences
 ======
 
-|July.2013 ~ Apr.2015 | Research Intern | [Zhejiang University (浙江大学)](http://www.zju.edu.cn/)<br>[State Key Laboratory of CAD&CG (计算机辅助设计与图形学国家重点实验室)](http://www.cad.zju.edu.cn/)<br>[Graphics and Parallel Systems Lab (图形与并行系统实验室)](http://www.gaps-zju.org/)  | ![zjulogo](http://www.zju.edu.cn/_upload/tpl/05/e5/1509/template1509/wap_res/logo.png)|
+|July.2013 ~ Apr.2015 | Research Intern | [Zhejiang University (浙江大学)](http://www.zju.edu.cn/)<br>[State Key Laboratory of CAD&CG (计算机辅助设计与图形学国家重点实验室)](http://www.cad.zju.edu.cn/)<br>[Graphics and Parallel Systems Lab (图形与并行系统实验室)](http://www.gaps-zju.org/)  | ![zjulogo](../images/logo_sm.jpg)|
 |----------|:-------------:|------:|------:|
-|July.2012 ~ Sep. 2012 | Research Intern | [University of Chinese Academy of Sciences (中国科学院大学)](https://www.ucas.ac.cn/)<br>[Cloud Computing & Intelligent Information Processing Lab (云计算与智能信息处理实验室)](http://feds.ac.cn/) | ![cas](../images/logo_sm.jpg)|
+|July.2012 ~ Sep. 2012 | Research Intern | [University of Chinese Academy of Sciences (中国科学院大学)](https://www.ucas.ac.cn/)<br>[Cloud Computing & Intelligent Information Processing Lab (云计算与智能信息处理实验室)](http://feds.ac.cn/) | ![cas](http://www.cas.cn/images/z19_logo.png)|
 
 Selected Papers
 ======
