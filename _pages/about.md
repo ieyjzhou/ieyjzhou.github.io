@@ -47,8 +47,7 @@ Educations
 Work Experiences
 ======
 
-|||||
-|----------|:-------------:|------:|------:|
+
 |July.2013 ~ Apr.2015 | Research Intern | [Zhejiang University](http://www.zju.edu.cn/)<br>[State Key Laboratory of CAD&CG ](http://www.cad.zju.edu.cn/)<br>[Graphics and Parallel Systems Lab](http://www.gaps-zju.org/)  | ![zjulogo](../images/logo_sm.jpg)|
 |July.2012 ~ Sep. 2012 | Research Intern | [University of Chinese Academy of Sciences](https://www.ucas.ac.cn/)<br>[Cloud Computing & Intelligent Information Processing Lab](http://feds.ac.cn/) | ![cas](http://www.cas.cn/images/z19_logo.png)|
 
