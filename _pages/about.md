@@ -50,13 +50,13 @@ Educations
     <td style="border-collapse: collapse; border: none;">2012.09 ~ 2015.06 </td>    
     <td style="border-collapse: collapse; border: none;">M.S. in Computer Applied Technology</td>    
     <td style="border-collapse: collapse; border: none;"><a href="http://www.zzu.edu.cn/">Zhengzhou University</a><br>Advisor Prof. <a href="http://xg.zzu.edu.cn/bdsd/1502183295270.jhtml">Bing Zhou</a> </td>  
-    <td style="border-collapse: collapse; border: none;"><a href="http://www.zzu.edu.cn/"> <img src="http://www.zzu.edu.cn/images/logo.png" alt="Zhengzhou University"></a> </td>  
+    <td style="border-collapse: collapse; border: none;"><a href="http://www.zzu.edu.cn/"> <img src="../images/zzulogo.jpg" alt="Zhengzhou University"></a> </td>  
   </tr> 
  <tr style="border-collapse: collapse; border: none;">    
     <td style="border-collapse: collapse; border: none;">2008.09 ~ 2012.06 </td>    
     <td style="border-collapse: collapse; border: none;">B.S. in Computer Science </td>    
     <td style="border-collapse: collapse; border: none;"><a href="http://www.zzu.edu.cn/">Zhengzhou University</a><br>Advisor Prof. <a href="http://xg.zzu.edu.cn/bdsd/1502181273959.jhtml">Lei Zhuang</a> </td>  
-    <td style="border-collapse: collapse; border: none;"><a href="http://www.zzu.edu.cn/"> <img src="http://www.zzu.edu.cn/images/logo.png" alt="Zhengzhou University"></a> </td>  
+    <td style="border-collapse: collapse; border: none;"><a href="http://www.zzu.edu.cn/"> <img src="../images/zzulogo.jpg" alt="Zhengzhou University"></a> </td>  
   </tr> 
   </table>
 
@@ -71,14 +71,14 @@ Work Experiences
     <td style="border-collapse: collapse; border: none;">Research Intern </td>    
     <td style="border-collapse: collapse; border: none;"><a href="http://www.zju.edu.cn/">Zhejiang University</a><br>  <a href="http://www.cad.zju.edu.cn/">State Key Laboratory of CAD&CG</a> 
    <br>  <a href="http://www.gaps-zju.org/">Graphics and Parallel Systems Lab</a> </td>  
-    <td style="border-collapse: collapse; border: none;"><a href="http://www.zju.edu.cn/"> <img src="../images/logo_sm.jpg" alt="Zhejiang University"></a> </td>  
+    <td style="border-collapse: collapse; border: none;"><a href="http://www.zju.edu.cn/"> <img src="../images/zjulogo.jpg" alt="Zhejiang University"></a> </td>  
   </tr>  
    <tr style="border-collapse: collapse; border: none;">    
     <td style="border-collapse: collapse; border: none;">2012.07 ~ 2012.09 </td>    
     <td style="border-collapse: collapse; border: none;">Research Intern </td>    
     <td style="border-collapse: collapse; border: none;"><a href="https://www.ucas.ac.cn/">University of Chinese Academy of Sciences</a><br>  <a href="http://feds.ac.cn/">Cloud Computing & Intelligent Information Processing Lab</a> 
   </td>  
-    <td style="border-collapse: collapse; border: none;"><a href="https://www.ucas.ac.cn/"> <img src="http://www.cas.cn/images/z19_logo.png" alt="University of Chinese Academy of Sciences"></a> </td>  
+    <td style="border-collapse: collapse; border: none;"><a href="https://www.ucas.ac.cn/"> <img src="../images/UCAS_Logo.png" alt="University of Chinese Academy of Sciences"></a> </td>  
   </tr>  
   
 
