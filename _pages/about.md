@@ -35,7 +35,7 @@ gallery:
 News
 ======
 
-I going to join the School of Management Engineering at Zhengzhou University as an Assistant Professor in September. 
+I am going to join the School of Management Engineering at Zhengzhou University as an Assistant Professor in September. 
 <font color="red">I am looking for undergraduate students! </font>     
 Criteria: self-motivated, hardworking....<br>
 Background: computer science; math; industrial engineering; management science and engineering....<br>
