@@ -40,14 +40,13 @@ I am looking for undergraduate students!
 Criteria: self-motivated, hardworking, background in computer science; math; industrial engineering; management science and engineering.
 Ensure that you have covered at least one of the listed skills.
 - Programming language: C/C++; Java; Python; Matalab...
-- Solver: Cplex; Lingo; Gurobi 
-- Optimization: linear programming/ mixed integer programming/ non-linear programming
+- Solver: Cplex; Lingo; Gurobi... 
+- Optimization: linear programming/ mixed integer programming/ non-linear programming...
 
 If you are at ZZU: 
-Please directly email me with your CV and a brief introduction of the project you did before.
+Please directly email me with your CV and a brief introduction of the project you did before.<br>
 If you are not yet at ZZU:
-Apply to School of Management Engineering's M.S. program (Graduate School of Zhengzhou University: http://gs.zzu.edu.cn/).
-
+Apply to School of Management Engineering's M.S. program (Graduate School of Zhengzhou University: http://gs.zzu.edu.cn/).<br>
 Email: y.j.zhou.g@gmail.com
 
 About me
