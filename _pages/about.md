@@ -45,7 +45,26 @@ Educations
 |2008.09 ~ 2012.06 |      B.S. in Computer Science       | [Zhengzhou University](http://www.zzu.edu.cn/)<br>Advisor Prof. [Lei Zhuang](http://xg.zzu.edu.cn/bdsd/1502181273959.jhtml) |                ![zzu](http://www.zzu.edu.cn/images/logo.png) |
 
 
-<table   style="border-collapse: collapse; border: none;">  <tr style="border-collapse: collapse; border: none;">    <th style="border-collapse: collapse; border: none;">Firstname</th>    <th style="border-collapse: collapse; border: none;">Lastname</th>    <th>Age</th>  </tr>  <tr>    <td>Jill</td>    <td>Smith</td>    <td>50</td>  </tr>  <tr>    <td>Eve</td>    <td>Jackson</td>    <td>94</td>  </tr></table>
+<table   style="border-collapse: collapse; border: none;">  
+  <tr style="border-collapse: collapse; border: none;">    
+    <th style="border-collapse: collapse; border: none;">2015.09 ~ 2020.08</th>    
+    <th style="border-collapse: collapse; border: none;">Ph.D in Industrial Engineering</th>    
+    <th style="border-collapse: collapse; border: none;">[Pusan National University](http://www.pusan.ac.kr/)<br>Advisor Prof. [Kap Hwan Kim](https://scholar.google.com/citations?user=MRFdiCQAAAAJ&hl=en) </th>  
+    <th style="border-collapse: collapse; border: none;">![pnu](http://www.pusan.ac.kr/_contents/kor/_Img/Layout/logo.png) </th>  
+  </tr>  
+   <tr style="border-collapse: collapse; border: none;">    
+    <th style="border-collapse: collapse; border: none;">2015.09 ~ 2020.08</th>    
+    <th style="border-collapse: collapse; border: none;">Ph.D in Industrial Engineering</th>    
+    <th style="border-collapse: collapse; border: none;">[Pusan National University](http://www.pusan.ac.kr/)<br>Advisor Prof. [Kap Hwan Kim](https://scholar.google.com/citations?user=MRFdiCQAAAAJ&hl=en) </th>  
+    <th style="border-collapse: collapse; border: none;">![pnu](http://www.pusan.ac.kr/_contents/kor/_Img/Layout/logo.png) </th>  
+  </tr>  
+   <tr style="border-collapse: collapse; border: none;">    
+    <th style="border-collapse: collapse; border: none;">2015.09 ~ 2020.08</th>    
+    <th style="border-collapse: collapse; border: none;">Ph.D in Industrial Engineering</th>    
+    <th style="border-collapse: collapse; border: none;">[Pusan National University](http://www.pusan.ac.kr/)<br>Advisor Prof. [Kap Hwan Kim](https://scholar.google.com/citations?user=MRFdiCQAAAAJ&hl=en) </th>  
+    <th style="border-collapse: collapse; border: none;">![pnu](http://www.pusan.ac.kr/_contents/kor/_Img/Layout/logo.png) </th>  
+  </tr>  
+  </table>
 
 
 Work Experiences
