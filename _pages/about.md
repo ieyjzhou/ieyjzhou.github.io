@@ -76,7 +76,7 @@ Work Experiences
    <tr style="border-collapse: collapse; border: none;">    
     <td style="border-collapse: collapse; border: none;">2012.07 ~ 2012.09 </td>    
     <td style="border-collapse: collapse; border: none;">Research Intern </td>    
-    <td style="border-collapse: collapse; border: none;"><a href="https://www.ucas.ac.cn/">University of Chinese Academy of Sciences</a><br>  <a href="http://feds.ac.cn/">Cloud Computing & Intelligent Information Processing Lab</a> 
+    <td style="border-collapse: collapse; border: none;"><a href="https://www.ucas.ac.cn/">University of Chinese Academy of Sciences</a><br>  <a href="http://feds.ac.cn/">Cloud Computing & <br>Intelligent Information Processing Lab</a> 
   </td>  
     <td style="border-collapse: collapse; border: none;"><a href="https://www.ucas.ac.cn/"> <img src="../images/UCAS_Logo.png" alt="University of Chinese Academy of Sciences"></a> </td>  
   </tr>  
