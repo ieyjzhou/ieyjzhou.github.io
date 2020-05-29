@@ -32,6 +32,24 @@ gallery:
     alt: "太宗台(태종대) 2019-06-30"
     title: "太宗台绣球花"
 ---
+News
+======
+
+I going to join the School of Management Engineering at Zhengzhou University as an Assistant Professor in September. 
+I am looking for undergraduate students!    
+Criteria: self-motivated, hardworking, background in computer science; math; industrial engineering; management science and engineering.
+Ensure that you have covered at least one of the listed skills.
+- Programming language: C/C++; Java; Python; Matalab...
+- Solver: Cplex; Lingo; Gurobi 
+- Optimization: linear programming/ mixed integer programming/ non-linear programming
+
+If you are at ZZU: 
+Please directly email me with your CV and a brief introduction of the project you did before.
+If you are not yet at ZZU:
+Apply to School of Management Engineering's M.S. program (Graduate School of Zhengzhou University: http://gs.zzu.edu.cn/).
+
+Email: y.j.zhou.g@gmail.com
+
 About me
 ======
 I am a fifth-year Ph.D student in the Department of Industrial Engineering at [Pusan National University](http://www.pusan.ac.kr). Before that, I received my B.S. Degree and M.S. Degree in Computer Science and Computer Applied Technology from [Zhengzhou University](http://www.zzu.edu.cn) in 2012 and 2015,  respectively.
