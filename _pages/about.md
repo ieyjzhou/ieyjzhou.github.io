@@ -59,7 +59,7 @@ Educations
     <td style="border-collapse: collapse; border: none;"><a href="http://www.zzu.edu.cn/">Zhengzhou University</a><br>Advisor Prof. <a href="http://xg.zzu.edu.cn/bdsd/1502183295270.jhtml">Bing Zhou</a> </td>  
     <td style="border-collapse: collapse; border: none;"><a href="http://www.zzu.edu.cn/"> <img src="../images/zzulogo.png" alt="Zhengzhou University"></a> </td>  
   </tr> 
-   </tr>  
+    
    <tr style="border-collapse: collapse; border: none;">    
     <td style="border-collapse: collapse; border: none;">2012.07 ~ 2012.09 </td>    
     <td style="border-collapse: collapse; border: none;">Research Intern </td>    
@@ -75,30 +75,6 @@ Educations
   </tr> 
   </table>
 
-
-Work Experiences
-======
-  
-<table   style="border-collapse: collapse; border: none;">  
-  
-   <tr style="border-collapse: collapse; border: none;">    
-    <td style="border-collapse: collapse; border: none;">2013.07 ~ 2015.04 </td>    
-    <td style="border-collapse: collapse; border: none;">Research Intern </td>    
-    <td style="border-collapse: collapse; border: none;"><a href="http://www.zju.edu.cn/">Zhejiang University</a><br>  <a href="http://www.cad.zju.edu.cn/">State Key Laboratory of CAD&CG</a> 
-   <br>  <a href="http://www.gaps-zju.org/">Graphics and Parallel Systems Lab</a> </td>  
-    <td style="border-collapse: collapse; border: none;"><a href="http://www.zju.edu.cn/"> <img src="../images/zjulogo.jpg" alt="Zhejiang University"></a> </td>  
-  </tr>  
-   <tr style="border-collapse: collapse; border: none;">    
-    <td style="border-collapse: collapse; border: none;">2012.07 ~ 2012.09 </td>    
-    <td style="border-collapse: collapse; border: none;">Research Intern </td>    
-    <td style="border-collapse: collapse; border: none;"><a href="https://www.ucas.ac.cn/">University of Chinese Academy of Sciences</a><br>  <a href="http://feds.ac.cn/">Cloud Computing & <br>Intelligent Information Processing Lab</a> 
-  </td>  
-    <td style="border-collapse: collapse; border: none;"><a href="https://www.ucas.ac.cn/"> <img src="../images/UCAS_Logo.png" alt="University of Chinese Academy of Sciences"></a> </td>  
-  </tr>  
-  
-
-  </table>
- 
  
 Selected Papers
 ======
