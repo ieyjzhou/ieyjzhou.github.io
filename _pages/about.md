@@ -44,7 +44,9 @@ Educations
 |2012.09 ~ 2015.06 | M.S. in Computer Applied Technology | [Zhengzhou University](http://www.zzu.edu.cn/)<br>Advisor Prof. [Bing Zhou](http://xg.zzu.edu.cn/bdsd/1502183295270.jhtml) |                ![zzu](http://www.zzu.edu.cn/images/logo.png) |
 |2008.09 ~ 2012.06 |      B.S. in Computer Science       | [Zhengzhou University](http://www.zzu.edu.cn/)<br>Advisor Prof. [Lei Zhuang](http://xg.zzu.edu.cn/bdsd/1502181273959.jhtml) |                ![zzu](http://www.zzu.edu.cn/images/logo.png) |
 
-<table   style="border-collapse: collapse; border: none;">  <tr>    <th>Firstname</th>    <th>Lastname</th>    <th>Age</th>  </tr>  <tr>    <td>Jill</td>    <td>Smith</td>    <td>50</td>  </tr>  <tr>    <td>Eve</td>    <td>Jackson</td>    <td>94</td>  </tr></table>
+
+<table   style="border-collapse: collapse; border: none;">  <tr style="border-collapse: collapse; border: none;">    <th style="border-collapse: collapse; border: none;">Firstname</th>    <th style="border-collapse: collapse; border: none;">Lastname</th>    <th>Age</th>  </tr>  <tr>    <td>Jill</td>    <td>Smith</td>    <td>50</td>  </tr>  <tr>    <td>Eve</td>    <td>Jackson</td>    <td>94</td>  </tr></table>
+
 
 Work Experiences
 ======
