@@ -50,13 +50,13 @@ Educations
     <td style="border-collapse: collapse; border: none;">2012.09 ~ 2015.06 </td>    
     <td style="border-collapse: collapse; border: none;">M.S. in Computer Applied Technology</td>    
     <td style="border-collapse: collapse; border: none;"><a href="http://www.zzu.edu.cn/">Zhengzhou University</a><br>Advisor Prof. <a href="http://xg.zzu.edu.cn/bdsd/1502183295270.jhtml">Bing Zhou</a> </td>  
-    <td style="border-collapse: collapse; border: none;"><a href="http://www.zzu.edu.cn/"> <img src="../images/zzulogo.jpg" alt="Zhengzhou University"></a> </td>  
+    <td style="border-collapse: collapse; border: none;"><a href="http://www.zzu.edu.cn/"> <img src="../images/zzulogo.png" alt="Zhengzhou University"></a> </td>  
   </tr> 
  <tr style="border-collapse: collapse; border: none;">    
     <td style="border-collapse: collapse; border: none;">2008.09 ~ 2012.06 </td>    
     <td style="border-collapse: collapse; border: none;">B.S. in Computer Science </td>    
     <td style="border-collapse: collapse; border: none;"><a href="http://www.zzu.edu.cn/">Zhengzhou University</a><br>Advisor Prof. <a href="http://xg.zzu.edu.cn/bdsd/1502181273959.jhtml">Lei Zhuang</a> </td>  
-    <td style="border-collapse: collapse; border: none;"><a href="http://www.zzu.edu.cn/"> <img src="../images/zzulogo.jpg" alt="Zhengzhou University"></a> </td>  
+    <td style="border-collapse: collapse; border: none;"><a href="http://www.zzu.edu.cn/"> <img src="../images/zzulogo.png" alt="Zhengzhou University"></a> </td>  
   </tr> 
   </table>
 
