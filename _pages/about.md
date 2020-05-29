@@ -41,22 +41,22 @@ Educations
   
 <table   style="border-collapse: collapse; border: none;">  
   <tr style="border-collapse: collapse; border: none;">    
-    <th style="border-collapse: collapse; border: none;">2015.09 ~ 2020.08</td>    
-    <th style="border-collapse: collapse; border: none;">Ph.D in Industrial Engineering</td>    
-    <th style="border-collapse: collapse; border: none;"><a href="http://www.pusan.ac.kr/">Pusan National University</a><br>Advisor Prof. <a href="https://scholar.google.com/citations?user=MRFdiCQAAAAJ&hl=en">Kap Hwan Kim</a> </td>  
-    <th style="border-collapse: collapse; border: none;"><a href="http://www.pusan.ac.kr/"> <img src="http://www.pusan.ac.kr/_contents/kor/_Img/Layout/logo.png" alt="Pusan National University"></a> </td>  
+    <td style="border-collapse: collapse; border: none;">2015.09 ~ 2020.08</td>    
+    <td style="border-collapse: collapse; border: none;">Ph.D in Industrial Engineering</td>    
+    <td style="border-collapse: collapse; border: none;"><a href="http://www.pusan.ac.kr/">Pusan National University</a><br>Advisor Prof. <a href="https://scholar.google.com/citations?user=MRFdiCQAAAAJ&hl=en">Kap Hwan Kim</a> </td>  
+    <td style="border-collapse: collapse; border: none;"><a href="http://www.pusan.ac.kr/"> <img src="http://www.pusan.ac.kr/_contents/kor/_Img/Layout/logo.png" alt="Pusan National University"></a> </td>  
   </tr>  
  <tr style="border-collapse: collapse; border: none;">    
-    <th style="border-collapse: collapse; border: none;">2012.09 ~ 2015.06 </td>    
-    <th style="border-collapse: collapse; border: none;">M.S. in Computer Applied Technology</td>    
-    <th style="border-collapse: collapse; border: none;"><a href="http://www.zzu.edu.cn/">Zhengzhou University</a><br>Advisor Prof. <a href="http://xg.zzu.edu.cn/bdsd/1502183295270.jhtml">Bing Zhou</a> </td>  
-    <th style="border-collapse: collapse; border: none;"><a href="http://www.zzu.edu.cn/"> <img src="http://www.zzu.edu.cn/images/logo.png" alt="Zhengzhou University"></a> </td>  
+    <td style="border-collapse: collapse; border: none;">2012.09 ~ 2015.06 </td>    
+    <td style="border-collapse: collapse; border: none;">M.S. in Computer Applied Technology</td>    
+    <td style="border-collapse: collapse; border: none;"><a href="http://www.zzu.edu.cn/">Zhengzhou University</a><br>Advisor Prof. <a href="http://xg.zzu.edu.cn/bdsd/1502183295270.jhtml">Bing Zhou</a> </td>  
+    <td style="border-collapse: collapse; border: none;"><a href="http://www.zzu.edu.cn/"> <img src="http://www.zzu.edu.cn/images/logo.png" alt="Zhengzhou University"></a> </td>  
   </tr> 
  <tr style="border-collapse: collapse; border: none;">    
-    <th style="border-collapse: collapse; border: none;">2008.09 ~ 2012.06 </td>    
-    <th style="border-collapse: collapse; border: none;">B.S. in Computer Science </td>    
-    <th style="border-collapse: collapse; border: none;"><a href="http://www.zzu.edu.cn/">Zhengzhou University</a><br>Advisor Prof. <a href="http://xg.zzu.edu.cn/bdsd/1502181273959.jhtml">Lei Zhuang</a> </td>  
-    <th style="border-collapse: collapse; border: none;"><a href="http://www.zzu.edu.cn/"> <img src="http://www.zzu.edu.cn/images/logo.png" alt="Zhengzhou University"></a> </td>  
+    <td style="border-collapse: collapse; border: none;">2008.09 ~ 2012.06 </td>    
+    <td style="border-collapse: collapse; border: none;">B.S. in Computer Science </td>    
+    <td style="border-collapse: collapse; border: none;"><a href="http://www.zzu.edu.cn/">Zhengzhou University</a><br>Advisor Prof. <a href="http://xg.zzu.edu.cn/bdsd/1502181273959.jhtml">Lei Zhuang</a> </td>  
+    <td style="border-collapse: collapse; border: none;"><a href="http://www.zzu.edu.cn/"> <img src="http://www.zzu.edu.cn/images/logo.png" alt="Zhengzhou University"></a> </td>  
   </tr> 
   </table>
 
