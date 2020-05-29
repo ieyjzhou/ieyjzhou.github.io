@@ -36,7 +36,7 @@ News
 ======
 
 I going to join the School of Management Engineering at Zhengzhou University as an Assistant Professor in September. 
-I am looking for undergraduate students!    
+<font color="red">I am looking for undergraduate students!<font>     
 Criteria: self-motivated, hardworking, background in computer science; math; industrial engineering; management science and engineering.
 Ensure that you have covered at least one of the listed skills.
 - Programming language: C/C++; Java; Python; Matalab...
