@@ -47,23 +47,23 @@ Educations
 
 <table   style="border-collapse: collapse; border: none;">  
   <tr style="border-collapse: collapse; border: none;">    
-    <th style="border-collapse: collapse; border: none;">2015.09 ~ 2020.08</th>    
-    <th style="border-collapse: collapse; border: none;">Ph.D in Industrial Engineering</th>    
-    <th style="border-collapse: collapse; border: none;">[Pusan National University](http://www.pusan.ac.kr/)<br>Advisor Prof. [Kap Hwan Kim](https://scholar.google.com/citations?user=MRFdiCQAAAAJ&hl=en) </th>  
-    <th style="border-collapse: collapse; border: none;">![pnu](http://www.pusan.ac.kr/_contents/kor/_Img/Layout/logo.png) </th>  
+    <th style="border-collapse: collapse; border: none;">2015.09 ~ 2020.08</td>    
+    <th style="border-collapse: collapse; border: none;">Ph.D in Industrial Engineering</td>    
+    <th style="border-collapse: collapse; border: none;"><a href="http://www.pusan.ac.kr/">Pusan National University</a><br>Advisor Prof. <a href="https://scholar.google.com/citations?user=MRFdiCQAAAAJ&hl=en">Kap Hwan Kim</a> </td>  
+    <th style="border-collapse: collapse; border: none;"><a href="http://www.pusan.ac.kr/"> <img src="http://www.pusan.ac.kr/_contents/kor/_Img/Layout/logo.png" alt="Pusan National University"></a> </td>  
   </tr>  
+ <tr style="border-collapse: collapse; border: none;">    
+    <th style="border-collapse: collapse; border: none;">2015.09 ~ 2020.08</td>    
+    <th style="border-collapse: collapse; border: none;">Ph.D in Industrial Engineering</td>    
+    <th style="border-collapse: collapse; border: none;"><a href="http://www.pusan.ac.kr/">Pusan National University</a><br>Advisor Prof. <a href="https://scholar.google.com/citations?user=MRFdiCQAAAAJ&hl=en">Kap Hwan Kim</a> </td>  
+    <th style="border-collapse: collapse; border: none;"><a href="http://www.pusan.ac.kr/"> <img src="http://www.pusan.ac.kr/_contents/kor/_Img/Layout/logo.png" alt="Pusan National University"></a> </td>  
+  </tr> 
    <tr style="border-collapse: collapse; border: none;">    
-    <th style="border-collapse: collapse; border: none;">2015.09 ~ 2020.08</th>    
-    <th style="border-collapse: collapse; border: none;">Ph.D in Industrial Engineering</th>    
-    <th style="border-collapse: collapse; border: none;">[Pusan National University](http://www.pusan.ac.kr/)<br>Advisor Prof. [Kap Hwan Kim](https://scholar.google.com/citations?user=MRFdiCQAAAAJ&hl=en) </th>  
-    <th style="border-collapse: collapse; border: none;">![pnu](http://www.pusan.ac.kr/_contents/kor/_Img/Layout/logo.png) </th>  
-  </tr>  
-   <tr style="border-collapse: collapse; border: none;">    
-    <th style="border-collapse: collapse; border: none;">2015.09 ~ 2020.08</th>    
-    <th style="border-collapse: collapse; border: none;">Ph.D in Industrial Engineering</th>    
-    <th style="border-collapse: collapse; border: none;">[Pusan National University](http://www.pusan.ac.kr/)<br>Advisor Prof. [Kap Hwan Kim](https://scholar.google.com/citations?user=MRFdiCQAAAAJ&hl=en) </th>  
-    <th style="border-collapse: collapse; border: none;">![pnu](http://www.pusan.ac.kr/_contents/kor/_Img/Layout/logo.png) </th>  
-  </tr>  
+    <th style="border-collapse: collapse; border: none;">2015.09 ~ 2020.08</td>    
+    <th style="border-collapse: collapse; border: none;">Ph.D in Industrial Engineering</td>    
+    <th style="border-collapse: collapse; border: none;"><a href="http://www.pusan.ac.kr/">Pusan National University</a><br>Advisor Prof. <a href="https://scholar.google.com/citations?user=MRFdiCQAAAAJ&hl=en">Kap Hwan Kim</a> </td>  
+    <th style="border-collapse: collapse; border: none;"><a href="http://www.pusan.ac.kr/"> <img src="http://www.pusan.ac.kr/_contents/kor/_Img/Layout/logo.png" alt="Pusan National University"></a> </td>  
+  </tr> 
   </table>
 
 
