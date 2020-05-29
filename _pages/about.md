@@ -43,8 +43,9 @@ The above criteria and background are the basic requiment. Moreover, ensure that
 - Programming language: C/C++; Java; Python; Matalab...
 - Solver: Cplex; Lingo; Gurobi... 
 - Optimization: linear programming/ mixed integer programming/ non-linear programming...
+
 If you are at ZZU: Please directly email me with your CV and a brief introduction of the project you did before.<br>
-If you are not yet at ZZU: Apply to School of Management Engineering's M.S. program (more information about M.S. program:[Graduate School of Zhengzhou University](http://gs.zzu.edu.cn/)).<br>
+If you are not yet at ZZU: Apply to School of Management Engineering's M.S. program (more information about M.S. program: [Graduate School of Zhengzhou University](http://gs.zzu.edu.cn/)).<br>
 Email: y.j.zhou.g@gmail.com
 
 About me
