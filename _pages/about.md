@@ -63,11 +63,28 @@ Educations
 
 Work Experiences
 ======
+  
+<table   style="border-collapse: collapse; border: none;">  
+  
+   <tr style="border-collapse: collapse; border: none;">    
+    <td style="border-collapse: collapse; border: none;">2013.07 ~ 2015.04 </td>    
+    <td style="border-collapse: collapse; border: none;">Research Intern </td>    
+    <td style="border-collapse: collapse; border: none;"><a href="http://www.zju.edu.cn/">Zhejiang University</a><br>  <a href="http://www.cad.zju.edu.cn/">State Key Laboratory of CAD&CG</a> 
+   <br>  <a href="http://www.gaps-zju.org/">Graphics and Parallel Systems Lab</a> </td>  
+    <td style="border-collapse: collapse; border: none;"><a href="http://www.zju.edu.cn/"> <img src="../images/logo_sm.jpg" alt="Zhejiang University"></a> </td>  
+  </tr>  
+   <tr style="border-collapse: collapse; border: none;">    
+    <td style="border-collapse: collapse; border: none;">2012.07 ~ 2012.09 </td>    
+    <td style="border-collapse: collapse; border: none;">Research Intern </td>    
+    <td style="border-collapse: collapse; border: none;"><a href="https://www.ucas.ac.cn/">University of Chinese Academy of Sciences</a><br>  <a href="http://feds.ac.cn/">Cloud Computing & Intelligent Information Processing Lab</a> 
+  </td>  
+    <td style="border-collapse: collapse; border: none;"><a href="https://www.ucas.ac.cn/"> <img src="http://www.cas.cn/images/z19_logo.png" alt="University of Chinese Academy of Sciences"></a> </td>  
+  </tr>  
+  
 
-
-|2013.07 ~ 2015.04 | Research Intern | [Zhejiang University](http://www.zju.edu.cn/)<br>[State Key Laboratory of CAD&CG ](http://www.cad.zju.edu.cn/)<br>[Graphics and Parallel Systems Lab](http://www.gaps-zju.org/)  | ![zjulogo](../images/logo_sm.jpg)|
-|2012.07 ~ 20120.9 | Research Intern | [University of Chinese Academy of Sciences](https://www.ucas.ac.cn/)<br>[Cloud Computing & Intelligent Information Processing Lab](http://feds.ac.cn/) | ![cas](http://www.cas.cn/images/z19_logo.png)|
-
+  </table>
+ 
+ 
 Selected Papers
 ======
   * **Zhou, Y.**, & Kim, K. H. (2020). Optimal parameters in concession contracts between container terminal operators and investors. **International Journal of Logistics Research and Applications.** (In press)
