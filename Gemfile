@@ -19,7 +19,7 @@ source "https://rubygems.org"
 gem "jekyll"
 #gem "jekyll", "~> 3.3.0"
 #gem "minimal-mistakes-jekyll"
-gem 'jekyll-scholar', group: :jekyll_plugins
+gem "jekyll-scholar"
 
 gem "wdm", "~> 0.1.0" if Gem.win_platform?
 
