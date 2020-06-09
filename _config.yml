@@ -259,7 +259,7 @@ sass:
   style: compressed # http://sass-lang.com/documentation/file.SASS_REFERENCE.html#output_style
 
 scholar:
-  style: apa 
+  style: assets/bibliography/ieee-with-url.csl 
   locale: en
  
   sort_by: year,month
