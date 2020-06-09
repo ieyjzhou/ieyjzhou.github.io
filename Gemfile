@@ -20,8 +20,8 @@ gem "jekyll"
 #gem "jekyll", "~> 3.3.0"
 #gem "minimal-mistakes-jekyll"
 
-gem "rake"
-gem "jekyll-scholar"
+#gem "rake"
+#gem "jekyll-scholar"
 
 gem "wdm", "~> 0.1.0" if Gem.win_platform?
 
