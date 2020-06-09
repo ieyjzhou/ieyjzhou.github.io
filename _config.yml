@@ -266,7 +266,7 @@ scholar:
   order: descending
   bibliography_list_tag: ul
  
-  source: ./
+  source: ./_bibliography
   repository: pdf
   bibliography: references.bib
   bibliography_template: bibliography
