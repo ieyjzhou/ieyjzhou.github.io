@@ -23,7 +23,7 @@ require 'jekyll/scholar'
 require 'tmpdir'
 
 
-examples = 'examples'
+examples = 'ieyjzhou'
 TEST_DIR = File.join(Dir.tmpdir, examples)
 
 def prepend_test_dir(options, key)
