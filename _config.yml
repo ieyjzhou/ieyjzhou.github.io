@@ -260,26 +260,7 @@ sass:
 
 gems:
   - jekyll-sitemap
-  - jekyll-scholar
 
-scholar:
-  style: assets/bibliography/ieee-with-url.csl 
-  locale: en
- 
-  sort_by: year,month
-  order: descending
-  bibliography_list_tag: ul
- 
-  source: ./_bibliography
-  repository: files
-  bibliography: references.bib
-  bibliography_template: bibliography
- 
-  replace_strings: true
-   
-  details_layout: bibtex.html
-  details_link:   Details
-  query: "@*"
 
 # Outputting
 permalink: /:categories/:title/
@@ -295,7 +276,7 @@ plugins:
   - jekyll-gist
   - jekyll-feed
   - jekyll-redirect-from
-  - jekyll/scholar
+#  - jekyll/scholar
 # mimic GitHub Pages with --safe
 whitelist:
   - jekyll/scholar
