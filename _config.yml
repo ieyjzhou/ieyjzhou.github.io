@@ -267,7 +267,7 @@ scholar:
   bibliography_list_tag: ul
  
   source: ./_bibliography
-  repository: pdf
+  repository: files
   bibliography: references.bib
   bibliography_template: bibliography
  
