@@ -266,7 +266,7 @@ scholar:
   order: ascending
 
   source: ./_bibliography
-  bibliography: references.bib
+  bibliography: paperBib.bib
   bibliography_template: "{{reference}}"
 
   replace_strings: true
