@@ -8,6 +8,7 @@ author_profile: false
 
 Journal Publications
 ------
+{{< pub "ZhouAJSL2019" "ZhouMPM2019" >}}
 1. **Zhou, Y.**, & Kim, K. H. (2020). Optimal parameters in concession contracts between container terminal operators and investors. **International Journal of Logistics Research and Applications.** **[PDF]( https://ieyjzhou.github.io/files/IJLRA2020.pdf)**
 1. **Zhou, Y.**, & Kim, K. H. (2020). A game theoretic model and a coevolutionary solution procedure to determine the terminal handling charges for container terminals. **Computer & Industrial Engineering**, 144, 106466 **[PDF](https://ieyjzhou.github.io/files/CIE2020_coevolutionary.pdf)**
 1. **Zhou, Y.**, & Kim, K. H. (2019). Optimal concession contract between a port authority and container-terminal operators by revenue-sharing schemes with quantity discount. **Maritime Policy & Management.** **[PDF](https://ieyjzhou.github.io/files/online_version%20with_SP.pdf)** Supplemental material [PDF](https://ieyjzhou.github.io/files/Supplemental_Material_MPM_2019.pdf).
