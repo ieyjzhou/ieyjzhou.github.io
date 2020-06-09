@@ -7,9 +7,12 @@ author_profile: false
 
 Journal Publications (2020)
 ------
+
 {% bibliography --query @*[year=2020] %}
+
 Journal Publications (2020)
 ------
+
 {% bibliography --query @*[year=2019] %}
 
 Journal Publications
