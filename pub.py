@@ -4,7 +4,7 @@ import bibtexparser
 from bibtexparser.bwriter import BibTexWriter
 from bibtexparser.bibdatabase import BibDatabase
 
-with open('./reference.bib') as f:
+with open('./paperBib.bib') as f:
     bdata = bibtexparser.load(f)
 
 for entry in bdata.entries:
