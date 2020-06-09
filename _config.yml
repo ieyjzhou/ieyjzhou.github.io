@@ -259,23 +259,22 @@ sass:
   style: compressed # http://sass-lang.com/documentation/file.SASS_REFERENCE.html#output_style
 
 scholar:
-  style: apa
+  style: apa 
   locale: en
-
-  sort_by: none
-  order: ascending
-
-
-  bibliography: bibliography.bib
-  bibliography_template: "{{reference}}"
-
+ 
+  sort_by: year,month
+  order: descending
+  bibliography_list_tag: ul
+ 
+  source: ./
+  repository: pdf
+  bibliography: references.bib
+  bibliography_template: bibliography
+ 
   replace_strings: true
-  join_strings:    true
-
-
+   
   details_layout: bibtex.html
   details_link:   Details
-
   query: "@*"
 
 # Outputting
