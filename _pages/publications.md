@@ -15,14 +15,14 @@ Journal Publications
 1. **Zhou, Y.**, & Kim, K. H. (2020). A game theoretic model and a coevolutionary solution procedure to determine the terminal handling charges for container terminals. **Computer & Industrial Engineering**, 144, 106466 **[PDF](https://ieyjzhou.github.io/files/CIE2020_coevolutionary.pdf)**
 1. **Zhou, Y.**, & Kim, K. H. (2019). Optimal concession contract between a port authority and container-terminal operators by revenue-sharing schemes with quantity discount. **Maritime Policy & Management.** **[PDF](https://ieyjzhou.github.io/files/online_version%20with_SP.pdf)** Supplemental material [PDF](https://ieyjzhou.github.io/files/Supplemental_Material_MPM_2019.pdf).
 1. Gu, J., **Zhou, Y.**, Das, A., Moon, I., & Lee, G. M. (2018). Medical relief shelter location problem with patient severity
-under a limited relief budget. **Computers & Industrial Engineering**, 125, 720–728. **[PDF](https://ieyjzhou.github.io/YanjieZhou/Paper/CIE2018_correct_proof_version.pdf)**
-1. **Zhou, Y.**, & Lee, G. M. (2018). Linking soft computing to art: Introduction of efficient k-continuous line drawing. **Applied Soft Computing**, 68, 932–943. **[PDF](https://ieyjzhou.github.io/YanjieZhou/Paper/KCLD_2018_Published_Version.pdf)**
+under a limited relief budget. **Computers & Industrial Engineering**, 125, 720–728. **[PDF](https://ieyjzhou.github.io/CIEG/Paper/CIE2018_correct_proof_version.pdf)**
+1. **Zhou, Y.**, & Lee, G. M. (2018). Linking soft computing to art: Introduction of efficient k-continuous line drawing. **Applied Soft Computing**, 68, 932–943. **[PDF](https://ieyjzhou.github.io/CIEG/Paper/KCLD_2018_Published_Version.pdf)**
 1. Gao, X., **Zhou, Y.**, Amir, M. I. H., Rosyidah, F. A., & Lee, G. M. (2017). A hybrid genetic algorithm for multi-emergency
 medical service centers location-allocation problem in disaster response. **International Journal of Industrial Engineering:
-Theory, Applications and Practice**, 24(6), 663–679. **[PDF](https://ieyjzhou.github.io/YanjieZhou/Paper/IJIE%202017.pdf)**
-1. Gao, Y., **Zhou, Y.**, Zhou, B., Shi, L., & Zhang, J. (2017). Handling data skew in mapreduce cluster by using partition tuning. **Journal of Healthcare Engineering**, 2017. **[PDF](https://ieyjzhou.github.io/YanjieZhou/Paper/JHE2017.pdf)**
+Theory, Applications and Practice**, 24(6), 663–679. **[PDF](https://ieyjzhou.github.io/CIEG/Paper/IJIE%202017.pdf)**
+1. Gao, Y., **Zhou, Y.**, Zhou, B., Shi, L., & Zhang, J. (2017). Handling data skew in mapreduce cluster by using partition tuning. **Journal of Healthcare Engineering**, 2017. **[PDF](https://ieyjzhou.github.io/CIEG/Paper/JHE2017.pdf)**
 1. **Zhou, Y.**, & Lee, G. M. (2017). A lagrangian relaxation-based solution method for a green vehicle routing problem to
-minimize greenhouse gas emissions. **Sustainability**, 9(5), 776 **[PDF](https://ieyjzhou.github.io/YanjieZhou/Paper/sustainability-09-00776.pdf)**
+minimize greenhouse gas emissions. **Sustainability**, 9(5), 776 **[PDF](https://ieyjzhou.github.io/CIEG/Paper/sustainability-09-00776.pdf)**
 
 Conference Publications
 ------
