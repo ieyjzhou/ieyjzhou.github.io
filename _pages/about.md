@@ -73,14 +73,14 @@ Email: y.j.zhou.g@gmail.com
 
 About me
 ======
-I am a fifth-year Ph.D student in the Department of Industrial Engineering at [Pusan National University](http://www.pusan.ac.kr). Before that, I received my B.S. Degree and M.S. Degree in Computer Science and Computer Applied Technology from [Zhengzhou University](http://www.zzu.edu.cn) in 2012 and 2015,  respectively.
+I am going to join the school of management engineering at Zhengzhou University as an assistant professor in September. I obtained my Ph.D degree from  the Department of Industrial Engineering, [Pusan National University](http://www.pusan.ac.kr). Before that, I received my B.S. Degree and M.S. Degree in Computer Science and Computer Applied Technology from [Zhengzhou University](http://www.zzu.edu.cn) in 2012 and 2015,  respectively.
 
 Educations
 ======
   
 <table   style="border-collapse: collapse; border: none;">  
   <tr style="border-collapse: collapse; border: none;">    
-    <td style="border-collapse: collapse; border: none;">2015.09 ~ 2020.08</td>    
+    <td style="border-collapse: collapse; border: none;">2015.09 ~ 2020.06</td>    
     <td style="border-collapse: collapse; border: none;">Ph.D in Industrial Engineering</td>    
     <td style="border-collapse: collapse; border: none;"><a href="http://www.pusan.ac.kr/">Pusan National University</a><br>Advisor Prof. <a href="https://scholar.google.com/citations?user=MRFdiCQAAAAJ&hl=en">Kap Hwan Kim</a> </td>  
     <td style="border-collapse: collapse; border: none;"><a href="http://www.pusan.ac.kr/"> <img src="http://www.pusan.ac.kr/_contents/kor/_Img/Layout/logo.png" alt="Pusan National University"></a> </td>  
