@@ -35,7 +35,7 @@ gallery:
 News
 ======
 
-<font color="red">I am looking for new students [link](https://ieyjzhou.github.io/lab/Openpositions.html)!!! <\br>
+<font color="red">I am looking for new students [(Apply link)](https://ieyjzhou.github.io/lab/Openpositions.html). <\br>
 Welcome to join the Computer and Industrial Engineering Group [(https://ieyjzhou.github.io/lab)](https://ieyjzhou.github.io/lab/).</font>     
 
 
