@@ -36,7 +36,7 @@ News
 ======
 
 I am looking for undergraduate students to join the [Computer and Industrial Engineering Group](https://ieyjzhou.github.io/lab/).
-[Apply link>>>>](https://ieyjzhou.github.io/lab/Openpositions.html
+[Apply link>>>>](https://ieyjzhou.github.io/lab/Openpositions.html)
 
 
 About me
