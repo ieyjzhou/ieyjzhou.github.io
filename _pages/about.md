@@ -35,8 +35,8 @@ gallery:
 News
 ======
 
-I am looking for new students ([Apply link](https://ieyjzhou.github.io/lab/Openpositions.html)). 
-Welcome to join the [Computer and Industrial Engineering Group](https://ieyjzhou.github.io/lab/).     
+I am looking for undergraduate students to join the [Computer and Industrial Engineering Group](https://ieyjzhou.github.io/lab/).
+[Apply link>>>>](https://ieyjzhou.github.io/lab/Openpositions.html
 
 
 About me
