@@ -202,6 +202,9 @@ defaults:
       layout: single
       classes: wide
       #author_profile: true
+      toc: true
+      toc_label: 'Menu'
+      toc_icon: 'paperclip
       read_time: true
       comments: true
       share: true
