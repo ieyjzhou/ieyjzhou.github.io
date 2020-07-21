@@ -16,9 +16,9 @@ source "https://rubygems.org"
 # If you want to use Jekyll native, uncomment the line below.
 # To upgrade, run `bundle update`.
 
-gem "jekyll"
-#gem "jekyll", "~> 3.3.0"
-#gem "minimal-mistakes-jekyll"
+#gem "jekyll"
+gem "jekyll", "~> 3.8.5"
+gem "minimal-mistakes-jekyll"
 
 #gem "rake"
 #gem "jekyll-scholar"
@@ -27,9 +27,16 @@ gem "wdm", "~> 0.1.0" if Gem.win_platform?
 
 # If you have any plugins, put them here!
 group :jekyll_plugins do
+  gem "jekyll-remote-theme"
+  gem "jekyll-paginate"
+  gem "jekyll-sitemap"
+  gem "jekyll-gist"
+  gem "jekyll-feed", "~> 0.6"
+  gem "jemoji"
+  gem "jekyll-include-cache"
   # gem "jekyll-archives"
   #gem "jekyll-scholar"
-  gem "jekyll-feed"
-  gem 'jekyll-sitemap'
+  #gem "jekyll-feed"
+  #gem 'jekyll-sitemap'
   gem 'hawkins'
 end
