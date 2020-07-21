@@ -204,7 +204,7 @@ defaults:
       #author_profile: true
       toc: true
       toc_label: 'Menu'
-      toc_icon: 'paperclip
+      toc_icon: 'paperclip'
       read_time: true
       comments: true
       share: true
@@ -280,6 +280,7 @@ plugins:
   - jekyll-gist
   - jekyll-feed
   - jekyll-redirect-from
+  - jemoji
 #  - jekyll/scholar
 # mimic GitHub Pages with --safe
 whitelist:
