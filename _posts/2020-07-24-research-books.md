@@ -7,12 +7,12 @@ tags:
   - 书籍  
 ---
 
-[博士论文写作技巧](https://img9.doubanio.com/view/subject/s/public/s4202828.jpg)
-[芝加哥大学论文写作指南](https://img9.doubanio.com/view/ark_article_cover/retina/public/113506577.jpg?v=1556529104)
-[学术引注规范指南](https://img9.doubanio.com/view/subject/s/public/s6567637.jpg)
-[学术写作手册](https://img9.doubanio.com/view/subject/s/public/s6567637.jpg)
-[怎样做文献综述](https://img9.doubanio.com/view/subject/s/public/s6780762.jpg)
-[如何撰写与发表社会科学论文](https://img9.doubanio.com/view/subject/s/public/s4162814.jpg)
-[如何撰写和发表科技论文(How to Write and Publish a Scientific Paper)](https://img9.doubanio.com/view/subject/s/public/s6064316.jpg)
-[科技论文写作与发表教程](https://img9.doubanio.com/view/subject/s/public/s1872533.jpg)
-[怎样做好一项研究(The Good Research Guide)](https://img9.doubanio.com/view/subject/s/public/s6860556.jpg)
+![博士论文写作技巧](https://img9.doubanio.com/view/subject/s/public/s4202828.jpg)
+![芝加哥大学论文写作指南](https://img9.doubanio.com/view/ark_article_cover/retina/public/113506577.jpg?v=1556529104)
+![学术引注规范指南](https://img9.doubanio.com/view/subject/s/public/s6567637.jpg)
+![学术写作手册](https://img9.doubanio.com/view/subject/s/public/s6567637.jpg)
+![怎样做文献综述](https://img9.doubanio.com/view/subject/s/public/s6780762.jpg)
+![如何撰写与发表社会科学论文](https://img9.doubanio.com/view/subject/s/public/s4162814.jpg)
+![如何撰写和发表科技论文(How to Write and Publish a Scientific Paper)](https://img9.doubanio.com/view/subject/s/public/s6064316.jpg)
+![科技论文写作与发表教程](https://img9.doubanio.com/view/subject/s/public/s1872533.jpg)
+![怎样做好一项研究(The Good Research Guide)](https://img9.doubanio.com/view/subject/s/public/s6860556.jpg)
