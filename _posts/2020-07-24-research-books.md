@@ -19,6 +19,7 @@ tags:
 ![科技论文写作与发表教程](https://img9.doubanio.com/view/subject/s/public/s1872533.jpg)
 ![怎样做好一项研究](https://img9.doubanio.com/view/subject/s/public/s6860556.jpg)
 ![对年轻科学家的忠告](https://img9.doubanio.com/view/subject/s/public/s1987921.jpg)
+![Advice to a Young Scientist](https://img9.doubanio.com/view/subject/s/public/s4257580.jpg)
 ![师从天才](https://img9.doubanio.com/view/subject/s/public/s24933157.jpg)
 ![教授为什么没告诉我](https://img9.doubanio.com/view/subject/s/public/s2522766.jpg)
 ![会读才会写 How to Read Journal Articles in the Social Sciences: A Very Practical Guide for Students](https://img9.doubanio.com/view/subject/s/public/s32287170.jpg)
