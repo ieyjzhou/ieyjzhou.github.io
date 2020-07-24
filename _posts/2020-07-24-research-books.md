@@ -17,7 +17,7 @@ tags:
 ![如何撰写与发表社会科学论文](https://img9.doubanio.com/view/subject/s/public/s4162814.jpg)
 ![如何撰写和发表科技论文(How to Write and Publish a Scientific Paper)](https://img9.doubanio.com/view/subject/s/public/s6064316.jpg)
 ![科技论文写作与发表教程](https://img9.doubanio.com/view/subject/s/public/s1872533.jpg)
-![怎样做好一项研究(The Good Research Guide)](https://img9.doubanio.com/view/subject/s/public/s6860556.jpg)
+![怎样做好一项研究](https://img9.doubanio.com/view/subject/s/public/s6860556.jpg)
 ![有了博士学位还不够](https://img9.doubanio.com/view/subject/s/public/s1929193.jpg)
 ![Advice to a Young Scientist](https://img9.doubanio.com/view/subject/s/public/s4257580.jpg)
 ![师从天才](https://img9.doubanio.com/view/subject/s/public/s24933157.jpg)
