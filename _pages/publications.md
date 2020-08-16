@@ -9,7 +9,7 @@ years: [2020, 2019, 2018,2017, 2016, 2015]
 
 Journal Publications
 ------
-1. Shi Y. , ** Zhou Y. $\dagger$**, Boudouh T., Grunder O., (2020). A lexicographic-based two-stage algorithm for vehicle routing problem with simultaneous pickup-delivery and time window.**Engineering Applications of Artificial Intelligence** (in press)
+1. Shi Y. , **Zhou Y. $\dagger$**, Boudouh T., Grunder O., (2020). A lexicographic-based two-stage algorithm for vehicle routing problem with simultaneous pickup-delivery and time window.**Engineering Applications of Artificial Intelligence** (in press)
 1. Tiwari, S., Wee M. H., **Zhou, Y.**, & Tjoeng L. (2020). Freight consolidation and containerization strategy under business as usual scenario & carbon tax regulation. **Journal of Cleaner Production.**  **[PDF](https://doi.org/10.1016/j.jclepro.2020.123270)**
 1. **Zhou, Y.**, & Kim, K. H. (2020). Optimal parameters in concession contracts between container terminal operators and investors. **International Journal of Logistics Research and Applications.** **[PDF]( https://ieyjzhou.github.io/files/IJLRA2020.pdf)** 
 1. **Zhou, Y.**, & Kim, K. H. (2020). A game theoretic model and a coevolutionary solution procedure to determine the terminal handling charges for container terminals. **Computer & Industrial Engineering**, 144, 106466 **[PDF](https://ieyjzhou.github.io/files/CIE2020_coevolutionary.pdf)**
