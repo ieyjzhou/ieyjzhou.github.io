@@ -41,7 +41,7 @@ I am looking for undergraduate students to join the [Computer and Industrial Eng
 
 About me
 ======
-I am going to join the school of management engineering at Zhengzhou University as an assistant professor in September. I obtained my Ph.D degree from  the Department of Industrial Engineering at [Pusan National University](http://www.pusan.ac.kr) in June 2020. Before that, I received my B.S. Degree and M.S. Degree in Computer Science and Computer Applied Technology from [Zhengzhou University](http://www.zzu.edu.cn) in 2012 and 2015,  respectively.
+I am going to join the school of management engineering at Zhengzhou University. I obtained my Ph.D degree from  the Department of Industrial Engineering at [Pusan National University](http://www.pusan.ac.kr) in June 2020. Before that, I received my B.S. Degree and M.S. Degree in Computer Science and Computer Applied Technology from [Zhengzhou University](http://www.zzu.edu.cn) in 2012 and 2015,  respectively.
 
 Educations
 ======
