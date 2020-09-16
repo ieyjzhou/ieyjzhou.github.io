@@ -10,7 +10,7 @@ years: [2020, 2019, 2018,2017, 2016, 2015]
 Journal Publications
 ------
 
-1. Shi Y. , **Zhou Y. $^\dagger$**, Ye W., Zhao Q. Q., (2020). A relative robust optimization for a vehicle routing problem with time-window and synchronized visits considering greenhouse gas emissions. **Journal of Cleaner Production**,  **[inpress]()**
+1. Shi Y. , **Zhou Y. $^\dagger$**, Ye W., Zhao Q. Q., (2020). A relative robust optimization for a vehicle routing problem with time-window and synchronized visits considering greenhouse gas emissions. **Journal of Cleaner Production**, 124112,  **[PDF](https://doi.org/10.1016/j.jclepro.2020.124112)**
 1. Shi Y. , **Zhou Y. $^\dagger$**, Boudouh T., Grunder O., (2020). A lexicographic-based two-stage algorithm for vehicle routing problem with simultaneous pickup-delivery and time window. **Engineering Applications of Artificial Intelligence**, 95, 103901 **[PDF](https://ieyjzhou.github.io/files/EAAI2020.pdf)**
 1. Tiwari, S., Wee M. H., **Zhou, Y.**, & Tjoeng L. (2020). Freight consolidation and containerization strategy under business as usual scenario & carbon tax regulation. **Journal of Cleaner Production**, 279, 123270  **[PDF](https://ieyjzhou.github.io/files/JCP2020_carbon_tax.pdf)**
 1. **Zhou, Y.**, & Kim, K. H. (2020). Optimal parameters in concession contracts between container terminal operators and investors. **International Journal of Logistics Research and Applications.** **[PDF]( https://ieyjzhou.github.io/files/IJLRA2020.pdf)** 
