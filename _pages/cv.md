@@ -50,6 +50,7 @@ Academic Services
 ======
  
   Journal Reviewer
+   * [Applied Soft Computing](https://www.journals.elsevier.com/applied-soft-computing), **Elsevier**
    * [Computer and Industrial Engineering](https://www.journals.elsevier.com/computers-and-industrial-engineering), **Elsevier**
    * [Maritime Policy & Management](https://www.tandfonline.com/toc/tmpm20/current), **Taylor and Francis Group**
    * [Advances in Difference Equations](https://advancesindifferenceequations.springeropen.com/), **Springer Nature**
