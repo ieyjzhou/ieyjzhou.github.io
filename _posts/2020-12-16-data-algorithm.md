@@ -1,7 +1,7 @@
 ---
 title: '数据结构与算法书籍推荐'
 date: 2020-12-16
-permalink: /posts/2020/07/blog-post-4/
+permalink: /posts/2020/12/blog-post-5/
 tags:
   - 数据结构
   - 算法  
