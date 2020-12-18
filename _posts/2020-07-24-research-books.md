@@ -1,5 +1,5 @@
 ---
-title: '论文写作书籍'
+title: '科技论文写作书籍推荐'
 date: 2020-07-24
 permalink: /posts/2020/07/blog-post-4/
 tags:
