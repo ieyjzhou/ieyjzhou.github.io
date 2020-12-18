@@ -8,8 +8,11 @@ tags:
 ---
 
 ![学术写作要领Then Say/I Say: The Moves That Matter in Academic Writing](https://img9.doubanio.com/view/subject/s/public/s24610421.jpg)
+
 ![博士论文写作技巧](https://img9.doubanio.com/view/subject/s/public/s4202828.jpg)
+
 ![研究生论文写作技巧](https://img9.doubanio.com/view/subject/s/public/s8900239.jpg)
+
 ![芝加哥大学论文写作指南](https://img9.doubanio.com/view/ark_article_cover/retina/public/113506577.jpg?v=1556529104)
 ![学术引注规范指南](https://img9.doubanio.com/view/subject/s/public/s26812910.jpg)
 ![学术写作手册](https://img9.doubanio.com/view/subject/s/public/s6567637.jpg)
