@@ -10,7 +10,8 @@ tags:
 
 
 ## 国内教材：
-
+1. **数据结构与算法（第2版）汪沁，奚李峰** https://item.jd.com/12400094.html
+1. **数据结构与算法习题解析与实验指导 邹永林，周蓓，唐晓阳** https://item.jd.com/11712436.html
 1. **数据结构 严蔚敏 C语言版+数据结构题集 吴伟民** https://item.jd.com/71145206114.html
 2. **数据结构与算法分析新视角** https://item.jd.com/11894689.html
 3. **图解算法：使用C语言** https://item.jd.com/12841464.html
