@@ -23,7 +23,7 @@ location: "Zhengzhou, China"
 课前预习
 ======
 
-| [2020年郑州大学ACM实验室寒假新生培训](https://space.bilibili.com/2629021/dynamic)| |
+[2020年郑州大学ACM实验室寒假新生培训](https://space.bilibili.com/2629021/dynamic)
 | ----------- | ----------- |
 |  1. [Day1 : 实验室介绍、算法竞赛介绍、入门题目讲解](https://www.bilibili.com/video/BV1er4y1T72u) | 8. [Day8 : 树与图论入门](https://www.bilibili.com/video/BV1DX4y1P7YZ)| 
 |  2. [Day2 : C++常用STL讲解](https://www.bilibili.com/video/BV1cf4y1k7nT)|  9. [Day9 : 算法基础三（贪心）](https://www.bilibili.com/video/BV1bo4y1R7rU)| 
