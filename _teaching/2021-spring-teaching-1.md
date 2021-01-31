@@ -19,9 +19,8 @@ Heading 1
 
 上机作业
 ======
- 
- **郑州大学ACM-ICPC创新实验室在线评测系统**  http://acm.zzu.edu.cn/
 
+上机平台：**郑州大学ACM-ICPC创新实验室在线评测系统**  [http://acm.zzu.edu.cn/](http://acm.zzu.edu.cn/)
 
 
 ## 第一章：绪论（C语言热身）
