@@ -48,8 +48,8 @@ location: "Zhengzhou, China"
 IDE
 ======
 
-## Code::Blocks: a free C, C++ and Fortran IDE [download](http://www.codeblocks.org/downloads)
-## Dev-C++: A free, portable, fast and simple C/C++ IDE [download](https://sourceforge.net/projects/orwelldevcpp/) 
+1. Code::Blocks: a free C, C++ and Fortran IDE [download](http://www.codeblocks.org/downloads)
+1. Dev-C++: A free, portable, fast and simple C/C++ IDE [download from sourceforge](https://sourceforge.net/projects/orwelldevcpp/) [download from github](https://github.com/Embarcadero/Dev-Cpp/releases)
 
 
 编程作业 
@@ -105,3 +105,11 @@ IDE
 3. [1135: 赌徒](http://acm.zzu.edu.cn/problem.php?id=1135)
 4. [1221: 查找细胞](http://acm.zzu.edu.cn/problem.php?id=1221)
 5. [1269: 排队打水问题](http://acm.zzu.edu.cn/problem.php?id=1269)
+
+Project
+======
+
+[Writing Super Mario Bros in C++](https://dev.to/feresr/writing-super-mario-bros-in-c-4726)  
+[code download](https://github.com/ieyjzhou/super-mario-bros)   
+
+![mario](https://raw.githubusercontent.com/feresr/super-mario-bros/master/readme/editor%20build.gif)  
