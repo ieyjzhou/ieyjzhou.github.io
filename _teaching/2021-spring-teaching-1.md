@@ -22,21 +22,17 @@ location: "Zhengzhou, China"
 
 课前预习
 ======
-[2020年郑州大学ACM实验室寒假新生培训](https://space.bilibili.com/2629021/dynamic)
- 1. [Day1 : 实验室介绍、算法竞赛介绍、入门题目讲解](https://www.bilibili.com/video/BV1er4y1T72u)
- 1. [Day2 : C++常用STL讲解](https://www.bilibili.com/video/BV1cf4y1k7nT)
- 1. [Day3 : 算法基础一（模拟、枚举、递推、递归）](https://www.bilibili.com/video/BV1MV411b7XN)
- 1. [Day4 : 算法基础二（二分）](https://www.bilibili.com/video/BV19y4y1H749)
- 1. [Day5 : 数学入门](https://www.bilibili.com/video/BV1S5411E7Pa)
- 1. [Day6 : 数据结构入门](https://www.bilibili.com/video/BV1JV411q7oT)
- 1. [Day7 : 动态规划入门](https://www.bilibili.com/video/BV1mz4y1S7c4)
- 1. [Day8 : 树与图论入门](https://www.bilibili.com/video/BV1DX4y1P7YZ)
- 1. [Day9 : 算法基础三（贪心）](https://www.bilibili.com/video/BV1bo4y1R7rU)
- 1. [Day10 : 算法基础四（Part1 : 深度优先搜索）](https://www.bilibili.com/video/BV1Dz4y1S721)
- 1. [Day10 : 算法基础四（Part2 : 广度优先搜索）](https://www.bilibili.com/video/BV1YK4y1H7df)
- 1. [Day11 : 数学进阶](https://www.bilibili.com/video/BV1Hr4y1K7Ts)
- 1. [Day12 : 数据结构进阶](https://www.bilibili.com/video/BV1ky4y117jR)
- 1. [Day13 : 动态规划进阶](https://www.bilibili.com/video/BV1Nf4y1r7Db)
+
+| [2020年郑州大学ACM实验室寒假新生培训](https://space.bilibili.com/2629021/dynamic)|
+| ----------- | ----------- |
+|  1. [Day1 : 实验室介绍、算法竞赛介绍、入门题目讲解](https://www.bilibili.com/video/BV1er4y1T72u) | 8. [Day8 : 树与图论入门](https://www.bilibili.com/video/BV1DX4y1P7YZ)| 
+|  2. [Day2 : C++常用STL讲解](https://www.bilibili.com/video/BV1cf4y1k7nT)|  9. [Day9 : 算法基础三（贪心）](https://www.bilibili.com/video/BV1bo4y1R7rU)| 
+|  3. [Day3 : 算法基础一（模拟、枚举、递推、递归）](https://www.bilibili.com/video/BV1MV411b7XN)|  10-1. [Day10 : 算法基础四（Part1 : 深度优先搜索）](https://www.bilibili.com/video/BV1Dz4y1S721)| 10-2. [Day10 : 算法基础四（Part2 : 广度优先搜索）](https://www.bilibili.com/video/BV1YK4y1H7df)| 
+|  4. [Day4 : 算法基础二（二分）](https://www.bilibili.com/video/BV19y4y1H749)| 11. [Day11 : 数学进阶](https://www.bilibili.com/video/BV1Hr4y1K7Ts)|
+|  5. [Day5 : 数学入门](https://www.bilibili.com/video/BV1S5411E7Pa)| 12. [Day12 : 数据结构进阶](https://www.bilibili.com/video/BV1ky4y117jR)| 
+|  6. [Day6 : 数据结构入门](https://www.bilibili.com/video/BV1JV411q7oT)| 13. [Day13 : 动态规划进阶](https://www.bilibili.com/video/BV1Nf4y1r7Db)| 
+|  7. [Day7 : 动态规划入门](https://www.bilibili.com/video/BV1mz4y1S7c4)| |
+  
 
 
 参考教材
@@ -56,15 +52,15 @@ location: "Zhengzhou, China"
 编程小作业 
 ======
 
-编程作业测试平台：**郑州大学ACM-ICPC创新实验室在线评测系统**  [http://acm.zzu.edu.cn/](http://acm.zzu.edu.cn/)
+**郑州大学ACM-ICPC创新实验室在线评测系统**  [http://acm.zzu.edu.cn/](http://acm.zzu.edu.cn/)
 
-| 第一章：绪论（C语言热身）     | 第二章：线性表|
+| 编程作业测试平台：     | 第二章：线性表|
 | ----------- | ----------- |
 | 1. [1007: C语言-最大值2](http://acm.zzu.edu.cn/problem.php?id=1007) | 1. [1075: 冒泡排序计数](http://acm.zzu.edu.cn/problem.php?id=1075)    |
-| 2. [1014: C语言-数列求和](http://acm.zzu.edu.cn/problem.php?id=1014) | 1. [1095: 字符串反转](http://acm.zzu.edu.cn/problem.php?id=1095)  |
-| 3. [1036: C语言-字符统计2](http://acm.zzu.edu.cn/problem.php?id=1036) | 1. [1199: 集装箱装载](http://acm.zzu.edu.cn/problem.php?id=1199)    |
-| 4. [1056: A+B问题](http://acm.zzu.edu.cn/problem.php?id=1056) | 1. [1206: 装箱问题](http://acm.zzu.edu.cn/problem.php?id=1206)    |
-| 5. [1047: C语言-数字调序](http://acm.zzu.edu.cn/problem.php?id=1047)    | 1. [4465: 帮学长起队名](http://acm.zzu.edu.cn/problem.php?id=4465)       |
+| 2. [1014: C语言-数列求和](http://acm.zzu.edu.cn/problem.php?id=1014) | 2. [1095: 字符串反转](http://acm.zzu.edu.cn/problem.php?id=1095)  |
+| 3. [1036: C语言-字符统计2](http://acm.zzu.edu.cn/problem.php?id=1036) | 3. [1199: 集装箱装载](http://acm.zzu.edu.cn/problem.php?id=1199)    |
+| 4. [1056: A+B问题](http://acm.zzu.edu.cn/problem.php?id=1056) | 4. [1206: 装箱问题](http://acm.zzu.edu.cn/problem.php?id=1206)    |
+| 5. [1047: C语言-数字调序](http://acm.zzu.edu.cn/problem.php?id=1047)    | 5. [4465: 帮学长起队名](http://acm.zzu.edu.cn/problem.php?id=4465)       |
 
 
 | 第三章：栈与队列     | 第四章：树与二叉树|
