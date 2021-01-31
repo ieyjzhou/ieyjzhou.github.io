@@ -43,6 +43,15 @@ location: "Zhengzhou, China"
 ======
 [数据结构与算法书籍推荐](https://ieyjzhou.github.io/posts/2020/12/blog-post-5/)
 
+
+
+IDE
+======
+
+## Code::Blocks: a free C, C++ and Fortran IDE [download](http://www.codeblocks.org/downloads)
+## Dev-C++: A free, portable, fast and simple C/C++ IDE [download](https://sourceforge.net/projects/orwelldevcpp/) 
+
+
 编程作业 
 ======
 
