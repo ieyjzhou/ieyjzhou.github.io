@@ -6,6 +6,11 @@ permalink: /teaching/2021-spring-teaching-1
 venue: "Zhengzhou University, School of Management Engineering"
 date: 2021-01-01
 location: "Zhengzhou, China"
+gallery:
+  - url: editorbuild.gif
+    image_path: editorbuild.gif
+    alt: "梵魚寺 (범어사) 2019-10-03"
+    title: "超级玛丽"
 ---
 
 
