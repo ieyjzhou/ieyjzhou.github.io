@@ -70,4 +70,4 @@ Heading 1
 2. [1051: 成绩排序](http://acm.zzu.edu.cn/problem.php?id=1051)
 3. [1135: 赌徒](http://acm.zzu.edu.cn/problem.php?id=1135)
 4. [1221: 查找细胞](http://acm.zzu.edu.cn/problem.php?id=1221)
-5. [1269: 排队打水问题（water） [2*]](
+5. [1269: 排队打水问题](http://acm.zzu.edu.cn/problem.php?id=1269)
