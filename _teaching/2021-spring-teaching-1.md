@@ -29,11 +29,11 @@ location: "Zhengzhou, China"
 | ----------- | ----------- |
 |  1. [Day1 : 实验室介绍、算法竞赛介绍、入门题目讲解](https://www.bilibili.com/video/BV1er4y1T72u) | 8. [Day8 : 树与图论入门](https://www.bilibili.com/video/BV1DX4y1P7YZ)| 
 |  2. [Day2 : C++常用STL讲解](https://www.bilibili.com/video/BV1cf4y1k7nT)|  9. [Day9 : 算法基础三（贪心）](https://www.bilibili.com/video/BV1bo4y1R7rU)| 
-|  3. [Day3 : 算法基础一（模拟、枚举、递推、递归）](https://www.bilibili.com/video/BV1MV411b7XN)|  10-1. [Day10 : 算法基础四 Part1 : 深度优先搜索] (https://www.bilibili.com/video/BV1Dz4y1S721)| 10-2. [Day10 : 算法基础四 Part2 : 广度优先搜索](https://www.bilibili.com/video/BV1YK4y1H7df)| 
-|  4. [Day4 : 算法基础二（二分）](https://www.bilibili.com/video/BV19y4y1H749)| 11. [Day11 : 数学进阶](https://www.bilibili.com/video/BV1Hr4y1K7Ts)|
-|  5. [Day5 : 数学入门](https://www.bilibili.com/video/BV1S5411E7Pa)| 12. [Day12 : 数据结构进阶](https://www.bilibili.com/video/BV1ky4y117jR)| 
-|  6. [Day6 : 数据结构入门](https://www.bilibili.com/video/BV1JV411q7oT)| 13. [Day13 : 动态规划进阶](https://www.bilibili.com/video/BV1Nf4y1r7Db)| 
-|  7. [Day7 : 动态规划入门](https://www.bilibili.com/video/BV1mz4y1S7c4)| |
+|  3. [Day3 : 算法基础一（模拟、枚举、递推、递归）](https://www.bilibili.com/video/BV1MV411b7XN)|  10-1. [Day10 : 算法基础四 Part1 : 深度优先搜索](https://www.bilibili.com/video/BV1Dz4y1S721)| 
+|  4. [Day4 : 算法基础二（二分）](https://www.bilibili.com/video/BV19y4y1H749)| 10-2. [Day10 : 算法基础四 Part2 : 广度优先搜索](https://www.bilibili.com/video/BV1YK4y1H7df)| 
+|  5. [Day5 : 数学入门](https://www.bilibili.com/video/BV1S5411E7Pa)|11. [Day11 : 数学进阶](https://www.bilibili.com/video/BV1Hr4y1K7Ts)|
+|  6. [Day6 : 数据结构入门](https://www.bilibili.com/video/BV1JV411q7oT)|  12. [Day12 : 数据结构进阶](https://www.bilibili.com/video/BV1ky4y117jR)| 
+|  7. [Day7 : 动态规划入门](https://www.bilibili.com/video/BV1mz4y1S7c4)| 13. [Day13 : 动态规划进阶](https://www.bilibili.com/video/BV1Nf4y1r7Db)| 
   
 
 
