@@ -94,6 +94,4 @@ gallery:
 [Writing Super Mario Bros in C++](https://dev.to/feresr/writing-super-mario-bros-in-c-4726)  
 [code download](https://github.com/ieyjzhou/super-mario-bros)  
 {% include gallery %}
- 
-![mario](editorbuild.gif) 
-![mario](https://raw.githubusercontent.com/feresr/super-mario-bros/master/readme/editor%20build.gif)  
+
