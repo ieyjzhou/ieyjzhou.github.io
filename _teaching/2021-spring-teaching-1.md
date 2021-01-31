@@ -17,7 +17,7 @@ Heading 1
 ======
 [数据结构与算法书籍推荐](https://ieyjzhou.github.io/posts/2020/12/blog-post-5/)
 
-上级作业
+上机作业
 ======
  
  **郑州大学ACM-ICPC创新实验室在线评测系统**  http://acm.zzu.edu.cn/
