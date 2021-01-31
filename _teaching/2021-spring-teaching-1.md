@@ -101,6 +101,6 @@ gallery:
 |     .......   |  ....... |
 
 
-
+![Super Mario](editorbuild.gif)
 {% include gallery %}
 
