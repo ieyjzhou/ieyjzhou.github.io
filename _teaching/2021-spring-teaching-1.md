@@ -15,6 +15,8 @@ location: "Zhengzhou, China"
 课程类型：本科生必修课    
 学时学分：48学时  
 教学方式：课堂讲授+上机  
+授课老师：周艳杰 [ieyjzhou@zzu.edu.cn](ieyjzhou@zzu.edu.cn)
+助教：张志程 [clarkzzzzz@foxmail.com](clarkzzzzz@foxmail.com)
 学生成绩评定方法：平时成绩50%，考试50%  
 
 
