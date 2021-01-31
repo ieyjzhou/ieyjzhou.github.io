@@ -18,6 +18,25 @@ location: "Zhengzhou, China"
 学生成绩评定方法：平时成绩50%，考试50%  
 
 
+预习
+======
+[2020年郑州大学ACM实验室寒假新生培训](https://space.bilibili.com/2629021/dynamic)
+ 1. [Day1 : 实验室介绍、算法竞赛介绍、入门题目讲解](https://www.bilibili.com/video/BV1er4y1T72u)
+ 1. [Day2 : C++常用STL讲解](https://www.bilibili.com/video/BV1cf4y1k7nT)
+ 1. [Day3 : 算法基础一（模拟、枚举、递推、递归）](https://www.bilibili.com/video/BV1MV411b7XN)
+ 1. [Day4 : 算法基础二（二分）](https://www.bilibili.com/video/BV19y4y1H749)
+ 1. [Day5 : 数学入门](https://www.bilibili.com/video/BV1S5411E7Pa)
+ 1. [Day6 : 数据结构入门](https://www.bilibili.com/video/BV1JV411q7oT)
+ 1. [Day7 : 动态规划入门](https://www.bilibili.com/video/BV1mz4y1S7c4)
+ 1. [Day8 : 树与图论入门](https://www.bilibili.com/video/BV1DX4y1P7YZ)
+ 1. [Day9 : 算法基础三（贪心）](https://www.bilibili.com/video/BV1bo4y1R7rU)
+ 1. [Day10 : 算法基础四（Part1 : 深度优先搜索）](https://www.bilibili.com/video/BV1Dz4y1S721)
+ 1. [Day10 : 算法基础四（Part2 : 广度优先搜索）](https://www.bilibili.com/video/BV1YK4y1H7df)
+ 1. [Day11 : 数学进阶](https://www.bilibili.com/video/BV1Hr4y1K7Ts)
+ 1. [Day12 : 数据结构进阶](https://www.bilibili.com/video/BV1ky4y117jR)
+ 1. [Day13 : 动态规划进阶](https://www.bilibili.com/video/BV1Nf4y1r7Db)
+
+
 参考教材
 ======
 [数据结构与算法书籍推荐](https://ieyjzhou.github.io/posts/2020/12/blog-post-5/)
