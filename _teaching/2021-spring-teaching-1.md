@@ -9,7 +9,6 @@ location: "Zhengzhou, China"
 gallery:
   - url: editorbuild.gif
     image_path: editorbuild.gif
-    alt: "梵魚寺 (범어사) 2019-10-03"
     title: "超级玛丽"
 ---
 
@@ -94,5 +93,5 @@ gallery:
 
 [Writing Super Mario Bros in C++](https://dev.to/feresr/writing-super-mario-bros-in-c-4726)  
 [code download](https://github.com/ieyjzhou/super-mario-bros)   
-
+![mario](editorbuild.gif) 
 ![mario](https://raw.githubusercontent.com/feresr/super-mario-bros/master/readme/editor%20build.gif)  
