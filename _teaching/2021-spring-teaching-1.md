@@ -65,7 +65,7 @@ location: "Zhengzhou, China"
 1. [1190: 最短路](http://acm.zzu.edu.cn/problem.php?id=1190)
 2. [1156: 建设电力系统](http://acm.zzu.edu.cn/problem.php?id=1156)
 3. [1154: 仓库的位置](http://acm.zzu.edu.cn/problem.php?id=1154)
-4. [1296: 中、后序遍历求前序遍历](http://acm.zzu.edu.cn/problem.php?id=1296)](http://acm.zzu.edu.cn/problem.php?id=1219)
+4. [1296: 中、后序遍历求前序遍历](http://acm.zzu.edu.cn/problem.php?id=1296)
 5. [1488: #6178. 「美团 CodeM 初赛 Round B」景区路线规划](http://acm.zzu.edu.cn/problem.php?id=1488)
 
 ## 第六章：查找与排序
