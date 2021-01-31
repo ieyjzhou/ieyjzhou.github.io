@@ -66,14 +66,12 @@ location: "Zhengzhou, China"
 | 4. [1056: A+B问题](http://acm.zzu.edu.cn/problem.php?id=1056) | 1. [1206: 装箱问题](http://acm.zzu.edu.cn/problem.php?id=1206)    |
 | 5. [1047: C语言-数字调序](http://acm.zzu.edu.cn/problem.php?id=1047)    | 1. [4465: 帮学长起队名](http://acm.zzu.edu.cn/problem.php?id=4465)       |
 | 第三章：栈与队列     | 第四章：树与二叉树|
-| ----------- | ----------- |
 | 1. [1133: 火车出站](http://acm.zzu.edu.cn/problem.php?id=1133) | 1. [1292: dfs](http://acm.zzu.edu.cn/problem.php?id=1292) | 
 | 2. [1234: 机器翻译](http://acm.zzu.edu.cn/problem.php?id=1234) | 2. [1212: 搜城探宝](http://acm.zzu.edu.cn/problem.php?id=1212) | 
 | 3. [1026: C语言-插入队列](http://acm.zzu.edu.cn/problem.php?id=1026) | 3. [1296: 中、后序遍历求前序遍历](http://acm.zzu.edu.cn/problem.php?id=1296) | 
 | 4. [4401: 军训站队](http://acm.zzu.edu.cn/problem.php?id=4401) | 4. [1134: 复原二叉树](http://acm.zzu.edu.cn/problem.php?id=1219) | 
 | 5. [1222: 后缀表达式求值](http://acm.zzu.edu.cn/problem.php?id=1222) | 5. [1134: 复原二叉树](http://acm.zzu.edu.cn/problem.php?id=4417)  |  
 |  第五章：图     | 第六章：查找与排序|
-| ----------- | ----------- |
 | 1. [1190: 最短路](http://acm.zzu.edu.cn/problem.php?id=1190)| 1. [1044: 排序](http://acm.zzu.edu.cn/problem.php?id=1044)| 
 | 2. [1156: 建设电力系统](http://acm.zzu.edu.cn/problem.php?id=1156)| 2. [1051: 成绩排序](http://acm.zzu.edu.cn/problem.php?id=1051)| 
 | 3. [1154: 仓库的位置](http://acm.zzu.edu.cn/problem.php?id=1154)| 3. [1135: 赌徒](http://acm.zzu.edu.cn/problem.php?id=1135)| 
