@@ -87,7 +87,7 @@ gallery:
 参考文献：
 1. Martello, S. (1990). Knapsack problems: algorithms and computer implementations. Wiley-Interscience series in discrete mathematics and optimiza tion.
 2. Brucker, P. (1984). An O (n) algorithm for quadratic knapsack problems. Operations Research Letters, 3(3), 163-166.
-3. Balas, E., & Zemel, E. (1980). An algorithm for large zero-one knapsack problems. operations Research, 28(5), 1130-1154.
+3. Balas, E., & Zemel, E. (1980). An algorithm for large zero-one knapsack problems. Operations Research, 28(5), 1130-1154.
 
 测试集：
 1. Test data set ([download link](https://people.sc.fsu.edu/~jburkardt/datasets/knapsack_01/knapsack_01.html))
