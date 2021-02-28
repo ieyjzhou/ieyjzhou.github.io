@@ -83,7 +83,7 @@ gallery:
 测试集：
 1. Test data set ([download link](https://sites.google.com/site/shunjitanaka/brp))
 
-## 分别实现 Brucker (1984)和Balas and Zemel (1980)中描述的0-1背包问题求解算法
+## 分别实现 Brucker (1984)和Balas and Zemel (1980)中描述的0-1背包问题求解算法  (小组作业，每组不超过6人)
 参考文献：
 1. Martello, S. (1990). Knapsack problems: algorithms and computer implementations. Wiley-Interscience series in discrete mathematics and optimiza tion.
 2. Brucker, P. (1984). An O (n) algorithm for quadratic knapsack problems. Operations Research Letters, 3(3), 163-166.
