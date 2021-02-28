@@ -79,18 +79,22 @@ gallery:
 ## 使用 Branch and bound 实现 Kim and Hong (2006)论文中的 section 2求解
 参考文献：
 1. Kim, K. H., & Hong, G. P. (2006). A heuristic rule for relocating blocks. Computers & Operations Research, 33(4), 940-954.
-2. Test data set ([download link](https://sites.google.com/site/shunjitanaka/brp))
+测试集：
+1. Test data set ([download link](https://sites.google.com/site/shunjitanaka/brp))
 
 ## 分别实现 Brucker (1984)和Balas and Zemel (1980)中描述的0-1背包问题求解算法
 参考文献：
 1. Martello, S. (1990). Knapsack problems: algorithms and computer implementations. Wiley-Interscience series in discrete mathematics and optimiza tion.
 2. Brucker, P. (1984). An O (n) algorithm for quadratic knapsack problems. Operations Research Letters, 3(3), 163-166.
 3. Balas, E., & Zemel, E. (1980). An algorithm for large zero-one knapsack problems. operations Research, 28(5), 1130-1154.
-4. Test data set ([download link](https://people.sc.fsu.edu/~jburkardt/datasets/knapsack_01/knapsack_01.html))
+测试集：
+1. Test data set ([download link](https://people.sc.fsu.edu/~jburkardt/datasets/knapsack_01/knapsack_01.html))
 
 ## 超级玛丽源代码分析 Super Mario project source analysis (小组作业，每组不超过6人)
-[Writing Super Mario Bros in C++](https://dev.to/feresr/writing-super-mario-bros-in-c-4726)  
-[code download](https://github.com/ieyjzhou/super-mario-bros)  
+参考文献：
+ 1. Writing Super Mario Bros in C++ [medium link](https://feresr.medium.com/writing-super-mario-bros-in-c-e59dfc5743af),[dev link](https://dev.to/feresr/writing-super-mario-bros-in-c-4726)  
+测试集：
+ 1. [code download](https://github.com/ieyjzhou/super-mario-bros)  
 
 
 | 主题       |  主题 |
