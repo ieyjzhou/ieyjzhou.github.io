@@ -96,7 +96,7 @@ gallery:
 参考文献：
  1. Writing Super Mario Bros in C++ [medium link](https://feresr.medium.com/writing-super-mario-bros-in-c-e59dfc5743af),[dev link](https://dev.to/feresr/writing-super-mario-bros-in-c-4726)  
 
-测试集：
+源代码：
  1. [code download](https://github.com/ieyjzhou/super-mario-bros)  
 
 
