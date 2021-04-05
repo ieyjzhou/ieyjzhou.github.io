@@ -10,6 +10,7 @@ years: [2020, 2019, 2018,2017, 2016, 2015]
 Journal Publications
 ------
 
+1. Dou, R., Li, W., Nan, G., Wang, X., **Zhou, Y.** (2021). How can manufacturers make decisions on product appearance design? A research on optimal design based on customers’ emotional satisfaction. **Journal of Management Science and Engineering**, 1-20 **[PDF](https://www.sciencedirect.com/science/article/pii/S2096232021000123/pdfft?md5=b3177876be2dde7a2363782f40ffcba8&pid=1-s2.0-S2096232021000123-main.pdf)**
 1. Tiwari S., Wee M. H., **Zhou, Y.**, & Tjoeng L. (2021). Freight consolidation and containerization strategy under business as usual scenario & carbon tax regulation. **Journal of Cleaner Production**, 279, 123270  **[PDF](https://ieyjzhou.github.io/files/JCP2020_carbon_tax.pdf)**
 1. Shi Y. , **Zhou Y. $^\dagger$**, Ye W., Zhao Q. Q., (2020). A relative robust optimization for a vehicle routing problem with time-window and synchronized visits considering greenhouse gas emissions. **Journal of Cleaner Production**, 275, 124112  **[PDF](https://ieyjzhou.github.io/files/JCP2020_robust.pdf)**
 1. Shi Y. , **Zhou Y. $^\dagger$**, Boudouh T., Grunder O., (2020). A lexicographic-based two-stage algorithm for vehicle routing problem with simultaneous pickup-delivery and time window. **Engineering Applications of Artificial Intelligence**, 95, 103901 **[PDF](https://ieyjzhou.github.io/files/EAAI2020.pdf)**
