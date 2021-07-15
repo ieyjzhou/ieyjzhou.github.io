@@ -66,6 +66,9 @@ Academic Services
   
   Membership
    * [Korean Operations Research and Management Science Society](http://www.korms.or.kr), Regular Member 
+   
+  Conference committee 
+   * Local organizing committee: [The 10th International Conference on Logistics and Maritime Systems (LOGMS2021)](https://www.logms2021.com/)
 
 Contact
 ======  
