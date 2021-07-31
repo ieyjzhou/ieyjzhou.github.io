@@ -59,6 +59,7 @@ Academic Services
    * [International Journal of Computational Intelligence Systems](https://www.atlantis-press.com/journals/ijcis), **Atlantis Press**
    * [Journal of Industrial and Production Engineering](https://www.tandfonline.com/toc/tjci21/current), **Taylor and Francis Group**
    * [Environmental Engineering and Management Journal](http://omicron.ch.tuiasi.ro/EEMJ/)
+   * [Applied Sciences](https://www.mdpi.com/journal/applsci), "MDPI"
    
   Conference Reviewer
    * The 20th Asia Pacific Industrial Engineering and Management Systems 
