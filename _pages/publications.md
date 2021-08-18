@@ -10,8 +10,9 @@ years: [2020, 2019, 2018,2017, 2016, 2015]
 Journal Publications
 ------
 
+1. Wang, H., **Zhou, Y.$^\dagger$**, Zhou, B., Niu, X., Zhang, H., & Wang, Z., (2021). Interactive ECG annotating: An artificial intelligence method for smart ECG manipulation, **Information Sciences**, (In press).
 1. Wang, H., Dai, H., **Zhou, Y.$^\dagger$**, Zhou, B., Lu, P., Zhang H., & Wang, Z., (2021). An effective feature extraction method based on GDS for atrial fibrillation detection. **Journal of Biomedical Informatics**, 119, 103819 **[PDF](https://ieyjzhou.github.io/files/JBI2021.pdf)**
-1. Dou, R., Li, W., Nan, G., Wang, X.,& **Zhou, Y.** (2021). How can manufacturers make decisions on product appearance design? A research on optimal design based on customers’ emotional satisfaction. **Journal of Management Science and Engineering**, 1-20 **[PDF](https://www.sciencedirect.com/science/article/pii/S2096232021000123/pdfft?md5=b3177876be2dde7a2363782f40ffcba8&pid=1-s2.0-S2096232021000123-main.pdf)**
+1. Dou, R., Li, W., Nan, G., Wang, X.,& **Zhou, Y.** (2021). How can manufacturers make decisions on product appearance design? A research on optimal design based on customers’ emotional satisfaction. **Journal of Management Science and Engineering**, 6(2), 177-196 **[PDF](https://www.sciencedirect.com/science/article/pii/S2096232021000123/pdfft?md5=b3177876be2dde7a2363782f40ffcba8&pid=1-s2.0-S2096232021000123-main.pdf)**
 1. Tiwari S., Wee M. H., **Zhou, Y.**, & Tjoeng L. (2021). Freight consolidation and containerization strategy under business as usual scenario & carbon tax regulation. **Journal of Cleaner Production**, 279, 123270  **[PDF](https://ieyjzhou.github.io/files/JCP2020_carbon_tax.pdf)**
 2. **Zhou Y.**, & Lee G. M. (2020). A bi-objective medical relief shelter location problem considering coverage ratios.  **International Journal of Industrial Engineering:
 Theory, Applications and Practice**, 27(4), 971-988 **[PDF](https://ieyjzhou.github.io/files/IJIE2020.pdf)**
