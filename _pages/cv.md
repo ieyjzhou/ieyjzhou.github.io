@@ -63,7 +63,7 @@ Academic Services
    * [World Electric Vehicle Journal](https://www.mdpi.com/journal/wevj), **MDPI**
   
   Journal Reviewer (Domestic journals)
-   * 中国舰船研究 (Chinese Journal of Ship Research)
+   * [中国舰船研究](http://journal16.magtechjournal.com/jwk_zgjcyj/CN/volumn/home.shtml) ([Chinese Journal of Ship Research](http://journal16.magtechjournal.com/jwk_zgjcyj/EN/volumn/current.shtml))
    
    
   Conference Reviewer
