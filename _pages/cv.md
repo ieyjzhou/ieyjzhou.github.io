@@ -49,7 +49,7 @@ Awards and Honors
 Academic Services
 ======
  
-  Journal Reviewer
+  Journal Reviewer (International journals)
    * [Transportation Research Part B: Methodological](https://www.sciencedirect.com/journal/transportation-research-part-b-methodological), **Elsevier**
    * [Applied Soft Computing](https://www.journals.elsevier.com/applied-soft-computing), **Elsevier**
    * [Computer and Industrial Engineering](https://www.journals.elsevier.com/computers-and-industrial-engineering), **Elsevier**
@@ -61,6 +61,10 @@ Academic Services
    * [Environmental Engineering and Management Journal](http://omicron.ch.tuiasi.ro/EEMJ/)
    * [Applied Sciences](https://www.mdpi.com/journal/applsci), **MDPI**
    * [World Electric Vehicle Journal](https://www.mdpi.com/journal/wevj), **MDPI**
+  
+  Journal Reviewer (Domestic journals)
+   * 中国舰船研究 (Chinese Journal of Ship Research)
+   
    
   Conference Reviewer
    * The 20th Asia Pacific Industrial Engineering and Management Systems 
