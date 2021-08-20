@@ -87,11 +87,15 @@ Educations
  
 Selected Papers
 ======
-  * **Zhou, Y.**, & Kim, K. H. (2020). Optimal parameters in concession contracts between container terminal operators and investors. **International Journal of Logistics Research and Applications.** (In press)
-  * **Zhou, Y.**, & Kim, K. H. (2020). A game theoretic model and a coevolutionary solution procedure to determine the terminal handling charges for container terminals. **Computer & Industrial Engineering.** (In press)
-  * **Zhou, Y.**, & Kim, K. H. (2019). Optimal concession contract between a port authority and container-terminal operators by revenue-sharing schemes with quantity discount. **Maritime Policy & Management.** (In press)
-  * **Zhou, Y.**, & Lee, G. M. (2018). Linking soft computing to art: Introduction of efficient k-continuous line drawing. **Applied Soft Computing**, 68, 932–943.
-  * Gu, J., **Zhou, Y.**, Das, A., Moon, I., & Lee, G. M. (2018). Medical relief shelter location problem with patient severity under a limited relief budget. **Computers & Industrial Engineering**, 125, 720–728.
+1. Wang, H., **Zhou, Y.$^\dagger$**, Zhou, B., Niu, X., Zhang, H., & Wang, Z., (2021). Interactive ECG annotating: An artificial intelligence method for smart ECG manipulation, **Information Sciences**, (In press).
+1. Wang, H., Dai, H., **Zhou, Y.$^\dagger$**, Zhou, B., Lu, P., Zhang H., & Wang, Z., (2021). An effective feature extraction method based on GDS for atrial fibrillation detection. **Journal of Biomedical Informatics**, 119, 103819 **[PDF](https://ieyjzhou.github.io/files/JBI2021.pdf)**
+2. **Zhou Y.**, & Lee G. M. (2020). A bi-objective medical relief shelter location problem considering coverage ratios.  **International Journal of Industrial Engineering:
+Theory, Applications and Practice**, 27(4), 971-988 **[PDF](https://ieyjzhou.github.io/files/IJIE2020.pdf)**
+4. Shi Y. , **Zhou Y. $^\dagger$**, Boudouh T.,& Grunder O., (2020). A lexicographic-based two-stage algorithm for vehicle routing problem with simultaneous pickup-delivery and time window. **Engineering Applications of Artificial Intelligence**, 95, 103901 **[PDF](https://ieyjzhou.github.io/files/EAAI2020.pdf)**
+5. **Zhou Y.**, & Kim K. H. (2020). Optimal parameters in concession contracts between container terminal operators and investors. **International Journal of Logistics Research and Applications**, 23(6) 602-625. **[PDF]( https://ieyjzhou.github.io/files/IJLRA2020.pdf)** 
+6. **Zhou Y.**, & Kim K. H. (2020). A game theoretic model and a coevolutionary solution procedure to determine the terminal handling charges for container terminals. **Computer & Industrial Engineering**, 144, 106466 **[PDF](https://ieyjzhou.github.io/files/CIE2020_coevolutionary.pdf)**
+7. **Zhou Y.**, & Kim K. H. (2019). Optimal concession contract between a port authority and container-terminal operators by revenue-sharing schemes with quantity discount. **Maritime Policy & Management.** **[PDF](https://ieyjzhou.github.io/files/online_version%20with_SP.pdf)** Supplemental material [PDF](https://ieyjzhou.github.io/files/Supplemental_Material_MPM_2019.pdf).
+1. **Zhou Y.**, & Lee G. M. (2018). Linking soft computing to art: Introduction of efficient k-continuous line drawing. **Applied Soft Computing**, 68, 932–943. **[PDF](https://ieyjzhou.github.io/CIEG/Paper/KCLD_2018_Published_Version.pdf)**
  * [More papers >>>>](https://ieyjzhou.github.io/publications/)
  
  
