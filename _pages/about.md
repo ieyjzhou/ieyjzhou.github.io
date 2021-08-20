@@ -87,6 +87,9 @@ Educations
  
 Selected Papers
 ======
+
+<div style="text-align: right"> $^\dagger$ corresponding author <br /> $^\#$ student under my (co-)supervision </div>
+
 1. Wang, H., **Zhou, Y.$^\dagger$**, Zhou, B., Niu, X., Zhang, H., & Wang, Z., (2021). Interactive ECG annotating: An artificial intelligence method for smart ECG manipulation, **Information Sciences**, (In press).
 1. Wang, H., Dai, H., **Zhou, Y.$^\dagger$**, Zhou, B., Lu, P., Zhang H., & Wang, Z., (2021). An effective feature extraction method based on GDS for atrial fibrillation detection. **Journal of Biomedical Informatics**, 119, 103819 **[PDF](https://ieyjzhou.github.io/files/JBI2021.pdf)**
 2. **Zhou Y.**, & Lee G. M. (2020). A bi-objective medical relief shelter location problem considering coverage ratios.  **International Journal of Industrial Engineering:
