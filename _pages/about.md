@@ -96,7 +96,7 @@ Theory, Applications and Practice**, 27(4), 971-988 **[PDF](https://ieyjzhou.git
 6. **Zhou Y.**, & Kim K. H. (2020). A game theoretic model and a coevolutionary solution procedure to determine the terminal handling charges for container terminals. **Computer & Industrial Engineering**, 144, 106466 **[PDF](https://ieyjzhou.github.io/files/CIE2020_coevolutionary.pdf)**
 7. **Zhou Y.**, & Kim K. H. (2019). Optimal concession contract between a port authority and container-terminal operators by revenue-sharing schemes with quantity discount. **Maritime Policy & Management.** **[PDF](https://ieyjzhou.github.io/files/online_version%20with_SP.pdf)** Supplemental material [PDF](https://ieyjzhou.github.io/files/Supplemental_Material_MPM_2019.pdf).
 1. **Zhou Y.**, & Lee G. M. (2018). Linking soft computing to art: Introduction of efficient k-continuous line drawing. **Applied Soft Computing**, 68, 932–943. **[PDF](https://ieyjzhou.github.io/CIEG/Paper/KCLD_2018_Published_Version.pdf)**
- 1. [More papers >>>>](https://ieyjzhou.github.io/publications/)
+ 1.  [More papers >>>>](https://ieyjzhou.github.io/publications/)
  
  
 Awards and Honors
