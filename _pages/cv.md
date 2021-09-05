@@ -50,17 +50,18 @@ Academic Services
 ======
  
   Journal Reviewer (International journals)
-   * [Transportation Research Part B: Methodological](https://www.sciencedirect.com/journal/transportation-research-part-b-methodological), **Elsevier**
-   * [Applied Soft Computing](https://www.journals.elsevier.com/applied-soft-computing), **Elsevier**
-   * [Computer and Industrial Engineering](https://www.journals.elsevier.com/computers-and-industrial-engineering), **Elsevier**
-   * [Maritime Policy & Management](https://www.tandfonline.com/toc/tmpm20/current), **Taylor and Francis Group**
-   * [Advances in Difference Equations](https://advancesindifferenceequations.springeropen.com/), **Springer Nature**
-   * [Environmental Science and Pollution Research](https://www.springer.com/journal/11356), **Springer Nature**
-   * [International Journal of Computational Intelligence Systems](https://www.atlantis-press.com/journals/ijcis), **Atlantis Press**
-   * [Journal of Industrial and Production Engineering](https://www.tandfonline.com/toc/tjci21/current), **Taylor and Francis Group**
+   * [Transportation Research Part B: Methodological](https://www.sciencedirect.com/journal/transportation-research-part-b-methodological)  
+   * [Applied Soft Computing](https://www.journals.elsevier.com/applied-soft-computing)  
+   * [Computer and Industrial Engineering](https://www.journals.elsevier.com/computers-and-industrial-engineering) 
+   * [Maritime Policy & Management](https://www.tandfonline.com/toc/tmpm20/current) 
+   * [Advances in Difference Equations](https://advancesindifferenceequations.springeropen.com/) 
+   * [Environmental Science and Pollution Research](https://www.springer.com/journal/11356) 
+   * [International Journal of Computational Intelligence Systems](https://www.atlantis-press.com/journals/ijcis) 
+   * [Journal of Industrial and Production Engineering](https://www.tandfonline.com/toc/tjci21/current) 
    * [Environmental Engineering and Management Journal](http://omicron.ch.tuiasi.ro/EEMJ/)
-   * [Applied Sciences](https://www.mdpi.com/journal/applsci), **MDPI**
-   * [World Electric Vehicle Journal](https://www.mdpi.com/journal/wevj), **MDPI**
+   * [Applied Sciences](https://www.mdpi.com/journal/applsci) 
+   * [World Electric Vehicle Journal](https://www.mdpi.com/journal/wevj) 
+   * [Sensors](https://www.mdpi.com/journal/sensors)
   
   Journal Reviewer (Domestic journals)
    * [中国舰船研究](http://journal16.magtechjournal.com/jwk_zgjcyj/CN/volumn/home.shtml) ([Chinese Journal of Ship Research](http://journal16.magtechjournal.com/jwk_zgjcyj/EN/volumn/current.shtml))
