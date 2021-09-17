@@ -90,7 +90,8 @@ Selected Papers
 
 <div style="text-align: right"> $^\dagger$ corresponding author <br /> $^\#$ student under my (co-)supervision </div>
 
-1. Wang, H., **Zhou, Y.$^\dagger$**, Zhou, B., Niu, X., Zhang, H., & Wang, Z., (2021). Interactive ECG annotating: An artificial intelligence method for smart ECG manipulation, **Information Sciences**, (In press).
+1. Feng, P., Fu, J., Ge, Z., Wang, H., **Zhou, Y.$^\dagger$**, Zhou, B., & Wang, Z., (2021), Unsupervised semantic-aware adaptive feature fusion network for arrhythmia detection, **Information Sciences**, **[(In press)]().** 
+3. Wang, H., **Zhou, Y.$^\dagger$**, Zhou, B., Niu, X., Zhang, H., & Wang, Z., (2021). Interactive ECG annotating: An artificial intelligence method for smart ECG manipulation, **Information Sciences**, 581, 42-59 **[PDF](https://ieyjzhou.github.io/files/IS2021ECGannotation.pdf).**
 1. Wang, H., Dai, H., **Zhou, Y.$^\dagger$**, Zhou, B., Lu, P., Zhang H., & Wang, Z., (2021). An effective feature extraction method based on GDS for atrial fibrillation detection. **Journal of Biomedical Informatics**, 119, 103819 **[PDF](https://ieyjzhou.github.io/files/JBI2021.pdf)**
 2. **Zhou Y.**, & Lee G. M. (2020). A bi-objective medical relief shelter location problem considering coverage ratios.  **International Journal of Industrial Engineering:
 Theory, Applications and Practice**, 27(4), 971-988 **[PDF](https://ieyjzhou.github.io/files/IJIE2020.pdf)**
