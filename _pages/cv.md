@@ -59,6 +59,7 @@ Academic Services
    * [International Journal of Computational Intelligence Systems](https://www.atlantis-press.com/journals/ijcis) 
    * [Journal of Industrial and Production Engineering](https://www.tandfonline.com/toc/tjci21/current) 
    * [Environmental Engineering and Management Journal](http://omicron.ch.tuiasi.ro/EEMJ/)
+   * [Computer Modeling in Engineering & Sciences](https://www.techscience.com/cmes/index.html)
    * [Applied Sciences](https://www.mdpi.com/journal/applsci) 
    * [World Electric Vehicle Journal](https://www.mdpi.com/journal/wevj) 
    * [Sensors](https://www.mdpi.com/journal/sensors)
