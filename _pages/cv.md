@@ -75,12 +75,14 @@ Academic Services
   Membership
    * [Korean Operations Research and Management Science Society](http://www.korms.or.kr), Regular Member 
    * Belt and Road Global Research Network (B&R-GRN), Member
+   * 中国交通运输协会青年科技工作者工作委员会委员 (2021.10~2025.10,第六届) 
    
-  Conference committee 
+  Conference Committee 
    * [The 10th International Conference on Logistics and Maritime Systems (LOGMS2021)](https://www.logms2021.com/)
-      * Local organizing committee
+      * Local Organizing Committee
       * Session Chair
-   * 中国交通运输协会青年科技工作者工作委员会委员 (2021.10~2025.10,第六届)   
+   * [2021 IEEE 7th International Conference on Computer and Communications](http://www.iccc.org/) 
+     * Technical Committe
 
 Contact
 ======  
