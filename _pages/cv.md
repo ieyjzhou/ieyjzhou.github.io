@@ -39,10 +39,6 @@ Awards and Honors
    * Best Student Paper Award of The 46th International Conference on Computers & Industrial Engineering (CIE46) (2016)
    * State-Sponsored Scholarship Program for Graduate Students (China Scholarship Council) (2016)
    * Brain Korea 21 Program for Leading Universities and Students Scholarship (National Research Foundation of Korea) (2015)
-   * International Student Scholarship of Pusan National University (2015)
-   * Excellent Graduate of Zhengzhou University (2015)
-   * Merit Student of Henan Province (2015)
-   * National Master Candidate. Scholarships of P.R.China (2014)
    * [More information >>>>](https://ieyjzhou.github.io/YanjieZhou/AwardsandHonors.html)
    
 
