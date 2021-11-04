@@ -83,7 +83,7 @@ Academic Services
       * Local Organizing Committee
       * Session Chair
    * [IEEE 7th International Conference on Computer and Communications, 2021](http://www.iccc.org/) 
-     * Technical Committe
+     * Technical Committee
 
 Contact
 ======  
