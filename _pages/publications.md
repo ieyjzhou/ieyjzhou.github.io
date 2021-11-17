@@ -9,6 +9,7 @@ years: [2020, 2019, 2018,2017, 2016, 2015]
 
 Journal Publications
 ------
+1. Ge Z., Cheng H, **Zhou Y.**,Tong Z.,Yang L.,Zhou B.,Wang Z. (2021), Pacing electrocardiogram detection with memory-based autoencoder and metric learning, **Frontiers in Physiology**, inpress. **[PDF](https://www.frontiersin.org/articles/10.3389/fphys.2021.727210/abstract)**
 1. Feng, P., Fu, J., Ge, Z., Wang, H., **Zhou, Y.$^\dagger$**, Zhou, B., & Wang, Z., (2022), Unsupervised semantic-aware adaptive feature fusion network for arrhythmia detection, **Information Sciences**, 582, 509-528. **[PDF](https://ieyjzhou.github.io/files/2022ISpanpan.pdf)** 
 2. Wang, H., Huang M., Wang H., Feng X., **Zhou, Y.$^\dagger$** (2022). Contract design for the fourth party logistics considering tardiness risk, **International Journal of Industrial Engineering Computations**, 13(1), 13-30. **[PDF](http://www.growingscience.com/ijiec/Vol13/IJIEC_2021_24.pdf)**
 3. Wang, H., **Zhou, Y.$^\dagger$**, Zhou, B., Niu, X., Zhang, H., & Wang, Z., (2021). Interactive ECG annotating: An artificial intelligence method for smart ECG manipulation, **Information Sciences**, 581, 42-59. **[PDF](https://ieyjzhou.github.io/files/IS2021ECGannotation.pdf)**
