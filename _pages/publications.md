@@ -35,6 +35,13 @@ minimize greenhouse gas emissions. **Sustainability**, 9(5), 776. **[PDF](https:
 
 Conference Publications
 ------
+1. Wang, H., Zhou, Y., Zhou, B., & Wang, Z. (2021). A Novel Method for Detection of ECG with Deep Learning. In 2021 7th International Conference on Computer and Communications (ICCC) (pp. 631-635). IEEE. doi:10.1109/ICCC54389.2021.9674506 (December 10— 13, 2021, Chengdu, China )
+2. Gao, Y., Zhou, B., **Zhou, Y.**, Shi, L., Tao, Y., & Zhang, J. (2018). Transfer learning-based behavioural task decoding from brain activity. In The international conference on healthcare science and engineering (pp. 71–81). Springer. doi:10.1007/978-981-13-6837-0_6. (June 1-3, 2018, Guangxi, China.)
+3. Zhou, B., **Zhou, Y.**, Xu, M., & Wu, F. (2014). Computation-aware motion estimation algorithm based on qoe control. In
+2014 ieee computers communications and it applications conference (pp. 261–265). IEEE. doi:10.1109/ComComAp.2014.7017207. (October 20-22, 2014, Beijing, China.)
+
+Conference Presentation 
+------
 1. **Zhou, Y.**, & Liu G. (2021). A deep learning method to predict container throughput for inland port. In The 10th International Conference on Logistics and Maritime Systems (LOGMS 2021). (Oct 29-31, 2021, Zhejiang, China.)
 2. Shi, Y., **Zhou, Y.**, & Zhao Q. (2021). A zone-based pricing for vehicle routing problem with time window and stochastic demand. In The 10th International Conference on Logistics and Maritime Systems (LOGMS 2021). (Oct 29-31, 2021, Zhejiang, China.)
 3. **Zhou, Y.**, & Kim, K. H. (2019). Competition and Cooperation among Vessel Carriers in Feeder Network Design The 2nd Y-RIB International Conference (December 1-3, 2019, Chongqing, China.) <font color="red">Out Standing Paper Award<font>
@@ -47,9 +54,6 @@ under various contract schemes. In The 27th annual conference of the internation
 2019 (IAME 2019 ). (June 25-28, 2019, Athens, Greece.)
 1. **Zhou, Y.**, & Kim, K. H. (2019). Terminal location and sharing problem in a competitive environment. In The 4th belt
 and road initiative conference 2019(BRI 2019). (August 1-3, 2019, Bangkok, Thailand.)
-1. Gao, Y., Zhou, B., **Zhou, Y.**, Shi, L., Tao, Y., & Zhang, J. (2018). Transfer learning-based behavioural task decoding from
-brain activity. In The international conference on healthcare science and engineering (pp. 71–81). Springer. doi:10.1007/
-978-981-13-6837-0_6. (June 1-3, 2018, Guangxi, China.)
 1. **Zhou, Y.**, Choi, S.-H., & Kim, K. H. (2018). Determining rental charges by a port authority considering container han-
 dling prices by terminals. In The 19th asia pacific industrial engineering and management systems (APIEMS 2018). (December 5-8, 2018, Hong Kong, China.)
 1. **Zhou, Y.**, & Kim, K. H. (2018). Optimal concession contract between the port authority and container terminals by a
@@ -72,5 +76,3 @@ China.) <font color="red">Best Student Paper Award<font>
 1. **Zhou, Y.**, & Lee, G. M. (2016). Linking the optimization to the art; an efficient k-continuous line drawing using image
 segmentation, stippling, and the traveling salesman problem. In The 2016 international symposium on semiconductor
 manufacturing intelligence. (August 7-10, 2016, Hsinchu, Taiwan.)
-1. Zhou, B., **Zhou, Y.**, Xu, M., & Wu, F. (2014). Computation-aware motion estimation algorithm based on qoe control. In
-2014 ieee computers communications and it applications conference (pp. 261–265). IEEE. doi:10.1109/ComComAp.2014.7017207. (October 20-22, 2014, Beijing, China.)
