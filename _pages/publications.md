@@ -35,7 +35,7 @@ minimize greenhouse gas emissions. **Sustainability**, 9(5), 776. **[PDF](https:
 
 Conference Publications
 ------
-1. Wang, H., Zhou, Y., Zhou, B., & Wang, Z. (2021). A Novel Method for Detection of ECG with Deep Learning. In 2021 7th International Conference on Computer and Communications (ICCC) (pp. 631-635). IEEE. doi:10.1109/ICCC54389.2021.9674506 (December 10— 13, 2021, Chengdu, China )
+1. Wang, H., Zhou, Y., Zhou, B., & Wang, Z. (2021). A Novel Method for Detection of ECG with Deep Learning. In 2021 7th International Conference on Computer and Communications (ICCC) (pp. 631-635). IEEE. doi:10.1109/ICCC54389.2021.9674506 (December 10-13, 2021, Chengdu, China )
 2. Gao, Y., Zhou, B., **Zhou, Y.**, Shi, L., Tao, Y., & Zhang, J. (2018). Transfer learning-based behavioural task decoding from brain activity. In The international conference on healthcare science and engineering (pp. 71–81). Springer. doi:10.1007/978-981-13-6837-0_6. (June 1-3, 2018, Guangxi, China.)
 3. Zhou, B., **Zhou, Y.**, Xu, M., & Wu, F. (2014). Computation-aware motion estimation algorithm based on qoe control. In
 2014 ieee computers communications and it applications conference (pp. 261–265). IEEE. doi:10.1109/ComComAp.2014.7017207. (October 20-22, 2014, Beijing, China.)
