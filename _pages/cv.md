@@ -66,6 +66,7 @@ Academic Services
    
   Conference Reviewer
    * The 20th Asia Pacific Industrial Engineering and Management Systems 
+   * IEEE 7th International Conference on Computer and Communications
    * The 1nd International Conference of the Yangtze River Research and Innovation Belt 
   
   Membership   
