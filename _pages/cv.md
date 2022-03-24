@@ -68,10 +68,10 @@ Academic Services
    * The 20th Asia Pacific Industrial Engineering and Management Systems 
    * The 1nd International Conference of the Yangtze River Research and Innovation Belt 
   
-  Membership
-   * [中国计算机学会](https://www.ccf.org.cn/), 专业会员
+  Membership   
    * [Korean Operations Research and Management Science Society](http://www.korms.or.kr), Regular Member 
    * Belt and Road Global Research Network (B&R-GRN), Member
+   * [中国计算机学会](https://www.ccf.org.cn/), 专业会员
    * [中国交通运输协会](https://www.cctaw.cn/) 
       * 青年科技工作者工作委员会委员 (2021.10~2025.10,第六届) 
    
