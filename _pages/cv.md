@@ -82,6 +82,7 @@ Academic Services
       * Session Chair
    * [IEEE 7th International Conference on Computer and Communications, 2021](http://www.iccc.org/) 
      * Technical Committee
+     * Session Chair
 
 Contact
 ======  
