@@ -87,6 +87,8 @@ Academic Services
    * [IEEE 7th International Conference on Computer and Communications, 2021](http://www.iccc.org/) 
      * Technical Committee
      * Session Chair
+  * [2021年中韩博士论坛](http://www.xinhan100.com/zixun/zuixin/2021-09-08/3174.html)
+     * 经济学分会场主席
 
 Contact
 ======  
