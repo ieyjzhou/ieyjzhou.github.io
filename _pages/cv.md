@@ -68,10 +68,14 @@ Academic Services
    * The 20th Asia Pacific Industrial Engineering and Management Systems 
    * IEEE 7th International Conference on Computer and Communications
    * The 1nd International Conference of the Yangtze River Research and Innovation Belt 
+   * CCF第37届中国计算机应用大会
   
   Membership   
    * [Korean Operations Research and Management Science Society](http://www.korms.or.kr), Regular Member 
    * Belt and Road Global Research Network (B&R-GRN), Member
+   * IEEE Membership, Member
+   * 国家留学基金委通讯评审专家
+   * [河南省物流协会](http://www.hnwlxh.com/), 副秘书长
    * [中国计算机学会](https://www.ccf.org.cn/), 专业会员
    * [中国交通运输协会](https://www.cctaw.cn/) 
       * 青年科技工作者工作委员会委员 (2021.10~2025.10,第六届) 
