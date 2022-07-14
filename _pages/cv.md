@@ -63,6 +63,7 @@ Academic Services
   
   Journal Reviewer (Domestic journals)
    * [中国舰船研究](http://journal16.magtechjournal.com/jwk_zgjcyj/CN/volumn/home.shtml) ([Chinese Journal of Ship Research](http://journal16.magtechjournal.com/jwk_zgjcyj/EN/volumn/current.shtml))
+   * [交通运输工程学报(英文版)](http://jtte.chd.edu.cn/)
    
    
   Conference Reviewer
