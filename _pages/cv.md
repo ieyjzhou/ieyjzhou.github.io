@@ -78,6 +78,7 @@ Academic Services
    * IEEE Membership, Member
    * [国家留学基金委](https://www.csc.edu.cn/), 通讯评审专家
    * [中国计算机学会](https://www.ccf.org.cn/), 专业会员
+   * 河南省物流学会副秘书长 （2022.08-2026.08）
    * [中国交通运输协会](https://www.cctaw.cn/) 
       * 青年科技工作者工作委员会委员 (2021.10~2025.10,第六届) 
    
