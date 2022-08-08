@@ -51,6 +51,7 @@ Academic Services
    * [Applied Soft Computing](https://www.journals.elsevier.com/applied-soft-computing)  
    * [Computer and Industrial Engineering](https://www.journals.elsevier.com/computers-and-industrial-engineering) 
    * [Maritime Policy & Management](https://www.tandfonline.com/toc/tmpm20/current) 
+   * [International Journal of Shipping and Transport Logistics](https://www.inderscience.com/jhome.php?jcode=ijstl)
    * [Advances in Difference Equations](https://advancesindifferenceequations.springeropen.com/) 
    * [Environmental Science and Pollution Research](https://www.springer.com/journal/11356) 
    * [International Journal of Computational Intelligence Systems](https://www.atlantis-press.com/journals/ijcis) 
