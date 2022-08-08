@@ -89,7 +89,7 @@ Selected Papers
 ======
 
 <div style="text-align: right"> $^\dagger$ corresponding author <br /> $^\#$ student under my (co-)supervision </div>
-
+1. Shi Y. , **Zhou Y. $^\dagger$**, Boudouh T.,& Grunder O., (2022). A memetic algorithm for a relocation-routing problem in green groduction of gas considering uncertainties  . **Swarm and Evolutionary Computation**, 74, 101129. **[PDF](https://ieyjzhou.github.io/files/2022SWEVO.pdf)** 
 1. Feng, P., Fu, J., Ge, Z., Wang, H., **Zhou, Y.$^\dagger$**, Zhou, B., & Wang, Z., (2022), Unsupervised semantic-aware adaptive feature fusion network for arrhythmia detection, **Information Sciences**, 582, 509-528 **[PDF](https://ieyjzhou.github.io/files/2022ISpanpan.pdf).** 
 3. Wang, H., **Zhou, Y.$^\dagger$**, Zhou, B., Niu, X., Zhang, H., & Wang, Z., (2021). Interactive ECG annotating: An artificial intelligence method for smart ECG manipulation, **Information Sciences**, 581, 42-59 **[PDF](https://ieyjzhou.github.io/files/IS2021ECGannotation.pdf).**
 1. Wang, H., Dai, H., **Zhou, Y.$^\dagger$**, Zhou, B., Lu, P., Zhang H., & Wang, Z., (2021). An effective feature extraction method based on GDS for atrial fibrillation detection. **Journal of Biomedical Informatics**, 119, 103819 **[PDF](https://ieyjzhou.github.io/files/JBI2021.pdf)**
