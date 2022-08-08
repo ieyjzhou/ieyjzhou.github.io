@@ -57,9 +57,7 @@ Academic Services
    * [Journal of Industrial and Production Engineering](https://www.tandfonline.com/toc/tjci21/current) 
    * [Environmental Engineering and Management Journal](http://omicron.ch.tuiasi.ro/EEMJ/)
    * [Computer Modeling in Engineering & Sciences](https://www.techscience.com/cmes/index.html)
-   * [Applied Sciences](https://www.mdpi.com/journal/applsci) 
-   * [World Electric Vehicle Journal](https://www.mdpi.com/journal/wevj) 
-   * [Sensors](https://www.mdpi.com/journal/sensors)
+   * [The International Journal of Industrial Engineering: Theory, Applications and Practice](https://journals.sfu.ca/ijietap/index.php/ijie/)
   
   Journal Reviewer (Domestic journals)
    * [中国舰船研究](http://journal16.magtechjournal.com/jwk_zgjcyj/CN/volumn/home.shtml) ([Chinese Journal of Ship Research](http://journal16.magtechjournal.com/jwk_zgjcyj/EN/volumn/current.shtml))
@@ -73,14 +71,15 @@ Academic Services
    * CCF第37届中国计算机应用大会
   
   Membership   
-   * [Korean Operations Research and Management Science Society](http://www.korms.or.kr), Regular Member 
-   * Belt and Road Global Research Network (B&R-GRN), Member
-   * IEEE Membership, Member
+   
+   * 河南省物流学会, 副秘书长 （2022.08-2026.08）
    * [国家留学基金委](https://www.csc.edu.cn/), 通讯评审专家
-   * [中国计算机学会](https://www.ccf.org.cn/), 专业会员
-   * 河南省物流学会副秘书长 （2022.08-2026.08）
+   * [中国计算机学会](https://www.ccf.org.cn/), 专业会员   
    * [中国交通运输协会](https://www.cctaw.cn/) 
       * 青年科技工作者工作委员会委员 (2021.10~2025.10,第六届) 
+   * IEEE Membership, Member
+   * Belt and Road Global Research Network (B&R-GRN), Member   
+   * [Korean Operations Research and Management Science Society](http://www.korms.or.kr), Regular Member 
    
   Conference Committee 
    * [The 10th International Conference on Logistics and Maritime Systems (LOGMS2021)](https://www.logms2021.com/)
