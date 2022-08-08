@@ -98,5 +98,12 @@ Academic Services
 
 Contact
 ======  
- [46241] 부산광역시 금정구 부산대학로63번길 2(장전동) 공과대학 산업공학과 (특성화공학관 6층 615)
- <iframe src="https://www.google.com/maps/d/embed?mid=1Rc8bf_-5XOlccvpL18x2lHHIcmj4-Wa8&hl=en" width="770" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
+ [450001] No.100 Science Avenue, Zhengzhou City, Henan Province P.R.China (School of Management, Room 407)
+ <div>
+     <iframe width="800" height="500" frameborder="0" src="https://www.bing.com/maps/embed?h=500&w=800&cp=34.811801951427555~113.53281107456917&lvl=15.597809669394213&typ=d&sty=r&src=SHELL&FORM=MBEDV8" scrolling="no">
+     </iframe>
+     <div style="white-space: nowrap; text-align: center; width: 800px; padding: 6px 0;">
+        <a id="largeMapLink" target="_blank" href="https://www.bing.com/maps?cp=34.811801951427555~113.53281107456917&amp;sty=r&amp;lvl=15.597809669394213&amp;FORM=MBEDLD">View Larger Map</a> &nbsp; | &nbsp;
+        <a id="dirMapLink" target="_blank" href="https://www.bing.com/maps/directions?cp=34.811801951427555~113.53281107456917&amp;sty=r&amp;lvl=15.597809669394213&amp;rtp=~pos.34.811801951427555_113.53281107456917____&amp;FORM=MBEDLD">Get Directions</a>
+    </div>
+</div>
