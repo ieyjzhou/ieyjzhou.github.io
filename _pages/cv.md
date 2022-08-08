@@ -13,15 +13,19 @@ redirect_from:
 
 Educations
 ======
- 
-* B.S. in Computer Science, [Zhengzhou University (郑州大学)](http://www.zzu.edu.cn/), 2008.09 ~ 2012.06
-* M.S. in Computer Applied Technology, [Zhengzhou University (郑州大学)](http://www.zzu.edu.cn/), 2012.09 ~ 2015.06
+
 * Ph.D in Industrial Engineering, 	[Pusan National University (부산대학교)](http://www.pusan.ac.kr/), 2015.09 ~ 2020.06
+* M.S. in Computer Applied Technology, [Zhengzhou University (郑州大学)](http://www.zzu.edu.cn/), 2012.09 ~ 2015.06
+* B.S. in Computer Science, [Zhengzhou University (郑州大学)](http://www.zzu.edu.cn/), 2008.09 ~ 2012.06
 
 
 Work Experiences
 ======
  
+* Assistant professor, [Zhengzhou University (郑州大学)](http://www.zzu.edu.cn/)  
+   * School of Management Engineering (Department of Logistics Management), Sep.2020 ~ June.2022
+   * School of Management (Department of Logistics Management), June.2022 ~ now
+
 * Visiting student, [Zhejiang University (浙江大学)](http://www.zju.edu.cn/), July.2013 ~ Apr.2015  
     * [State Key Laboratory of CAD&CG (计算机辅助设计与图形学国家重点实验室)](http://www.cad.zju.edu.cn/)
     * [Graphics and Parallel Systems Lab (图形与并行系统实验室)](http://www.gaps-zju.org/)  
