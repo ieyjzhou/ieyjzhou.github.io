@@ -99,9 +99,9 @@ Academic Services
 Contact
 ======  
  
- Email: ieyjzhou@zzu.edu.cn; y.j.zhou.g@gmail.com
- 
+ Email: [ieyjzhou@zzu.edu.cn](ieyjzhou@zzu.edu.cn); [y.j.zhou.g@gmail.com](y.j.zhou.g@gmail.com)
  Adress: [450001] No.100 Science Avenue, Zhengzhou City, Henan Province P.R.China (School of Management, Room 407)
+ 河南省郑州市高新区科学大道100号郑州大学管理学院407室
  <div>
      <iframe width="800" height="500" frameborder="0" src="https://www.bing.com/maps/embed?h=500&w=800&cp=34.811801951427555~113.53281107456917&lvl=15.597809669394213&typ=d&sty=r&src=SHELL&FORM=MBEDV8" scrolling="no">
      </iframe>
