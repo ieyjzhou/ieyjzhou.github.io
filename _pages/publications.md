@@ -9,7 +9,7 @@ years: [2020, 2019, 2018,2017, 2016, 2015]
 
 Journal Publications
 ------
-1.  Chunqiu Xu, Yu Jing, Bo shen, **Zhou Y. $^\dagger$**, Qian Qian Zhao, (2022). Cost-sharing contract design between manufacturer and dealership considering the customer low-carbon preferences, **Expert Systems With Applications** (inpress).
+1. Chunqiu Xu, Yu Jing, Bo shen, **Zhou Y. $^\dagger$**, Qian Qian Zhao, (2022). Cost-sharing contract design between manufacturer and dealership considering the customer low-carbon preferences, **Expert Systems With Applications** (inpress).
 1. Shi Y. , **Zhou Y. $^\dagger$**, Boudouh T.,& Grunder O., (2022). A memetic algorithm for a relocation-routing problem in green groduction of gas considering uncertainties  . **Swarm and Evolutionary Computation**, 74, 101129. **[PDF](https://ieyjzhou.github.io/files/2022SWEVO.pdf)**, Supplemental material **[PDF](https://ars.els-cdn.com/content/image/1-s2.0-S2210650222000992-mmc1.pdf)**
 1. Dui, H., Chen, S.,**Zhou, Y.$^\dagger$**, & Wu, S. (2022). Maintenance analysis of transportation networks by the traffic transfer principle considering node idle capacity. **Reliability Engineering & System Safety**, 221, 108386. **[PDF](https://ieyjzhou.github.io/files/2022ress.pdf)**
 1. Feng, P., Fu, J., Ge, Z., Wang, H., **Zhou, Y.$^\dagger$**, Zhou, B., & Wang, Z., (2022), Unsupervised semantic-aware adaptive feature fusion network for arrhythmia detection, **Information Sciences**, 582, 509-528. **[PDF](https://ieyjzhou.github.io/files/2022ISpanpan.pdf)** 
@@ -42,7 +42,7 @@ Conference Publications
 3. Zhou, B., **Zhou, Y.**, Xu, M., & Wu, F. (2014). Computation-aware motion estimation algorithm based on qoe control. In
 2014 ieee computers communications and it applications conference (pp. 261–265). IEEE. doi:10.1109/ComComAp.2014.7017207. (October 20-22, 2014, Beijing, China.)
 
-Conference Presentation 
+Conference Presentations 
 ------
 1. **Zhou, Y.**, & Liu G. (2021). A deep learning method to predict container throughput for inland port. In The 10th International Conference on Logistics and Maritime Systems (LOGMS 2021). (Oct 29-31, 2021, Zhejiang, China.)
 2. Shi, Y., **Zhou, Y.**, & Zhao Q. (2021). A zone-based pricing for vehicle routing problem with time window and stochastic demand. In The 10th International Conference on Logistics and Maritime Systems (LOGMS 2021). (Oct 29-31, 2021, Zhejiang, China.)
