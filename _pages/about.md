@@ -89,7 +89,7 @@ Selected Papers
 ======
 
 <div style="text-align: right"> $^\dagger$ corresponding author <br /> $^\#$ student under my (co-)supervision </div>
-1. Xu C., Jing Y., Shen B., **Zhou Y. $^\dagger$**, & Zhao Q. Q., (2022). Cost-sharing contract design between manufacturer and dealership considering the customer low-carbon preferences, **Expert Systems With Applications** **[PDF](https://doi.org/10.1016/j.eswa.2022.118877) (inpress)**.
+1. Xu C., Jing Y., Shen B., **Zhou Y. $^\dagger$**, & Zhao Q. Q., (2023). Cost-sharing contract design between manufacturer and dealership considering the customer low-carbon preferences, **Expert Systems With Applications**, 213, 118877 **[PDF](https://ieyjzhou.github.io/files/2022eswa.pdf)**.
 1. Shi Y. , **Zhou Y. $^\dagger$**, Boudouh T.,& Grunder O., (2022). A memetic algorithm for a relocation-routing problem in green groduction of gas considering uncertainties  . **Swarm and Evolutionary Computation**, 74, 101129. **[PDF](https://ieyjzhou.github.io/files/2022SWEVO.pdf)** 
 1. Dui, H., Chen, S.,**Zhou, Y.$^\dagger$**, & Wu, S. (2022). Maintenance analysis of transportation networks by the traffic transfer principle considering node idle capacity. **Reliability Engineering & System Safety**, 221, 108386. **[PDF](https://ieyjzhou.github.io/files/2022ress.pdf)** 
 3. Wang, H., **Zhou, Y.$^\dagger$**, Zhou, B., Niu, X., Zhang, H., & Wang, Z., (2021). Interactive ECG annotating: An artificial intelligence method for smart ECG manipulation, **Information Sciences**, 581, 42-59 **[PDF](https://ieyjzhou.github.io/files/IS2021ECGannotation.pdf).**
