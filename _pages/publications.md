@@ -1,13 +1,16 @@
 ---
 layout: archive
 permalink: /publications/
+toc: true
+toc_sticky: true
+toc_label: "Publications"
 author_profile: false
 years: [2020, 2019, 2018,2017, 2016, 2015]
 ---
 <div style="text-align: right"> $^\dagger$ corresponding author <br /> $^\#$ student under my (co-)supervision </div>
 
 
-Journal Publications
+## Journal Publications
 ------
 1. Xu C., Jing Y., Shen B., **Zhou Y. $^\dagger$**, & Zhao Q. Q., (2023). Cost-sharing contract design between manufacturer and dealership considering the customer low-carbon preferences, **Expert Systems With Applications**, 213, 118877 **[PDF](https://ieyjzhou.github.io/files/2022eswa.pdf)**.
 1. Shi Y. , **Zhou Y. $^\dagger$**, Boudouh T.,& Grunder O., (2022). A memetic algorithm for a relocation-routing problem in green groduction of gas considering uncertainties  . **Swarm and Evolutionary Computation**, 74, 101129. **[PDF](https://ieyjzhou.github.io/files/2022SWEVO.pdf)**, Supplemental material **[PDF](https://ars.els-cdn.com/content/image/1-s2.0-S2210650222000992-mmc1.pdf)**
@@ -35,14 +38,14 @@ Theory, Applications and Practice**, 24(6), 663–679. **[PDF](https://ieyjzhou.
 1. **Zhou Y.**, & Lee G. M. (2017). A lagrangian relaxation-based solution method for a green vehicle routing problem to
 minimize greenhouse gas emissions. **Sustainability**, 9(5), 776. **[PDF](https://ieyjzhou.github.io/CIEG/Paper/sustainability-09-00776.pdf)**
 
-Conference Publications
+## Conference Publications
 ------
 1. Wang, H., **Zhou, Y.$^\dagger$**, Zhou, B., & Wang, Z. (2021). A Novel Method for Detection of ECG with Deep Learning. In 2021 7th International Conference on Computer and Communications (ICCC) (pp. 631-635). IEEE. doi:10.1109/ICCC54389.2021.9674506 (December 10-13, 2021, Chengdu, China )
 2. Gao, Y., Zhou, B., **Zhou, Y.**, Shi, L., Tao, Y., & Zhang, J. (2018). Transfer learning-based behavioural task decoding from brain activity. In The international conference on healthcare science and engineering (pp. 71–81). Springer. doi:10.1007/978-981-13-6837-0_6. (June 1-3, 2018, Guangxi, China.)
 3. Zhou, B., **Zhou, Y.**, Xu, M., & Wu, F. (2014). Computation-aware motion estimation algorithm based on qoe control. In
 2014 ieee computers communications and it applications conference (pp. 261–265). IEEE. doi:10.1109/ComComAp.2014.7017207. (October 20-22, 2014, Beijing, China.)
 
-Conference Presentations 
+## Conference Presentations 
 ------
 1. **Zhou, Y.**, & Liu G. (2021). A deep learning method to predict container throughput for inland port. In The 10th International Conference on Logistics and Maritime Systems (LOGMS 2021). (Oct 29-31, 2021, Zhejiang, China.)
 2. Shi, Y., **Zhou, Y.**, & Zhao Q. (2021). A zone-based pricing for vehicle routing problem with time window and stochastic demand. In The 10th International Conference on Logistics and Maritime Systems (LOGMS 2021). (Oct 29-31, 2021, Zhejiang, China.)
