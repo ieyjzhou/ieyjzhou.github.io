@@ -64,6 +64,7 @@ Academic Services
    * [Computer Modeling in Engineering & Sciences](https://www.techscience.com/cmes/index.html)
    * [The International Journal of Industrial Engineering: Theory, Applications and Practice](https://journals.sfu.ca/ijietap/index.php/ijie/)
    * [Advances in Difference Equations](https://advancesindifferenceequations.springeropen.com/) 
+   * ........
   
   Journal Reviewer (Domestic journals)
    * [中国舰船研究](http://journal16.magtechjournal.com/jwk_zgjcyj/CN/volumn/home.shtml) ([Chinese Journal of Ship Research](http://journal16.magtechjournal.com/jwk_zgjcyj/EN/volumn/current.shtml))
