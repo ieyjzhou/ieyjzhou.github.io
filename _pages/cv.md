@@ -62,6 +62,7 @@ Academic Services
    * [Journal of Open Source Software](https://joss.theoj.org/)
    * [Environmental Engineering and Management Journal](http://omicron.ch.tuiasi.ro/EEMJ/)
    * [Computer Modeling in Engineering & Sciences](https://www.techscience.com/cmes/index.html)
+   * [International Journal of Embedded Systems](https://www.inderscience.com/ijes)
    * [The International Journal of Industrial Engineering: Theory, Applications and Practice](https://journals.sfu.ca/ijietap/index.php/ijie/)
    * [Advances in Difference Equations](https://advancesindifferenceequations.springeropen.com/) 
    * ........
