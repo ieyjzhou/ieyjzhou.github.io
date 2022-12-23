@@ -57,6 +57,7 @@ Academic Services
    * [Maritime Policy & Management](https://www.tandfonline.com/toc/tmpm20/current) 
    * [International Journal of Shipping and Transport Logistics](https://www.inderscience.com/jhome.php?jcode=ijstl)
    * [Environmental Science and Pollution Research](https://www.springer.com/journal/11356) 
+   * [Industrial Management & Data Systems](https://www.emerald.com/insight/publication/issn/0263-5577)
    * [International Journal of Computational Intelligence Systems](https://www.atlantis-press.com/journals/ijcis) 
    * [Journal of Industrial and Production Engineering](https://www.tandfonline.com/toc/tjci21/current) 
    * [Journal of Open Source Software](https://joss.theoj.org/)
