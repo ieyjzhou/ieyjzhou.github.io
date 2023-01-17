@@ -66,6 +66,7 @@ Academic Services
    * [International Journal of Embedded Systems](https://www.inderscience.com/ijes)
    * [The International Journal of Industrial Engineering: Theory, Applications and Practice](https://journals.sfu.ca/ijietap/index.php/ijie/)
    * [Advances in Difference Equations](https://advancesindifferenceequations.springeropen.com/) 
+   * [Cleaner Logistics and Supply Chain](https://www.sciencedirect.com/journal/cleaner-logistics-and-supply-chain)
    * ........
   
   Journal Reviewer (Domestic journals)
