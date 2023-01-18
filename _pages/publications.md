@@ -9,6 +9,7 @@ years: [2020, 2019, 2018,2017, 2016, 2015]
 
 ## Journal Publications
 ------
+1. Feng, P., Fu, J., Wang, N., **Zhou, Y.$^\dagger$**, Zhou, B., & Wang, Z., (2023), Semantic-aware alignment and label propagation for cross-domain arrhythmia classification, **Knowledge-based Systems**, inpress. 
 1. Wang, H., Huang M., Wang H., Zhou, Y. (2023). Fourth party logistics service quality management with logistics audit, **Journal of Industrial and Management Optimization**, **[PDF](https://www.aimsciences.org/data/article/export-pdf?id=63a59846b2114e413cb49403)**. 
 1. Xu C., Jing Y., Shen B., **Zhou Y. $^\dagger$**, & Zhao Q. Q., (2023). Cost-sharing contract design between manufacturer and dealership considering the customer low-carbon preferences, **Expert Systems With Applications**, 213, 118877 **[PDF](https://ieyjzhou.github.io/files/2022eswa.pdf)**.
 1. Shi Y. , **Zhou Y. $^\dagger$**, Boudouh T.,& Grunder O., (2022). A memetic algorithm for a relocation-routing problem in green production of gas considering uncertainties  . **Swarm and Evolutionary Computation**, 74, 101129. **[PDF](https://ieyjzhou.github.io/files/2022SWEVO.pdf)**, Supplemental material **[PDF](https://ars.els-cdn.com/content/image/1-s2.0-S2210650222000992-mmc1.pdf)**
