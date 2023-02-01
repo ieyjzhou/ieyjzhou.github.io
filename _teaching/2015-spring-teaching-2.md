@@ -1,11 +1,11 @@
 ---
-title: "Teaching experience 2"
+title: "Engineering Optimization 工程优化"
 collection: teaching
 type: "Workshop"
-permalink: /teaching/2015-spring-teaching-1
-venue: "University 1, Department"
-date: 2015-01-01
-location: "City, Country"
+permalink: /teaching/2023-spring-teaching-1
+venue: "Undergraduate course, Zhengzhou University, School of Management Engineering, 2021"
+date: 2023-02-02
+location: "Zhengzhou, China"
 ---
 
 This is a description of a teaching experience. You can use markdown like any other post.
@@ -13,8 +13,33 @@ This is a description of a teaching experience. You can use markdown like any ot
 Heading 1
 ======
 
-Heading 2
-======
-
-Heading 3
-======
+|Week| Date | Topic| PPT 	 | Note | 
+| ------ | ------ |-----| ------ | ------ |
+| 1 |  15, Feb. |  -----| ------ | ------ |
+|   |  17, Feb. |  -----| ------ | ------ |
+| 2 |  24, Feb. |  -----| ------ | ------ |
+| 3|   |  -----| ------ | ------ |
+|   |    |  -----| ------ | ------ |
+| 4 |   |  -----| ------ | ------ |
+| 5|   |  -----| ------ | ------ |
+|   |    |  -----| ------ | ------ |
+| 6|   |  -----| ------ | ------ |
+| 7|   |  -----| ------ | ------ |
+|   |    |  -----| ------ | ------ |
+| 8 |   |  -----| ------ | ------ |
+| 9|   |  -----| ------ | ------ |
+|   |    |  -----| ------ | ------ |
+| 10 |   |  -----| ------ | ------ |
+| 11|   |  -----| ------ | ------ |
+|   |    |  -----| ------ | ------ |
+| 12 |   |  -----| ------ | ------ |
+| 13|   |  -----| ------ | ------ |
+|   |    |  -----| ------ | ------ |
+| 14 |   |  -----| ------ | ------ |
+| 15|   |  -----| ------ | ------ |
+|   |    |  -----| ------ | ------ |
+|1 6|   |  -----| ------ | ------ |
+|1 7|   |  -----| ------ | ------ |
+|   |    |  -----| ------ | ------ |
+| 18 |   |  -----| ------ | ------ |
+|1 9|   |  -----| ------ | ------ |
