@@ -93,6 +93,8 @@ Academic Services
    * [Korean Operations Research and Management Science Society](http://www.korms.or.kr), Regular Member 
    
   Conference Committee 
+   * [The 11th International Conference on Logistics and Maritime Systems (LOGMS2023)](https://www.logms2021.com/)
+      * Publicity co-chair
    * [The 10th International Conference on Logistics and Maritime Systems (LOGMS2021)](https://www.logms2021.com/)
       * Local Organizing Committee
       * Session Chair
