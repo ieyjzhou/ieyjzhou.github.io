@@ -3,14 +3,15 @@ title: "Engineering Optimization 工程优化"
 collection: teaching
 type: "Workshop"
 permalink: /teaching/2023-spring-teaching-1
-venue: "Undergraduate course, Zhengzhou University, School of Management Engineering, 2021"
+venue: "Undergraduate course, Zhengzhou University, School of Management, 2023"
 date: 2023-02-02
 location: "Zhengzhou, China"
 ---
+基本信息
+======
+coming soon
 
-This is a description of a teaching experience. You can use markdown like any other post.
-
-Heading 1
+Schedule (Subject to change)
 ======
 
 |Week| Date | Topic| PPT 	 | Note | 
