@@ -7,6 +7,7 @@ venue: "Undergraduate course, Zhengzhou University, School of Management, 2023"
 date: 2023-02-02
 location: "Zhengzhou, China"
 ---
+
 基本信息
 ======
 coming soon
@@ -16,8 +17,8 @@ Schedule (Subject to change)
 
 |Week| Date | Topic| PPT 	 | Note | 
 | ------ | ------ |-----| ------ | ------ |
-| 1 |  15, Feb. |  -----| [PPT]()| [PDF]() |
-|   |  17, Feb. |  -----| ------ | ------ |
+| 1 |  15, Feb. | Introduction| [PPT]()| [PDF]() |
+|   |  17, Feb. | Introduction| ------ | ------ |
 | 2 |  24, Feb. |  -----| ------ | ------ |
 | 3|   |  -----| ------ | ------ |
 |   |    |  -----| ------ | ------ |
