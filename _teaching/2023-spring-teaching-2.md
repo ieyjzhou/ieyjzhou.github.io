@@ -1,17 +1,29 @@
 ---
 title: "Engineering Optimization 工程优化"
 collection: teaching
-type: "Workshop"
 permalink: /teaching/2023-spring-teaching-1
 venue: "Undergraduate course, Zhengzhou University, School of Management, 2023"
 date: 2023-02-02
 location: "Zhengzhou, China"
 ---
 
-基本信息
+Engineering Optimization
 ======
-coming soon
 
+## Basic information
+- Course name: Engineering Optimization
+- Course ID: 073502.01
+- Location: 环\_301(Wednesday); 化\_106(Friday)
+- Lectures:  10:10-11:50 (Wednesday, odd week); 14:00-15:40 (Friday, every week);
+- Instructor: Yanjie Zhou 
+- Email: \url{ieyjzhou@zzu.edu.cn} 
+
+## Introduction
+
+The course is designed for undergraduate and graduate students from Zhengzhou University to provide a view of optimization methods for solving engineering problems. Students with a background in industrial engineering, logistics management, computer science, mechanical engineering, electrical engineering, etc., are welcome to join this course. This course covers exact algorithms and meta-heuristics for solving linear programming, integer programming, nonlinear programming, multiple objective optimization, bi-level programming, and robust optimization. The source code of branch and bound, genetic algorithm, neighborhood search heuristic, genetic programming, etc., are provided to help students understand the related theories. Advanced optimization methods for solving the combinatorial optimization problem, such as reinforcement Learning, will also be provided.
+
+
+    
 Schedule (Subject to change)
 ======
 
