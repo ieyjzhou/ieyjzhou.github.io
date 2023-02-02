@@ -56,7 +56,7 @@ The course is designed for undergraduate (graduate) students from Zhengzhou Univ
 |1 7|  07, Jun.|    Particle swarm optimization|  | ------ |
 |   |  09, Jun.  |    Harmony search algorithm | | ------ |
 | 18 |  16, Jun. |    Reinforcement Learning | | ------ |
-|1 9|   |  Exam| | ------ |
+|1 9|   |Final  Exam| | ------ |
 
 ## Homework
 
