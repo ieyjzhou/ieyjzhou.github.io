@@ -16,7 +16,7 @@ Engineering Optimization
 - Location: 环\_301(Wednesday); 化\_106(Friday)
 - Lectures:  10:10-11:50 (Wednesday, odd week); 14:00-15:40 (Friday, every week);
 - Instructor: Yanjie Zhou 
-- Email: \url{ieyjzhou@zzu.edu.cn} 
+- Email: [ieyjzhou@zzu.edu.cn](ieyjzhou@zzu.edu.cn)
 
 ## Introduction
 
