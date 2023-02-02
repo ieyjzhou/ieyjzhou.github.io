@@ -32,31 +32,31 @@ The course is designed for undergraduate and graduate students from Zhengzhou Un
 | 1 |  15, Feb. | Introduction| [PPT]()| [PDF]() |
 |   |  17, Feb. | Introduction| ------ | ------ |
 | 2 |  24, Feb. |  Root finding| ------ | ------ |
-| 3|   | Root finding| | ------ |
-|   |    | System of equations || ------ |
-| 4 |   |   Linear programming |  | ------ |
-| 5|   |  Branch and bound|  | ------ |
-|   |    | Branch and bound|  | ------ |
-| 6|   |  Non-linear programming | | ------ |
-| 7|   | Non-linear programming |  | ------ |
-|   |    |  Non-linear programming | | ------ |
-| 8 |   |  Roubust optimization|  | ------ |
-| 9|   |  Roubust optimization| ------ | ------ |
-|   |    |  Multiple objective optimization| ------ | ------ |
-| 10 |   |  Multiple objective optimization| ------ | ------ |
-| 11|   |  Multiple level optimization | ------ | ------ |
-|   |    |  Game theory| ------ | ------ |
-| 12 |   |   Single solution based heuristics-----|  | ------ |
-| 13|   |  Simulated annealing -----| | ------ |
-|   |    |   Iterated local search -----| | ------ |
-| 14 |   |    Variable neighborhood search -----| | ------ |
-| 15|   |    Greedy randomized adaptive search procedure -----| | ------ |
-|   |    |    Population based heuristics -----| | ------ |
-|1 6|   |    Genetic algorithms -----| | ------ |
-|1 7|   |    Particle swarm optimization-----|  | ------ |
-|   |    |    Harmony search algorithm -----| | ------ |
-| 18 |   |    Reinforcement Learning -----| | ------ |
-|1 9|   |  -----| No class| ------ |
+| 3|   1, Mar.| Root finding| | ------ |
+|   |  3, Mar. | System of equations || ------ |
+| 4 |  10, Mar.|   Linear programming |  | ------ |
+| 5|  15, Mar.|  Branch and bound|  | ------ |
+|   | 17,  Mar. | Branch and bound|  | ------ |
+| 6|   24, Mar.|  Non-linear programming | | ------ |
+| 7|  29, Mar.| Non-linear programming |  | ------ |
+|   | 31, Mar. |  Non-linear programming | | ------ |
+| 8 | 7, Apr.  |  Roubust optimization|  | ------ |
+| 9|  12, Apr. |  Roubust optimization| ------ | ------ |
+|   | 14, Apr.  |  Multiple objective optimization| ------ | ------ |
+| 10 |21, Apr. |  Multiple objective optimization| ------ | ------ |
+| 11| 26, Apr. |  Multiple level optimization | ------ | ------ |
+|   | 28, Apr.|  Game theory| ------ | ------ |
+| 12 | 5, May  |   Single solution based heuristics-----|  | ------ |
+| 13|  10, May |  Simulated annealing -----| | ------ |
+|   |  12, May  |   Iterated local search -----| | ------ |
+| 14 | 19 , May |    Variable neighborhood search -----| | ------ |
+| 15|  24, May |    Greedy randomized adaptive search procedure -----| | ------ |
+|   |  26, May  |    Population based heuristics -----| | ------ |
+|1 6|  2, Jun. |    Genetic algorithms -----| | ------ |
+|1 7|  7, Jun.|    Particle swarm optimization-----|  | ------ |
+|   |  9, Jun.  |    Harmony search algorithm -----| | ------ |
+| 18 |  16, Jun. |    Reinforcement Learning -----| | ------ |
+|1 9|   |  Exam| | ------ |
 
 ## Homework
 
