@@ -8,13 +8,6 @@ date: 2023-02-02
 location: "Zhengzhou, China"
 ---
 
-
-
-## Introduction
-
-The course is designed for undergraduate (graduate) students from Zhengzhou University to provide a view of optimization methods for solving engineering problems. Students with a background in industrial engineering, logistics management, computer science, mechanical engineering, electrical engineering, etc., are welcome to join this course. This course covers exact algorithms and meta-heuristics for solving linear programming, integer programming, nonlinear programming, multiple objective optimization, bi-level programming, and robust optimization. The source code of branch and bound, genetic algorithm, neighborhood search heuristic, genetic programming, etc., are provided to help students understand the related theories. Advanced optimization methods for solving the combinatorial optimization problem, such as reinforcement Learning, will also be provided.
-
-
 ## Course information
 - Course name: Engineering Optimization
 - Course ID: 073502.01
@@ -23,6 +16,13 @@ The course is designed for undergraduate (graduate) students from Zhengzhou Univ
 - Instructor: Yanjie Zhou 
 - Email: [ieyjzhou@zzu.edu.cn](ieyjzhou@zzu.edu.cn)
 - TA: Yaohui Li 李耀辉 (Email:[zgyhli@163.com](zgyhli@163.com)), Zehao Qian 钱泽昊  (Email:[QianZeHao123@outlook.com]( QianZeHao123@outlook.com))
+
+
+## Introduction
+
+The course is designed for undergraduate (graduate) students from Zhengzhou University to provide a view of optimization methods for solving engineering problems. Students with a background in industrial engineering, logistics management, computer science, mechanical engineering, electrical engineering, etc., are welcome to join this course. This course covers exact algorithms and meta-heuristics for solving linear programming, integer programming, nonlinear programming, multiple objective optimization, bi-level programming, and robust optimization. The source code of branch and bound, genetic algorithm, neighborhood search heuristic, genetic programming, etc., are provided to help students understand the related theories. Advanced optimization methods for solving the combinatorial optimization problem, such as reinforcement Learning, will also be provided.
+
+
 
     
 ## Schedule (tentative)
