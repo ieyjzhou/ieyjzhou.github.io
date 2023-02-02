@@ -1,5 +1,5 @@
 ---
-title: "Data Structures and Algorithms 数据结构与算法"
+title: "Data Structures and Algorithms (数据结构与算法)"
 collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/2021-spring-teaching-1
