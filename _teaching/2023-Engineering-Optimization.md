@@ -7,8 +7,6 @@ date: 2023-02-02
 location: "Zhengzhou, China"
 ---
 
-# Engineering Optimization (工程优化)
-
 
 
 ## Introduction
