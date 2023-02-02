@@ -22,7 +22,7 @@ The course is designed for undergraduate (graduate) students from Zhengzhou Univ
 - Lectures:  10:10-11:50 (Wednesday, odd week); 14:00-15:40 (Friday, every week);
 - Instructor: Yanjie Zhou 
 - Email: [ieyjzhou@zzu.edu.cn](ieyjzhou@zzu.edu.cn)
-- TA: Yaohiu Lu, Zehao Qian 
+- TA: Yaohui Li 李耀辉 (Email:[zgyhli@163.com](zgyhli@163.com)), Zehao Qian 钱泽昊  (Email:[QianZeHao123@outlook.com]( QianZeHao123@outlook.com))
 
     
 ## Schedule (tentative)
