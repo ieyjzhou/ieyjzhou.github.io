@@ -46,16 +46,16 @@ The course is designed for undergraduate and graduate students from Zhengzhou Un
 | 10 |21, Apr. |  Multiple objective optimization| ------ | ------ |
 | 11| 26, Apr. |  Multiple level optimization | ------ | ------ |
 |   | 28, Apr.|  Game theory| ------ | ------ |
-| 12 | 05, May  |   Single solution based heuristics-----|  | ------ |
-| 13|  10, May |  Simulated annealing -----| | ------ |
-|   |  12, May  |   Iterated local search -----| | ------ |
-| 14 | 19 , May |    Variable neighborhood search -----| | ------ |
-| 15|  24, May |    Greedy randomized adaptive search procedure -----| | ------ |
-|   |  26, May  |    Population based heuristics -----| | ------ |
-|1 6|  02, Jun. |    Genetic algorithms -----| | ------ |
-|1 7|  07, Jun.|    Particle swarm optimization-----|  | ------ |
-|   |  09, Jun.  |    Harmony search algorithm -----| | ------ |
-| 18 |  16, Jun. |    Reinforcement Learning -----| | ------ |
+| 12 | 05, May  |   Single solution based heuristics|  | ------ |
+| 13|  10, May |  Simulated annealing| | ------ |
+|   |  12, May  |   Iterated local search| | ------ |
+| 14 | 19 , May |    Variable neighborhood search | | ------ |
+| 15|  24, May |    Greedy randomized adaptive search procedure | | ------ |
+|   |  26, May  |    Population based heuristics | | ------ |
+|1 6|  02, Jun. |    Genetic algorithms| | ------ |
+|1 7|  07, Jun.|    Particle swarm optimization|  | ------ |
+|   |  09, Jun.  |    Harmony search algorithm | | ------ |
+| 18 |  16, Jun. |    Reinforcement Learning | | ------ |
 |1 9|   |  Exam| | ------ |
 
 ## Homework
