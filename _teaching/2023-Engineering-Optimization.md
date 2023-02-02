@@ -13,7 +13,7 @@ location: "Zhengzhou, China"
 - Course ID: 073502.01
 - Location: 环\_301(Wednesday); 化\_106(Friday)
 - Lectures:  10:10-11:50 (Wednesday, odd week); 14:00-15:40 (Friday, every week);
-- Instructor: Yanjie Zhou 
+- Instructor: [Yanjie Zhou](https://ieyjzhou.github.io/) 
 - Email: [ieyjzhou@zzu.edu.cn](ieyjzhou@zzu.edu.cn)
 - TA: Yaohui Li 李耀辉 (Email:[zgyhli@163.com](zgyhli@163.com)), Zehao Qian 钱泽昊  (Email:[QianZeHao123@outlook.com]( QianZeHao123@outlook.com))
 
