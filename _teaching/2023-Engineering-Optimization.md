@@ -31,32 +31,32 @@ The course is designed for undergraduate and graduate students from Zhengzhou Un
 | ------ | ------ |-----| ------ | ------ |
 | 1 |  15, Feb. | Introduction| [PPT]()| [PDF]() |
 |   |  17, Feb. | Introduction| ------ | ------ |
-| 2 |  24, Feb. |  -----| ------ | ------ |
-| 3|   |  -----| ------ | ------ |
-|   |    |  -----| ------ | ------ |
-| 4 |   |  -----| ------ | ------ |
-| 5|   |  -----| ------ | ------ |
-|   |    |  -----| ------ | ------ |
-| 6|   |  -----| ------ | ------ |
-| 7|   |  -----| ------ | ------ |
-|   |    |  -----| ------ | ------ |
-| 8 |   |  -----| ------ | ------ |
-| 9|   |  -----| ------ | ------ |
-|   |    |  -----| ------ | ------ |
-| 10 |   |  -----| ------ | ------ |
-| 11|   |  -----| ------ | ------ |
-|   |    |  -----| ------ | ------ |
-| 12 |   |  -----| ------ | ------ |
-| 13|   |  -----| ------ | ------ |
-|   |    |  -----| ------ | ------ |
-| 14 |   |  -----| ------ | ------ |
-| 15|   |  -----| ------ | ------ |
-|   |    |  -----| ------ | ------ |
-|1 6|   |  -----| ------ | ------ |
-|1 7|   |  -----| ------ | ------ |
-|   |    |  -----| ------ | ------ |
-| 18 |   |  -----| ------ | ------ |
-|1 9|   |  -----| ------ | ------ |
+| 2 |  24, Feb. |  Root finding| ------ | ------ |
+| 3|   | Root finding| | ------ |
+|   |    | System of equations || ------ |
+| 4 |   |   Linear programming |  | ------ |
+| 5|   |  Branch and bound|  | ------ |
+|   |    | Branch and bound|  | ------ |
+| 6|   |  Non-linear programming | | ------ |
+| 7|   | Non-linear programming |  | ------ |
+|   |    |  Non-linear programming | | ------ |
+| 8 |   |  Roubust optimization|  | ------ |
+| 9|   |  Roubust optimization| ------ | ------ |
+|   |    |  Multiple objective optimization| ------ | ------ |
+| 10 |   |  Multiple objective optimization| ------ | ------ |
+| 11|   |  Multiple level optimization | ------ | ------ |
+|   |    |  Game theory| ------ | ------ |
+| 12 |   |   Single solution based heuristics-----|  | ------ |
+| 13|   |  Simulated annealing -----| | ------ |
+|   |    |   Iterated local search -----| | ------ |
+| 14 |   |    Variable neighborhood search -----| | ------ |
+| 15|   |    Greedy randomized adaptive search procedure -----| | ------ |
+|   |    |    Population based heuristics -----| | ------ |
+|1 6|   |    Genetic algorithms -----| | ------ |
+|1 7|   |    Particle swarm optimization-----|  | ------ |
+|   |    |    Harmony search algorithm -----| | ------ |
+| 18 |   |    Reinforcement Learning -----| | ------ |
+|1 9|   |  -----| No class| ------ |
 
 ## Homework
 
