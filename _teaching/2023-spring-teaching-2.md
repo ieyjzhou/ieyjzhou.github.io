@@ -7,7 +7,7 @@ date: 2023-02-02
 location: "Zhengzhou, China"
 ---
 
-Engineering Optimization
+Engineering Optimization (工程优化)
 ======
 
 
@@ -23,7 +23,7 @@ The course is designed for undergraduate and graduate students from Zhengzhou Un
 - Lectures:  10:10-11:50 (Wednesday, odd week); 14:00-15:40 (Friday, every week);
 - Instructor: Yanjie Zhou 
 - Email: [ieyjzhou@zzu.edu.cn](ieyjzhou@zzu.edu.cn)
-- TA: Zehao Qian 
+- TA: Yaohiu Lu, Zehao Qian 
 
     
 ## Schedule (Subject to change)
