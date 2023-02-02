@@ -1,8 +1,8 @@
 ---
 title: "Engineering Optimization 工程优化"
 collection: teaching
-permalink: /teaching/2023-spring-teaching-1
-venue: "Undergraduate course, Zhengzhou University, School of Management, 2023"
+permalink: /teaching/2023-Engineering-Optimization
+venue: "Undergraduate course, Zhengzhou University, School of Management"
 date: 2023-02-02
 location: "Zhengzhou, China"
 ---
