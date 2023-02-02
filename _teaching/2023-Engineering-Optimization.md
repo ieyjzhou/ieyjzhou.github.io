@@ -32,29 +32,29 @@ The course is designed for undergraduate and graduate students from Zhengzhou Un
 | 1 |  15, Feb. | Introduction| [PPT]()| [PDF]() |
 |   |  17, Feb. | Introduction| ------ | ------ |
 | 2 |  24, Feb. |  Root finding| ------ | ------ |
-| 3|   1, Mar.| Root finding| | ------ |
-|   |  3, Mar. | System of equations || ------ |
+| 3|   01, Mar.| Root finding| | ------ |
+|   |  03, Mar. | System of equations || ------ |
 | 4 |  10, Mar.|   Linear programming |  | ------ |
 | 5|  15, Mar.|  Branch and bound|  | ------ |
 |   | 17,  Mar. | Branch and bound|  | ------ |
 | 6|   24, Mar.|  Non-linear programming | | ------ |
 | 7|  29, Mar.| Non-linear programming |  | ------ |
 |   | 31, Mar. |  Non-linear programming | | ------ |
-| 8 | 7, Apr.  |  Roubust optimization|  | ------ |
+| 8 | 07, Apr.  |  Roubust optimization|  | ------ |
 | 9|  12, Apr. |  Roubust optimization| ------ | ------ |
 |   | 14, Apr.  |  Multiple objective optimization| ------ | ------ |
 | 10 |21, Apr. |  Multiple objective optimization| ------ | ------ |
 | 11| 26, Apr. |  Multiple level optimization | ------ | ------ |
 |   | 28, Apr.|  Game theory| ------ | ------ |
-| 12 | 5, May  |   Single solution based heuristics-----|  | ------ |
+| 12 | 05, May  |   Single solution based heuristics-----|  | ------ |
 | 13|  10, May |  Simulated annealing -----| | ------ |
 |   |  12, May  |   Iterated local search -----| | ------ |
 | 14 | 19 , May |    Variable neighborhood search -----| | ------ |
 | 15|  24, May |    Greedy randomized adaptive search procedure -----| | ------ |
 |   |  26, May  |    Population based heuristics -----| | ------ |
-|1 6|  2, Jun. |    Genetic algorithms -----| | ------ |
-|1 7|  7, Jun.|    Particle swarm optimization-----|  | ------ |
-|   |  9, Jun.  |    Harmony search algorithm -----| | ------ |
+|1 6|  02, Jun. |    Genetic algorithms -----| | ------ |
+|1 7|  07, Jun.|    Particle swarm optimization-----|  | ------ |
+|   |  09, Jun.  |    Harmony search algorithm -----| | ------ |
 | 18 |  16, Jun. |    Reinforcement Learning -----| | ------ |
 |1 9|   |  Exam| | ------ |
 
