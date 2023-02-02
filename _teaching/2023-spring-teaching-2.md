@@ -26,7 +26,7 @@ The course is designed for undergraduate and graduate students from Zhengzhou Un
 - TA: Yaohiu Lu, Zehao Qian 
 
     
-## Schedule (Subject to change)
+## Schedule (tentative)
 
 |Week| Date | Topic| PPT 	 | Note | 
 | ------ | ------ |-----| ------ | ------ |
