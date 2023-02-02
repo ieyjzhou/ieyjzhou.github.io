@@ -45,7 +45,7 @@ The course is designed for undergraduate (graduate) students from Zhengzhou Univ
 |   | 14, Apr.  |  Multiple objective optimization| ------ | ------ |
 | 10 |21, Apr. |  Multiple objective optimization| ------ | ------ |
 | 11| 26, Apr. |  Multiple level optimization | ------ | ------ |
-|   | 28, Apr.|  Game theory| ------ | ------ |
+|   | 28, Apr.|  Nash equilibrium| ------ | ------ |
 | 12 | 05, May  |   Single solution based heuristics|  | ------ |
 | 13|  10, May |  Simulated annealing| | ------ |
 |   |  12, May  |   Iterated local search| | ------ |
