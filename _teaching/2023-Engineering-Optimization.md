@@ -26,8 +26,8 @@ location: "Zhengzhou, China"
 - Programming language (familiar with one programming language): C/C++; Python; Java; Matlab; Julia
 
 ## Coursework
-- Homework (50\%)
-- Final project (50\%)
+- Homework (50%)
+- Final project (50%)
 
 ## Introduction
 
