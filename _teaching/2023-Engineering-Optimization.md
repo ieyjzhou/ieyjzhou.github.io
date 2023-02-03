@@ -25,6 +25,10 @@ location: "Zhengzhou, China"
 - Data structure
 - Programming language (familiar with one programming language): C/C++; Python; Java; Matlab; Julia
 
+## Coursework
+- Homework (50\%)
+- Final project (50\%)
+
 ## Introduction
 
 The course is designed for undergraduate (graduate) students from Zhengzhou University to provide a view of optimization methods for solving engineering problems. Students with a background in industrial engineering, logistics management, computer science, mechanical engineering, electrical engineering, etc., are welcome to join this course. This course covers exact algorithms and meta-heuristics for solving linear programming, integer programming, nonlinear programming, multiple objective optimization, bi-level programming, and robust optimization. The source code of branch and bound, genetic algorithm, neighborhood search heuristic, genetic programming, etc., are provided to help students understand the related theories. Advanced optimization methods for solving the combinatorial optimization problem, such as reinforcement Learning, will also be provided.
