@@ -38,36 +38,36 @@ The course is designed for undergraduate (graduate) students from Zhengzhou Univ
     
 ## Schedule (tentative)
 
-|Week| Date | Topic| PPT 	 | Lecture Note |Code| 
-| ------ | ------ |-----| ------ | ------ | ------ |
-| 1 |  15, Feb. | Introduction| [PPT]()|   |  |
-|   |  17, Feb. | Introduction| ------ | ------ |  |
-| 2 |  24, Feb. |  Root finding| ------ | ------ |  |
-| 3|   01, Mar.| Root finding| | ------ |  |
-|   |  03, Mar. | System of equations || ------ |  |
-| 4 |  10, Mar.|   Linear programming |  | ------ |  |
-| 5|  15, Mar.|  Branch and bound|  | ------ |  |
-|   | 17,  Mar. | Branch and bound|  | ------ |  |
-| 6|   24, Mar.|  Non-linear programming | | ------ |  |
-| 7|  29, Mar.| Non-linear programming |  | ------ |  |
-|   | 31, Mar. |  Non-linear programming | | ------ |  |
-| 8 | 07, Apr.  |  Roubust optimization|  | ------ |  |
-| 9|  12, Apr. |  Roubust optimization| ------ | ------ |  |
-|   | 14, Apr.  |  Multiple objective optimization| ------ | ------ |  |
-| 10 |21, Apr. |  Multiple objective optimization| ------ | ------ |  |
-| 11| 26, Apr. |  Multiple level optimization | ------ | ------ |  |
-|   | 28, Apr.|  Nash equilibrium| ------ | ------ |  |
-| 12 | 05, May  |   Single solution based heuristics|  | ------ |  |
-| 13|  10, May |  Simulated annealing| | ------ |  |
-|   |  12, May  |   Iterated local search| | ------ |  |
-| 14 | 19 , May |    Variable neighborhood search | | ------ |  |
-| 15|  24, May |    Greedy randomized adaptive search procedure | | ------ |  |
-|   |  26, May  |    Population based heuristics | | ------ |  |
-|1 6|  02, Jun. |    Genetic algorithms| | ------ |  |
-|1 7|  07, Jun.|    Particle swarm optimization|  | ------ |  |
-|   |  09, Jun.  |    Harmony search algorithm | | ------ |  |
-| 18 |  16, Jun. |    Reinforcement Learning | | ------ |  |
-|1 9|   |Final  Exam| | ------ |  |
+|Week| Date | Topic| PPT 	 | Note |Code| Material|
+| ------ | ------ |-----| ------ | ------ | ------ | ------ |
+| 1 |  15, Feb. | Introduction| [PPT]()|   |  |  |
+|   |  17, Feb. | Introduction| ------ | ------ |  |  |
+| 2 |  24, Feb. |  Root finding| ------ | ------ |  |  |
+| 3|   01, Mar.| Root finding| | ------ |  |  |
+|   |  03, Mar. | System of equations || ------ |  |  |
+| 4 |  10, Mar.|   Linear programming |  | ------ |  |  |
+| 5|  15, Mar.|  Branch and bound|  | ------ |  |  |
+|   | 17,  Mar. | Branch and bound|  | ------ |  |  |
+| 6|   24, Mar.|  Non-linear programming | | ------ |  |  |
+| 7|  29, Mar.| Non-linear programming |  | ------ |  |  |
+|   | 31, Mar. |  Non-linear programming | | ------ |  |  |
+| 8 | 07, Apr.  |  Roubust optimization|  | ------ |  |  |
+| 9|  12, Apr. |  Roubust optimization| ------ | ------ |  |  |
+|   | 14, Apr.  |  Multiple objective optimization| ------ | ------ |  |  |
+| 10 |21, Apr. |  Multiple objective optimization| ------ | ------ |  |  |
+| 11| 26, Apr. |  Multiple level optimization | ------ | ------ |  |  |
+|   | 28, Apr.|  Nash equilibrium| ------ | ------ |  |  |
+| 12 | 05, May  |   Single solution based heuristics|  | ------ |  |  |
+| 13|  10, May |  Simulated annealing| | ------ |  |  |
+|   |  12, May  |   Iterated local search| | ------ |  |  |
+| 14 | 19 , May |    Variable neighborhood search | | ------ |  |  |
+| 15|  24, May |    Greedy randomized adaptive search procedure | | ------ |  |  |
+|   |  26, May  |    Population based heuristics | | ------ |  |  |
+|16|  02, Jun. |    Genetic algorithms| | ------ |  |  |
+|17|  07, Jun.|    Particle swarm optimization|  | ------ |  |  |
+|   |  09, Jun.  |    Harmony search algorithm | | ------ |  |  |
+| 18 |  16, Jun. |    Reinforcement Learning | | ------ |  |  |
+|19|   |Final  Exam| | ------ |  |  |
 
 ## Homework
 
