@@ -18,6 +18,12 @@ location: "Zhengzhou, China"
 - Email: [ieyjzhou@zzu.edu.cn](ieyjzhou@zzu.edu.cn)
 - TA: Yaohui Li 李耀辉 (Email:[zgyhli@163.com](zgyhli@163.com)), Zehao Qian 钱泽昊  (Email:[QianZeHao123@outlook.com]( QianZeHao123@outlook.com))
 
+## Prerequisites
+- Calculus I and II
+- Linear algebra
+- Operation research
+- Data structure
+- Programming language (familiar with one programming language): C/C++; Python; Java; Matlab; Julia
 
 ## Introduction
 
