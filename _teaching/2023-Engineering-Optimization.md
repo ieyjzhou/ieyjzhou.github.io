@@ -40,7 +40,7 @@ The course is designed for undergraduate (graduate) students from Zhengzhou Univ
 
 |Week| Date | Topic| PPT 	 | Note | 
 | ------ | ------ |-----| ------ | ------ |
-| 1 |  15, Feb. | Introduction| [PPT]()| [PDF]() |
+| 1 |  15, Feb. | Introduction| [PPT]()|   |
 |   |  17, Feb. | Introduction| ------ | ------ |
 | 2 |  24, Feb. |  Root finding| ------ | ------ |
 | 3|   01, Mar.| Root finding| | ------ |
