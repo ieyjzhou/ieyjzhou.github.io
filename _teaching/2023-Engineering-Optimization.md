@@ -72,6 +72,7 @@ The course is designed for undergraduate (graduate) students from Zhengzhou Univ
 ## Homework
 
 - Using [Python-MIP package](https://www.python-mip.com/) to implement the mathematical formulation of the Sudoku game.
+     - [Mathmatical formulation paper](https://langvillea.people.cofc.edu/Sudoku/sudoku2.pdf)
 
 ## Teamwork
 
