@@ -38,7 +38,7 @@ The course is designed for undergraduate (graduate) students from Zhengzhou Univ
     
 ## Schedule (tentative)
 
-|Week| Date | Topic| PPT 	 | Note | 
+|Week| Date | Topic| PPT 	 | Lecture Note | 
 | ------ | ------ |-----| ------ | ------ |
 | 1 |  15, Feb. | Introduction| [PPT]()|   |
 |   |  17, Feb. | Introduction| ------ | ------ |
