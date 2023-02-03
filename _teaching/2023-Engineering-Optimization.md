@@ -1,6 +1,7 @@
 ---
 title: "Engineering Optimization (工程优化)"
 collection: teaching
+layout: archive
 type: "Undergraduate course"
 permalink: /teaching/2023-Engineering-Optimization
 venue: "Zhengzhou University, School of Management"
