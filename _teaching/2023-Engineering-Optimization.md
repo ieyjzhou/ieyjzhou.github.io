@@ -40,8 +40,8 @@ The course is designed for undergraduate (graduate) students from Zhengzhou Univ
 
 |Week| Date | Topic| PPT 	 | Note |Code| Material|
 | ------ | ------ |-----| ------ | ------ | ------ | ------ |
-| 1 |  15, Feb. | Introduction| [PPT]()|   |  |  |
-|   |  17, Feb. | Introduction| ------ | ------ |  |  |
+| 1 |  15, Feb. | Introduction| [PPT](https://github.com/ieyjzhou/EngineeringOptimization2023/raw/main/PPT/EO_Lecture1_Introduction.pdf)|   |  |  |
+|   |  17, Feb. | Introduction| [PPT](https://github.com/ieyjzhou/EngineeringOptimization2023/raw/main/PPT/EO_Lecture1_Introduction.pdf) | ------ |  |  |
 | 2 |  24, Feb. |  Root finding| ------ | ------ |  |  |
 | 3|   01, Mar.| Root finding| | ------ |  |  |
 |   |  03, Mar. | System of equations || ------ |  |  |
