@@ -11,7 +11,7 @@ location: "Zhengzhou, China"
 
 ## Course information
 - Course name: Engineering Optimization
-- Course ID: 073502.01
+- Course ID: 074090.01
 - Location: 环\_301(Wednesday); 化\_106(Friday)
 - Lectures:  10:10-11:50 (Wednesday, odd week); 14:00-15:40 (Friday, every week);
 - Instructor: [Yanjie Zhou](https://ieyjzhou.github.io/) 
