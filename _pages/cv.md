@@ -52,6 +52,7 @@ Academic Services
  
   Journal Reviewer (International journals)
    * [Transportation Research Part B: Methodological](https://www.sciencedirect.com/journal/transportation-research-part-b-methodological)  
+   * [International Journal of Production Research](https://www.tandfonline.com/journals/tprs20)
    * [Applied Soft Computing](https://www.journals.elsevier.com/applied-soft-computing)  
    * [Computer and Industrial Engineering](https://www.journals.elsevier.com/computers-and-industrial-engineering) 
    * [Maritime Policy & Management](https://www.tandfonline.com/toc/tmpm20/current) 
