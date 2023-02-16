@@ -9,7 +9,7 @@ years: [2020, 2019, 2018,2017, 2016, 2015]
 
 ## Journal Publications
 ------
-1. Zhang, J., He, Z., **Zhou, Y.$^\dagger$**, Li. Y., Mixed integer programming approach for pallet packing and container loading of factory products, **Packaging Engineering**, Accept (In Chinese).
+1. Zhang, J., He, Z., **Zhou, Y.$^\dagger$**, Li. Y., (2023), Mixed integer programming approach for pallet packing and container loading of factory products, **Packaging Engineering**, Accept (In Chinese).
 1. Feng, P., Fu, J., Wang, N., **Zhou, Y.$^\dagger$**, Zhou, B., & Wang, Z., (2023), Semantic-aware alignment and label propagation for cross-domain arrhythmia classification, **Knowledge-based Systems**, 264,110323 **[PDF](https://doi.org/10.1016/j.knosys.2023.110323)**. 
 1. Wang, H., Huang M., Wang H., Zhou, Y. (2023). Fourth party logistics service quality management with logistics audit, **Journal of Industrial and Management Optimization**, **[PDF](https://www.aimsciences.org/data/article/export-pdf?id=63a59846b2114e413cb49403)**. 
 1. Xu C., Jing Y., Shen B., **Zhou Y. $^\dagger$**, & Zhao Q. Q., (2023). Cost-sharing contract design between manufacturer and dealership considering the customer low-carbon preferences, **Expert Systems With Applications**, 213, 118877 **[PDF](https://ieyjzhou.github.io/files/2022eswa.pdf)**.
