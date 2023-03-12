@@ -22,6 +22,9 @@ Educations
 Work Experiences
 ======
  
+* Associate professor, [Zhengzhou University (郑州大学)](http://www.zzu.edu.cn/), Mar.2023~  Now
+   * School of Management (Department of Logistics Management), Mar.2023 ~ Now
+
 * Assistant professor, [Zhengzhou University (郑州大学)](http://www.zzu.edu.cn/), Sep.2020 ~  Now
    * School of Management Engineering (Department of Logistics Management), Sep.2020 ~ June.2022
    * School of Management (Department of Logistics Management), June.2022 ~ Now
