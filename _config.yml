@@ -86,13 +86,13 @@ analytics:
 author:
   name             : "Yanjie Zhou (周艳杰)"
   avatar           : "zhou.jpg"
-  bio              : "Assistant professor, School of Management Engineering, Zhengzhou University" #"
+  bio              : "Associate professor, School of Management, Zhengzhou University" #"
   location         : "Location"
   employer         :
   googlescholar    : "https://scholar.google.com/citations?user=7mZV_YsAAAAJ&hl=en"
   email            : "y.j.zhou.g@gmail.com"
   researchgate     : "https://www.researchgate.net/profile/Yanjie_Zhou2"
-  uri              :
+  uri              : "https://ieyjzhou.github.io/"
   bitbucket        :
   codepen          :
   dribbble         :
