@@ -9,7 +9,7 @@ years: [2020, 2019, 2018,2017, 2016, 2015]
 
 ## Journal Publications
 ------
-1.  Wang, N., Ffeng, P., Ge, Z., **Zhou, Y.$^\dagger$**, Zhou, B., & Wang, Z., (2023), Adversarial spatiotemporal contrastive learning for electrocardiogram signals, **IEEE Transactions on Neural Networks and Learning Systems**, Accept. 
+1. Wang, N., Feng, P., Ge, Z., **Zhou, Y.$^\dagger$**, Zhou, B., & Wang, Z., (2023), Adversarial spatiotemporal contrastive learning for electrocardiogram signals, **IEEE Transactions on Neural Networks and Learning Systems**, Accept. 
 1. Xu, C. Liu, F., **Zhou, Y.$^\dagger$**, Dou, R., Feng, X. & Shen, B., (2023), Manufacturers' emission reduction investment strategy under carbon cap-and-trade policy and uncertain low-carbon preferences, **Industrial Management & Data Systems**, **[PDF](https://www.emerald.com/insight/content/doi/10.1108/IMDS-10-2022-0648/full/html).**
 2. Zhang, J., He, Z., **Zhou, Y.$^\dagger$**, Li. Y., (2023), Mixed integer programming approach for pallet packing and container loading of factory products, **Packaging Engineering**, Accept (In Chinese).
 3. Feng, P., Fu, J., Wang, N., **Zhou, Y.$^\dagger$**, Zhou, B., & Wang, Z., (2023), Semantic-aware alignment and label propagation for cross-domain arrhythmia classification, **Knowledge-based Systems**, 264,110323 **[PDF](https://doi.org/10.1016/j.knosys.2023.110323)**. 
