@@ -9,8 +9,8 @@ years: [2020, 2019, 2018,2017, 2016, 2015]
 
 ## Journal Publications
 ------
-1. Li, B. Jiang, S., **Zhou, Y.$^\dagger$**, Xuan, H., (2023),  Optimization of train formation plan based on technical station under railcar demand fluctuation, **Journal of Industrial and Production Engineering**, Accept. 
-1. Shi, Y. Liu, W., **Zhou, Y.**, (2023),  An adaptive large neighborhood search based approach for the vehicle routing problem with zone-based pricing, **Engineering Applications of Artificial Intelligence**, Accept. 
+1. Li, B. Jiang, S., **Zhou, Y.$^\dagger$**, Xuan, H., (2023),  Optimization of train formation plan based on technical station under railcar demand fluctuation, **Journal of Industrial and Production Engineering**, **[PDF](https://doi.org/10.1080/21681015.2023.2221699)**. 
+1. Shi, Y. Liu, W., **Zhou, Y.**, (2023),  An adaptive large neighborhood search based approach for the vehicle routing problem with zone-based pricing, **Engineering Applications of Artificial Intelligence**,124,106506. **[PDF](https://doi.org/10.1016/j.engappai.2023.106506)**. 
 1. Wang, N., Feng, P., Ge, Z., **Zhou, Y.$^\dagger$**, Zhou, B., & Wang, Z., (2023), Adversarial spatiotemporal contrastive learning for electrocardiogram signals, **IEEE Transactions on Neural Networks and Learning Systems**, Accept. 
 1. Xu, C. Liu, F., **Zhou, Y.$^\dagger$**, Dou, R., Feng, X. & Shen, B., (2023), Manufacturers' emission reduction investment strategy under carbon cap-and-trade policy and uncertain low-carbon preferences, **Industrial Management & Data Systems**, **[PDF](https://www.emerald.com/insight/content/doi/10.1108/IMDS-10-2022-0648/full/html).**
 2. Zhang, J., He, Z., **Zhou, Y.$^\dagger$**, Li. Y., (2023), Mixed integer programming approach for pallet packing and container loading of factory products, **Packaging Engineering**, Accept (In Chinese).
