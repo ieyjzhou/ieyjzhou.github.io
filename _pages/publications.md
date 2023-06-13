@@ -9,7 +9,7 @@ years: [2020, 2019, 2018,2017, 2016, 2015]
 
 ## Journal Publications
 ------
-1. Zhang, J., Ma, F., **Zhou, Y.$^\dagger$**, Li, M., Li, Y., Feng, Xu. (2023), Competition and cooperation between China Railway Express operators considering the competition with maritime shipping, **Journal of Railway Science and Engineering**, Accept (In Chinese).
+1. Zhang, J., Ma, F., **Zhou, Y.$^\dagger$**, Li, M., Li, Y., Feng, X. (2023), Competition and cooperation between China Railway Express operators considering the competition with maritime shipping, **Journal of Railway Science and Engineering**, Accept (In Chinese).
 1. Li, B. Jiang, S., **Zhou, Y.$^\dagger$**, Xuan, H., (2023),  Optimization of train formation plan based on technical station under railcar demand fluctuation, **Journal of Industrial and Production Engineering**, **[PDF](https://doi.org/10.1080/21681015.2023.2221699)**. 
 1. Shi, Y. Liu, W., **Zhou, Y.**, (2023),  An adaptive large neighborhood search based approach for the vehicle routing problem with zone-based pricing, **Engineering Applications of Artificial Intelligence**,124,106506. **[PDF](https://doi.org/10.1016/j.engappai.2023.106506)**. 
 1. Wang, N., Feng, P., Ge, Z., **Zhou, Y.$^\dagger$**, Zhou, B., & Wang, Z., (2023), Adversarial spatiotemporal contrastive learning for electrocardiogram signals, **IEEE Transactions on Neural Networks and Learning Systems**, Accept. 
