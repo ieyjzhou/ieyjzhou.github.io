@@ -89,6 +89,7 @@ Selected Papers
 ======
 
 <div style="text-align: right"> $^\dagger$ corresponding author <br /> $^\#$ student under my (co-)supervision </div>
+1. Wang, N., Feng, P., Ge, Z., **Zhou, Y.$^\dagger$**, Zhou, B., & Wang, Z., (2023), Adversarial spatiotemporal contrastive learning for electrocardiogram signals, **IEEE Transactions on Neural Networks and Learning Systems**, **[PDF](https://ieyjzhou.github.io/files/2023TNNLS.pdf)**, Supplemental material **[PDF](https://ieyjzhou.github.io/files/2023TNNLS_Sp.pdf)**.
 1. Feng, P., Fu, J., Wang, N., **Zhou, Y.$^\dagger$**, Zhou, B., & Wang, Z., (2023), Semantic-aware alignment and label propagation for cross-domain arrhythmia classification, **Knowledge-based Systems**, 264,110323 **[PDF](https://doi.org/10.1016/j.knosys.2023.110323)**.
 2.  Xu C., Jing Y., Shen B., **Zhou Y. $^\dagger$**, & Zhao Q. Q., (2023). Cost-sharing contract design between manufacturer and dealership considering the customer low-carbon preferences, **Expert Systems With Applications**, 213, 118877 **[PDF](https://ieyjzhou.github.io/files/2022eswa.pdf)**.
 3. Shi Y. , **Zhou Y. $^\dagger$**, Boudouh T.,& Grunder O., (2022). A memetic algorithm for a relocation-routing problem in green groduction of gas considering uncertainties  . **Swarm and Evolutionary Computation**, 74, 101129. **[PDF](https://ieyjzhou.github.io/files/2022SWEVO.pdf)** 
