@@ -52,6 +52,10 @@ Awards and Honors
 
 Academic Services
 ======
+
+Guest Editor (SSCI)
+ * [Case Studies on Transport Policy](https://www.sciencedirect.com/journal/case-studies-on-transport-policy)
+
  
   Journal Reviewer (International journals)
    * [Transportation Research Part B: Methodological](https://www.sciencedirect.com/journal/transportation-research-part-b-methodological)  
