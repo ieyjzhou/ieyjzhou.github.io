@@ -1,4 +1,4 @@
----
+![monicaLogo](https://github.com/ieyjzhou/ieyjzhou.github.io/assets/14121793/d91e1b6a-81f0-4931-b387-d0aabbc79bf0)---
 layout: archive
 title: "CV"
 permalink: /cv/
@@ -64,13 +64,17 @@ Guest Editor (SSCI)
    * [Applied Soft Computing](https://www.journals.elsevier.com/applied-soft-computing)  
    * [Computer and Industrial Engineering](https://www.journals.elsevier.com/computers-and-industrial-engineering) 
    * [Maritime Policy & Management](https://www.tandfonline.com/toc/tmpm20/current)
+   * [International Journal of Logistics Research and Applications](https://www.tandfonline.com/toc/cjol20/current)
+   * [Journal of Industrial Information Integration](https://www.sciencedirect.com/journal/journal-of-industrial-information-integration)
    * [European Journal of Industrial Engineering](https://www.inderscience.com/jhome.php?jcode=ejie)
    * [Journal of Industrial and Production Engineering](https://www.tandfonline.com/toc/tjci21/current) 
    * [International Journal of Shipping and Transport Logistics](https://www.inderscience.com/jhome.php?jcode=ijstl)
+   * [Journal of Cleaner Production](https://www.sciencedirect.com/journal/journal-of-cleaner-production)
    * [Environmental Science and Pollution Research](https://www.springer.com/journal/11356) 
    * [Industrial Management & Data Systems](https://www.emerald.com/insight/publication/issn/0263-5577)
    * [International Journal of Computational Intelligence Systems](https://www.atlantis-press.com/journals/ijcis)    
    * [Journal of Open Source Software](https://joss.theoj.org/)
+   * [SoftwareX](https://www.sciencedirect.com/journal/softwarex)
    * [Environmental Engineering and Management Journal](http://omicron.ch.tuiasi.ro/EEMJ/)
    * [Computer Modeling in Engineering & Sciences](https://www.techscience.com/cmes/index.html)
    * [International Journal of Embedded Systems](https://www.inderscience.com/ijes)
