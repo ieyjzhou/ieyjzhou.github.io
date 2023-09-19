@@ -53,7 +53,7 @@ Awards and Honors
 Academic Services
 ======
 
-Guest Editor (SSCI)
+Guest Editor (ESCI)
  * [Case Studies on Transport Policy](https://www.sciencedirect.com/journal/case-studies-on-transport-policy)
 
  
