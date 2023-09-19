@@ -1,4 +1,4 @@
-![monicaLogo](https://github.com/ieyjzhou/ieyjzhou.github.io/assets/14121793/d91e1b6a-81f0-4931-b387-d0aabbc79bf0)---
+
 layout: archive
 title: "CV"
 permalink: /cv/
