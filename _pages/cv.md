@@ -27,7 +27,7 @@ Work Experiences
 
 * Assistant professor, [Zhengzhou University (郑州大学)](http://www.zzu.edu.cn/), Sep.2020 ~  Now
    * School of Management Engineering (Department of Logistics Management), Sep.2020 ~ June.2022
-   * School of Management (Department of Logistics Management), June.2022 ~ Now
+   * School of Management (Department of Logistics Management), June 2022 ~ Now
 
 * Visiting student, [Zhejiang University (浙江大学)](http://www.zju.edu.cn/), July.2013 ~ Apr.2015  
     * [State Key Laboratory of CAD&CG (计算机辅助设计与图形学国家重点实验室)](http://www.cad.zju.edu.cn/)
@@ -75,6 +75,7 @@ Guest Editor (ESCI)
    * [International Journal of Computational Intelligence Systems](https://www.atlantis-press.com/journals/ijcis)    
    * [Journal of Open Source Software](https://joss.theoj.org/)
    * [SoftwareX](https://www.sciencedirect.com/journal/softwarex)
+   * [Journal of Marine Science and Engineering](https://www.mdpi.com/journal/jmse)
    * [Environmental Engineering and Management Journal](http://omicron.ch.tuiasi.ro/EEMJ/)
    * [Computer Modeling in Engineering & Sciences](https://www.techscience.com/cmes/index.html)
    * [International Journal of Embedded Systems](https://www.inderscience.com/ijes)
