@@ -58,7 +58,8 @@ Guest Editor (ESCI)
 
  
   Journal Reviewer (International journals)
-   * [Transportation Research Part B: Methodological](https://www.sciencedirect.com/journal/transportation-research-part-b-methodological)  
+   * [Transportation Research Part B: Methodological](https://www.sciencedirect.com/journal/transportation-research-part-b-methodological)
+   * [Transportation Research Part E: Logistics and Transportation Review](https://www.sciencedirect.com/journal/transportation-research-part-e-logistics-and-transportation-review)
    * [International Journal of Production Research](https://www.tandfonline.com/journals/tprs20)
    * [Engineering Applications of Artificial Intelligence](https://www.sciencedirect.com/journal/engineering-applications-of-artificial-intelligence)
    * [Applied Soft Computing](https://www.journals.elsevier.com/applied-soft-computing)  
