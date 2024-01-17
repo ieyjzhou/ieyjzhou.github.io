@@ -53,9 +53,12 @@ Awards and Honors
 Academic Services
 ======
 
-Guest Editor (ESCI)
+Guest Editor
  * [Case Studies on Transport Policy](https://www.sciencedirect.com/journal/case-studies-on-transport-policy)
 
+Editorial Board
+ * [Journal of Game Studies](https://systems.enpress-publisher.com/index.php/JGS)
+ * [Social Sciences & Humanities Open](https://www.sciencedirect.com/journal/social-sciences-and-humanities-open)
  
   Journal Reviewer (International journals)
    * [Transportation Research Part B: Methodological](https://www.sciencedirect.com/journal/transportation-research-part-b-methodological)
