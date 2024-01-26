@@ -46,11 +46,11 @@ minimize greenhouse gas emissions. **Sustainability**, 9(5), 776. **[PDF](https:
 ## Domestic Journal Publications
 ------
 1. Zhou Y., Li Y., Wang Y., Wang Y. User portrait-based modeling method for iterative product design with emotion analysis and data driven, **Industrial Engineering**, Accept (In Chinese).
-   周艳杰，李耀辉，王宇，王永胜，情感分析与数据驱动下面向产品迭代设计的用户画像及建模研究,工业工程，出版中
+   周艳杰，李耀辉，王宇，王永胜，情感分析与数据驱动下面向产品迭代设计的用户画像及建模研究,**工业工程**，出版中
 3. Zhang J., Ma, F., **Zhou Y.$^\dagger$**, Li M., Li Y., Feng X. (2023), Competition and cooperation between China Railway Express operators considering the competition with maritime shipping, **Journal of Railway Science and Engineering**, Accept (In Chinese).
-   张晶蓉,贺占文,周艳杰，李梦丽，李玉民，冯雪皓.考虑海运竞争影响的中欧班列运营商竞合关系研究[J/OL].铁道科学与工程学报,1-11[2024-01-26].https://doi.org/10.19713/j.cnki.43-1423/u.T20230508.
+   张晶蓉,贺占文,周艳杰，李梦丽，李玉民，冯雪皓.考虑海运竞争影响的中欧班列运营商竞合关系研究[J/OL].**铁道科学与工程学报**,1-11[2024-01-26].https://doi.org/10.19713/j.cnki.43-1423/u.T20230508.
 5. Zhang J., He Z., **Zhou Y.$^\dagger$**, Li Y., (2023), Mixed integer programming approach for pallet packing and container loading of factory products, **Packaging Engineering**, 2023,44(17):143-151.
-   张晶蓉,贺占文,周艳杰，李玉民.基于混合整数规划的工厂产品托盘打包及装箱问题研究[J].包装工程,2023,44(17):143-151. 
+   张晶蓉,贺占文,周艳杰，李玉民.基于混合整数规划的工厂产品托盘打包及装箱问题研究[J].**包装工程**,2023,44(17):143-151. 
 
 
 ## Conference Publications
