@@ -45,7 +45,7 @@ minimize greenhouse gas emissions. **Sustainability**, 9(5), 776. **[PDF](https:
 
 ## Domestic Journal Publications
 ------
-1. Xu J., Wang H.,  **Zhou Y.$^\dagger$**, Feng X., A Hybrid Genetic Algorithm for Solving on 3D Bin Packing Problem with Variable Size, **Packaging Engineering**. 徐江, 王航, **周艳杰$^\dagger$**，冯雪皓. 基于混合遗传算法的可变尺寸货物装箱问题研究，**包装工程** 录用出版中
+1. Xu J., Wang H.,  **Zhou Y.$^\dagger$**, Feng X.,(2024), A Hybrid Genetic Algorithm for Solving on 3D Bin Packing Problem with Variable Size, **Packaging Engineering**, Accept (In Chinese). 徐江, 王航, **周艳杰$^\dagger$**，冯雪皓. 基于混合遗传算法的可变尺寸货物装箱问题研究，**包装工程** 录用出版中
 2. Zhou Y., Li Y., Wang Y., Wang Y., (2024), User portrait-based modeling method for iterative product design with emotion analysis and data driven, **Industrial Engineering**, Accept (In Chinese).
    **周艳杰**，李耀辉，王宇，王永胜，情感分析与数据驱动下面向产品迭代设计的用户画像及建模研究,**工业工程**，出版中
 3. Zhang J., Ma, F., **Zhou Y.$^\dagger$**, Li M., Li Y., Feng X. (2023), Competition and cooperation between China Railway Express operators considering the competition with maritime shipping, **Journal of Railway Science and Engineering**, Accept (In Chinese).
