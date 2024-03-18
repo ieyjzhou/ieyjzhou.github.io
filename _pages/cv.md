@@ -40,7 +40,8 @@ Work Experiences
 Awards and Honors
 ======
  
-   * 河南省教育厅科技成果一等奖, 2022 (排名3/15)
+   * 河南省科学技术进步一等奖, 2023
+   * 河南省教育厅科技成果一等奖, 2022  
    * Out Standing Paper Award of The Second International Conference of the Yangtze River Research and Innovation Belt (2019)  
    * Chinese Government Award for Outstanding Students in Korea (Embassy of China in Korea) (2017/2018)
    * Best Paper Award of The Second Global Conference on Theory and Applications of OR/OM for Sustainability (2017)
