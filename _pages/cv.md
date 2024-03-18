@@ -61,6 +61,7 @@ Editorial Board
  * [Social Sciences & Humanities Open](https://www.sciencedirect.com/journal/social-sciences-and-humanities-open)
  
   Journal Reviewer (International journals)
+   * [Neural Networks](https://www.sciencedirect.com/journal/neural-networks)
    * [Transportation Research Part B: Methodological](https://www.sciencedirect.com/journal/transportation-research-part-b-methodological)
    * [IEEE Transactions on Automation Science and Engineering](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=8856)
    * [Transportation Research Part E: Logistics and Transportation Review](https://www.sciencedirect.com/journal/transportation-research-part-e-logistics-and-transportation-review)
