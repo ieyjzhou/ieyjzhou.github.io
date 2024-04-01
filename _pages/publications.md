@@ -47,14 +47,11 @@ minimize greenhouse gas emissions. **Sustainability**, 9(5), 776. **[PDF](https:
 
 ## Domestic Journal Publications
 ------
-1. Xu J., Wang H.,  **Zhou Y.$^\dagger$**, Feng X.,(2024), A hybrid genetic algorithm for solving on 3D bin packing problem with variable size, **Packaging Engineering**, Accept (In Chinese). 徐江, 王航, **周艳杰$^\dagger$**，冯雪皓. 基于混合遗传算法的可变尺寸货物装箱问题研究，**包装工程** 录用出版中
-2. Zhou Y., Li Y., Wang Y., Wang Y., (2024), User portrait-based modeling method for iterative product design with emotion analysis and data driven, **Industrial Engineering**, Accept (In Chinese).
-   **周艳杰**，李耀辉，王宇，王永胜，情感分析与数据驱动下面向产品迭代设计的用户画像及建模研究,**工业工程**，出版中
-3. Zhang J., Ma, F., **Zhou Y.$^\dagger$**, Li M., Li Y., Feng X. (2023), Competition and cooperation between China Railway Express operators considering the competition with maritime shipping, **Journal of Railway Science and Engineering**, Accept (In Chinese).
-   张晶蓉,马芳媛,**周艳杰$^\dagger$**，李梦丽，李玉民，冯雪皓.考虑海运竞争影响的中欧班列运营商竞合关系研究.**铁道科学与工程学报**,1-11.
-5. Zhang J., He Z., **Zhou Y.$^\dagger$**, Li Y., (2023), Mixed integer programming approach for pallet packing and container loading of factory products, **Packaging Engineering**, 2023,44(17):143-151.
-   张晶蓉,贺占文,**周艳杰$^\dagger$**，李玉民.基于混合整数规划的工厂产品托盘打包及装箱问题研究[J].**包装工程**,2023,44(17):143-151.
-6. 赵倩倩,**周艳杰$^\dagger$**.“生产系统建模与仿真”课程教学改革——基于CDIO标准.**教育教学论坛**,2023(13):46-50.
+1. 徐江, 王航, **周艳杰$^\dagger$**，冯雪皓. 基于混合遗传算法的可变尺寸货物装箱问题研究，**包装工程** 录用出版中
+2. **周艳杰**，李耀辉，王宇，王永胜，情感分析与数据驱动下面向产品迭代设计的用户画像及建模研究,**工业工程**，出版中
+3. 张晶蓉,马芳媛,**周艳杰$^\dagger$**，李梦丽，李玉民，冯雪皓.考虑海运竞争影响的中欧班列运营商竞合关系研究.**铁道科学与工程学报**,1-11.
+4. 张晶蓉,贺占文,**周艳杰$^\dagger$**，李玉民.基于混合整数规划的工厂产品托盘打包及装箱问题研究[J].**包装工程**,2023,44(17):143-151.
+5. 赵倩倩,**周艳杰$^\dagger$**.“生产系统建模与仿真”课程教学改革——基于CDIO标准.**教育教学论坛**,2023(13):46-50.
 
 
 ## Conference Publications
