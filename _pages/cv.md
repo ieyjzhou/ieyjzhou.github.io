@@ -56,6 +56,7 @@ Academic Services
 
 Guest Editor
  * [Case Studies on Transport Policy](https://www.sciencedirect.com/journal/case-studies-on-transport-policy)
+ * [European Journal of Industrial Engineering](https://www.inderscience.com/jhome.php?jcode=ejie)
 
 Editorial Board
  * [Journal of Game Studies](https://systems.enpress-publisher.com/index.php/JGS)
