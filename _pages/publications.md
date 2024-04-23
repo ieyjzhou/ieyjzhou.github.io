@@ -11,7 +11,7 @@ years: [2020, 2019, 2018,2017, 2016, 2015]
 ------
 
 
-2. Xin J., Li S., **Zhou, Y.$^\dagger$**, D’Ariano, A., (2024), Dynamic task allocation of hybrid flow shop for machines in parallel with different speeds based on an MLD prediction model, **Journal of Industrial and Production Engineering**, Accept.
+2. Xin J., Li S., **Zhou, Y.$^\dagger$**, D’Ariano, A., (2024), Dynamic task allocation of hybrid flow shop for machines in parallel with different speeds based on an MLD prediction model, **Journal of Industrial and Production Engineering**, Accept. **[PDF](https://ieyjzhou.github.io/files/2024JIPE.pdf)**
 3. Liu C., **Zhou, Y.$^\dagger$**, Yang Z., Li Y., Li T. (2024), Optimizing the scheduling scheme for NSR/SCR tramp vessel shipping between Asia and Europe, **Ocean Engineering**, 304, 117747. **[PDF](https://ieyjzhou.github.io/files/2024OE.pdf)**
 4. Li B., Jiang S., **Zhou, Y.$^\dagger$**, Xuan H., (2023),  Optimization of train formation plan based on technical station under railcar demand fluctuation, **Journal of Industrial and Production Engineering**, 40(6),448-463. **[PDF](https://ieyjzhou.github.io/files/2023JIPE.pdf)**. 
 1. Shi Y., Liu W., **Zhou, Y.**, (2023),  An adaptive large neighborhood search based approach for the vehicle routing problem with zone-based pricing, **Engineering Applications of Artificial Intelligence**,124,106506. **[PDF](https://ieyjzhou.github.io/files/2023EAAI.pdf)**. 
