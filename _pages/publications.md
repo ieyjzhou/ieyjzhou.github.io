@@ -9,8 +9,6 @@ years: [2020, 2019, 2018,2017, 2016, 2015]
 
 ## International Journal Publications
 ------
-
-
 2. Xin J., Li S., **Zhou, Y.$^\dagger$**, D’Ariano, A., (2024), Dynamic task allocation of hybrid flow shop for machines in parallel with different speeds based on an MLD prediction model, **Journal of Industrial and Production Engineering**, Accept. **[PDF](https://ieyjzhou.github.io/files/2024JIPE.pdf)**
 1. Zhang Y., Zhang J., **Zhou, Y.$^\dagger$**, Zhao H., Cheng P., (2024), Blockchain adoption and mode selection strategies for remanufacturing supply chain under cap-and-trade policy,  **Computer & Industrial Engineering**, 192, 110246. **[PDF](https://ieyjzhou.github.io/files/2024CIEBlockchain.pdf)**
 3. Liu C., **Zhou, Y.$^\dagger$**, Yang Z., Li Y., Li T. (2024), Optimizing the scheduling scheme for NSR/SCR tramp vessel shipping between Asia and Europe, **Ocean Engineering**, 304, 117747. **[PDF](https://ieyjzhou.github.io/files/2024OE.pdf)**
