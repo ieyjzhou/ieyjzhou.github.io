@@ -40,6 +40,7 @@ Work Experiences
 Awards and Honors
 ======
  
+   * Best Paper Award of 6th Y-RIB in collaboration with UNESCAP (2024)
    * 河南省科学技术进步一等奖, 2023
    * 河南省教育厅科技成果一等奖, 2022  
    * Out Standing Paper Award of The Second International Conference of the Yangtze River Research and Innovation Belt (2019)  
