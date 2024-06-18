@@ -97,8 +97,8 @@ Editorial Board
   
   Journal Reviewer (Domestic journals)
    * [中国管理科学](http://www.zgglkx.com/CN/1003-207X/home.shtml)
-   * [中国舰船研究](http://journal16.magtechjournal.com/jwk_zgjcyj/CN/volumn/home.shtml) ([Chinese Journal of Ship Research](http://journal16.magtechjournal.com/jwk_zgjcyj/EN/volumn/current.shtml))
-   * [交通运输工程学报英文版(Journal of Traffic and Transportation Engineering)](http://jtte.chd.edu.cn/)
+   * [中国舰船研究](http://journal16.magtechjournal.com/jwk_zgjcyj/CN/volumn/home.shtml) 
+   * [交通运输工程学报英文版](http://jtte.chd.edu.cn/)
    
    
   Conference Reviewer
