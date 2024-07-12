@@ -10,7 +10,7 @@ years: [2020, 2019, 2018,2017, 2016, 2015]
 ## International Journal Publications
 ------
 1.  **Zhou, Y.**, Luo L., Zhao Q. Q., Chen H., Qian Z., Leng S., (2024), Influence index analysis of inland waterway ports along the Yangtze River, **European Journal of Industrial Engineering**, Accept. 
-2. Zhong Z., Jin H., Sun Y., **Zhou, Y.$^\dagger$**, (2024), Two incentive policies for green shore power system considering multiple objectives, **Computers & Industrial Engineering**, 110338. 
+2. Zhong Z., Jin H., Sun Y., **Zhou, Y.$^\dagger$**, (2024), Two incentive policies for green shore power system considering multiple objectives, **Computers & Industrial Engineering**, 192, 110338. **[PDF](https://ieyjzhou.github.io/files/2024CIEpowersystem.pdf)**
 3. Xin J., Li S., **Zhou, Y.$^\dagger$**, D’Ariano, A., (2024), Dynamic task allocation of hybrid flow shop for machines in parallel with different speeds based on an MLD prediction model, **Journal of Industrial and Production Engineering**, Accept. **[PDF](https://ieyjzhou.github.io/files/2024JIPE.pdf)**
 4. Zhang Y., Zhang J., **Zhou, Y.$^\dagger$**, Zhao H., Cheng P., (2024), Blockchain adoption and mode selection strategies for remanufacturing supply chain under cap-and-trade policy,  **Computers & Industrial Engineering**, 192, 110246. **[PDF](https://ieyjzhou.github.io/files/2024CIEBlockchain.pdf)**
 5. Liu C., **Zhou, Y.$^\dagger$**, Yang Z., Li Y., Li T. (2024), Optimizing the scheduling scheme for NSR/SCR tramp vessel shipping between Asia and Europe, **Ocean Engineering**, 304, 117747. **[PDF](https://ieyjzhou.github.io/files/2024OE.pdf)**
