@@ -1,4 +1,4 @@
-![180BEB48](https://github.com/user-attachments/assets/7e7acc20-2f37-4181-b4cb-ea97d132a7fd)---
+---
 layout: archive
 permalink: /publications/
 author_profile: false
