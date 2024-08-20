@@ -1,4 +1,4 @@
----
+![180BEB48](https://github.com/user-attachments/assets/7e7acc20-2f37-4181-b4cb-ea97d132a7fd)---
 layout: archive
 permalink: /publications/
 author_profile: false
@@ -10,7 +10,7 @@ years: [2020, 2019, 2018,2017, 2016, 2015]
 ## International Journal Publications
 ------
 1. Xin J., Yuan Q., D’Ariano, A., Guo G., Liu Y., **Zhou, Y.$^\dagger$**, (2024), Dynamic unbalanced task allocation of  warehouse AGVs using integrated adaptive large neighborhood search and Kuhn-Munkres algorithm,  **Computers & Industrial Engineering**, 195, 110410.  **[PDF](https://ieyjzhou.github.io/files/2024CIEwarehouseAGV.pdf)**
-2. Li, T., Qin, Y., Xu, M.,  **Zhou, Y.$^\dagger$**, Rong, L., (2024), Spatio-temporal vulnerability of high-speed rail line network in China, **Transportation Research Part D: Transport and Environment**, Accept. 
+2. Li, T., Qin, Y., Xu, M.,  **Zhou, Y.$^\dagger$**, Rong, L., (2024), Spatio-temporal vulnerability of high-speed rail line network in China, **Transportation Research Part D: Transport and Environment**, 134, 104338. **[PDF](https://ieyjzhou.github.io/files/2024TRD.pdf)**
 3. **Zhou, Y.**, Luo L., Zhao Q. Q., Chen H., Qian Z., Leng S., (2024), Influence index analysis of inland waterway ports along the Yangtze River, **European Journal of Industrial Engineering**, Accept. 
 4. Zhong Z., Jin H., Sun Y., **Zhou, Y.$^\dagger$**, (2024), Two incentive policies for green shore power system considering multiple objectives, **Computers & Industrial Engineering**, 192, 110338. **[PDF](https://ieyjzhou.github.io/files/2024CIEpowersystem.pdf)**
 5. Xin J., Li S., **Zhou, Y.$^\dagger$**, D’Ariano, A., (2024), Dynamic task allocation of hybrid flow shop for machines in parallel with different speeds based on an MLD prediction model, **Journal of Industrial and Production Engineering**, Accept. **[PDF](https://ieyjzhou.github.io/files/2024JIPE.pdf)**
