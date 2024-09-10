@@ -75,6 +75,7 @@ Editorial Board
    * [Knowledge-Based Systems](https://www.sciencedirect.com/journal/knowledge-based-systems) 
    * [Computer and Industrial Engineering](https://www.journals.elsevier.com/computers-and-industrial-engineering) 
    * [Maritime Policy & Management](https://www.tandfonline.com/toc/tmpm20/current)
+   * [Operations Research Perspectives](https://www.sciencedirect.com/journal/operations-research-perspectives)
    * [Expert Systems with Applications](https://www.sciencedirect.com/journal/expert-systems-with-applications)
    * [International Journal of Logistics Research and Applications](https://www.tandfonline.com/toc/cjol20/current)
    * [Journal of Industrial Information Integration](https://www.sciencedirect.com/journal/journal-of-industrial-information-integration)
