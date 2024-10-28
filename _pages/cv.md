@@ -64,6 +64,7 @@ Editorial Board
  * [Social Sciences & Humanities Open](https://www.sciencedirect.com/journal/social-sciences-and-humanities-open)
  
   Journal Reviewer (International journals)
+   * [Operation Research](https://link.springer.com/journal/12351)
    * [Neural Networks](https://www.sciencedirect.com/journal/neural-networks)
    * [Transportation Research Part B: Methodological](https://www.sciencedirect.com/journal/transportation-research-part-b-methodological)
    * [IEEE Transactions on Automation Science and Engineering](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=8856)
