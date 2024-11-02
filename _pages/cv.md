@@ -69,6 +69,7 @@ Editorial Board
    * [Neural Networks](https://www.sciencedirect.com/journal/neural-networks)
    * [Transportation Research Part B: Methodological](https://www.sciencedirect.com/journal/transportation-research-part-b-methodological)
    * [IEEE Transactions on Automation Science and Engineering](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=8856)
+   * [IEEE Transactions on Engineering Management](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=17)
    * [Transportation Research Part E: Logistics and Transportation Review](https://www.sciencedirect.com/journal/transportation-research-part-e-logistics-and-transportation-review)
    * [International Journal of Production Research](https://www.tandfonline.com/journals/tprs20)
    * [Journal of Retailing and Consumer Services](https://www.sciencedirect.com/journal/journal-of-retailing-and-consumer-services)
