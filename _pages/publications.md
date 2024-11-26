@@ -9,7 +9,7 @@ years: [2020, 2019, 2018,2017, 2016, 2015]
 
 ## International Journal Publications
 ------
-1. Li S., **Zhou, Y.$^\dagger$**, Zhou B., Wang Z. (2024), Workload-based adaptive decision-making for edge server layout with deep reinforcement learning, **Engineering Applications of Artificial Intelligence**, (accepted)
+1. Li S., **Zhou, Y.$^\dagger$**, Zhou B., Wang Z. (2025), Workload-based adaptive decision-making for edge server layout with deep reinforcement learning, **Engineering Applications of Artificial Intelligence**, 139, 109662. **[PDF](https://ieyjzhou.github.io/files/2024eaai.pdf)**
 2. Feng X., Li D., Shin Y., **Zhou, Y.$^\dagger$**, (2024), Resilient shuttle vehicle plan under route disruption scenarios and ticketing policies: A case study of the Qiandaohu archipelago scenic area, China, **Current Issues in Tourism**, (accepted)
 3. Wang H., **Zhou, Y.**, Niu X., Liu D., Li L., Duan Y., Wang Z., (2024), A Low-Cost and stable DAL arrhythmia detection algorithm based on the weak stratification query strategy of morphological statistical features, **Expert Systems with Applications**,261, 125482. **[PDF](https://ieyjzhou.github.io/files/2024eswa.pdf)**
 4. Xin J., Yuan Q., D’Ariano, A., Guo G., Liu Y., **Zhou, Y.$^\dagger$**, (2024), Dynamic unbalanced task allocation of  warehouse AGVs using integrated adaptive large neighborhood search and Kuhn-Munkres algorithm,  **Computers & Industrial Engineering**, 195, 110410.  **[PDF](https://ieyjzhou.github.io/files/2024CIEwarehouseAGV.pdf)**
