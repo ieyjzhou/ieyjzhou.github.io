@@ -131,7 +131,7 @@ Editorial Board
   * [The 10th International Conference on Logistics and Maritime Systems (LOGMS2021)](https://www.logms2021.com/)
       * Local Organizing Committee
       * Session Chair
-   * [IEEE 7th International Conference on Computer and Communications, 2021](http://www.iccc.org/) 
+   * [IEEE International Conference on Computer and Communications, 2021,2024](http://www.iccc.org/) 
      * Technical Committee
      * Session Chair
   * [2021年中韩博士论坛](http://www.xinhan100.com/zixun/zuixin/2021-09-08/3174.html)
