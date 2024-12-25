@@ -67,6 +67,7 @@ Editorial Board
   Journal Reviewer (International journals)
    * [Operation Research](https://link.springer.com/journal/12351)
    * [Neural Networks](https://www.sciencedirect.com/journal/neural-networks)
+   * [Neurocomputing](https://www.sciencedirect.com/journal/neurocomputing)
    * [Transportation Research Part B: Methodological](https://www.sciencedirect.com/journal/transportation-research-part-b-methodological)
    * [IEEE Transactions on Automation Science and Engineering](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=8856)
    * [IEEE Transactions on Engineering Management](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=17)
