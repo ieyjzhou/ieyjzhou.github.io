@@ -9,7 +9,7 @@ years: [2020, 2019, 2018,2017, 2016, 2015]
 
 ## International Journal Publications
 ------
-1. Feng X., Jin C. Zhu J., **Zhou Y.$^\dagger$**,(2025), A hybrid two-stage algorithm for solving synchronous loading operation of quay cranes and straddle carriers, **European J. of Industrial Engineering**,  (accepted)
+1. Feng X., Jin C. Zhu J., **Zhou Y.$^\dagger$**,(2025), A hybrid two-stage algorithm for solving synchronous loading operation of quay cranes and straddle carriers, **European Journal of Industrial Engineering**,  (accepted)
 2. Li S.$^\ddagger$, **Zhou Y.$^\dagger$**, Liu X., Wang N., Wang J., Zhou B., Wang Z. (2025), Dynamic weight reinforcement learning method considering multiple factors in mobile edge computing system, **Neurocomputing**, 620, 129194. **[PDF](https://ieyjzhou.github.io/files/2024Neurocomputing.pdf)**
 3. Li S.$^\ddagger$, **Zhou Y.$^\dagger$**, Zhou B., Wang Z. (2025), Workload-based adaptive decision-making for edge server layout with deep reinforcement learning, **Engineering Applications of Artificial Intelligence**, 139, 109662. **[PDF](https://ieyjzhou.github.io/files/2024eaai.pdf)**
 4. Feng X., Li D., Shin Y., **Zhou Y.$^\dagger$**, (2024), Resilient shuttle vehicle plan under route disruption scenarios and ticketing policies: A case study of the Qiandaohu archipelago scenic area, China, **Current Issues in Tourism**, (accepted)
