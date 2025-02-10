@@ -9,7 +9,7 @@ years: [2020, 2019, 2018,2017, 2016, 2015]
 
 ## International Journal Publications
 ------
-1. Li B., Bian M., **Zhou Y.$^\dagger$**, Xuan H., (2025), Hybrid train formation plan integrating one-block and two-block trains from the technical station under wagon demand fluctuation,**Engineering Optimization**, (accepted)
+1. Li B., Bian M., **Zhou Y.$^\dagger$**, Xuan H., (2025), Hybrid train formation plan integrating one-block and two-block trains from the technical station under wagon demand fluctuation,**Engineering Optimization**, 83, 104062. **[PDF](https://ieyjzhou.github.io/files/2025RSMS.pdf)**
 2. **Zhou Y.**, Wang X., Hu C., Li T., (2025), Inland port ranking analysis considering port efficiency for sustainable port development: a case study, **Regional Studies in Marine Science**, (accepted)
 3. Feng X., Jin C. Zhu J., **Zhou Y.$^\dagger$**, (2025), A hybrid two-stage algorithm for solving synchronous loading operation of quay cranes and straddle carriers, **European Journal of Industrial Engineering**, (accepted)
 4. Li S.$^\ddagger$, **Zhou Y.$^\dagger$**, Liu X., Wang N., Wang J., Zhou B., Wang Z., (2025), Dynamic weight reinforcement learning method considering multiple factors in mobile edge computing system, **Neurocomputing**, 620, 129194. **[PDF](https://ieyjzhou.github.io/files/2024Neurocomputing.pdf)**
