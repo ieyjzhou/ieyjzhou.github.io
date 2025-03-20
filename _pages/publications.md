@@ -9,7 +9,7 @@ years: [2020, 2019, 2018,2017, 2016, 2015]
 
 ## International Journal Publications
 ------
-1. **Zhou Y.**, He Z., Liu C., Zhang J., Li Y., Wang Y., (2025), Less-than-container cargo scheduling for China railway express along belt and road initiative routes, **Transportation Research Part E: Logistics and Transportation Review**, (accepted)
+1. **Zhou Y.**, He Z., Liu C., Zhang J., Li Y., Wang Y., (2025), Less-than-container cargo scheduling for China railway express along belt and road initiative routes, **Transportation Research Part E: Logistics and Transportation Review**, 197, 104066. **[PDF](https://ieyjzhou.github.io/files/2025TRE.pdf)**
 2. Li B., Bian M., **Zhou Y.$^\dagger$**, Xuan H., (2025), Hybrid train formation plan integrating one-block and two-block trains from the technical station under wagon demand fluctuation,**Engineering Optimization**, (accepted)
 3. **Zhou Y.**, Wang X., Hu C., Li T., (2025), Inland port ranking analysis considering port efficiency for sustainable port development: a case study, **Regional Studies in Marine Science**, 83, 104062. **[PDF](https://ieyjzhou.github.io/files/2025RSMS.pdf)** 
 4. Feng X., Jin C. Zhu J., **Zhou Y.$^\dagger$**, (2025), A hybrid two-stage algorithm for solving synchronous loading operation of quay cranes and straddle carriers, **European Journal of Industrial Engineering**, (accepted)
