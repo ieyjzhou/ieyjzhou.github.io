@@ -9,7 +9,7 @@ years: [2020, 2019, 2018,2017, 2016, 2015]
 
 ## International Journal Publications
 ------
-1. Li P., Wu G., **Zhou Y.$^\dagger$**, Leng J. (2025), Enhancing random surface anomaly detection in real-world using a four-stage one-class approach, **Pattern Recognition Letters**,  (accepted)
+1. Li P., Wu G., **Zhou Y.$^\dagger$**, Leng J. (2025), Enhancing random surface anomaly detection in real-world using a four-stage one-class approach, **Pattern Recognition Letters**, 194, 32-40. **[PDF](https://ieyjzhou.github.io/files/2025PRL.pdf)**
 2. **Zhou Y.**, Luo L., Wang Y., Feng X, Huang Z., Feng W., Pang L., (2025), Pickup hub location problem with prospective customers in rural area: A case study, **International Journal of Industrial Engineering: Theory, Applications and Practice**, (accepted)
 3. **Zhou Y.**, He Z., Liu C., Zhang J., Li Y., Wang Y., (2025), Less-than-container cargo scheduling for China railway express along belt and road initiative routes, **Transportation Research Part E: Logistics and Transportation Review**, 197, 104066. **[PDF](https://ieyjzhou.github.io/files/2025TRE.pdf)**
 4. Li B., Bian M., **Zhou Y.$^\dagger$**, Xuan H., (2025), Hybrid train formation plan integrating one-block and two-block trains from the technical station under wagon demand fluctuation,**Engineering Optimization**, (accepted)
