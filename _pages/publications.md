@@ -10,7 +10,7 @@ years: [2020, 2019, 2018,2017, 2016, 2015]
 ## International Journal Publications
 ------
 1. Xin j., Guo S., Liu Y., **Zhou Y.$^\dagger$**,  D’Ariano, A.,  (2025), Routing fast-charging agvs for non-stop manufacturing: Milp model and adaptive large neighborhood search, **Computers & Industrial Engineering**, (accepted)
-2. Tan J., Fan H., Luo J., **Zhou Y.**, Wang N., Wang X., Liu G., Liu C., Wang Z., (2025), A pediatric ECG database with disease diagnosis covering 11643 children. Scientific Data, 12(1), 1-10. **[PDF](https://www.nature.com/articles/s41597-025-05225-z.pdf)**
+2. Tan J., Fan H., Luo J., **Zhou Y.**, Wang N., Wang X., Liu G., Liu C., Wang Z., (2025), A pediatric ECG database with disease diagnosis covering 11643 children. **Scientific Data**, 12(1), 1-10. **[PDF](https://www.nature.com/articles/s41597-025-05225-z.pdf)**
 3. Li P., Wu G., **Zhou Y.$^\dagger$**, Leng J. (2025), Enhancing random surface anomaly detection in real-world using a four-stage one-class approach, **Pattern Recognition Letters**, 194, 32-40. **[PDF](https://ieyjzhou.github.io/files/2025PRL.pdf)**
 4. **Zhou Y.**, Luo L., Wang Y., Feng X, Huang Z., Feng W., Pang L., (2025), Pickup hub location problem with prospective customers in rural area: A case study, **International Journal of Industrial Engineering: Theory, Applications and Practice**, (accepted)
 5. **Zhou Y.**, He Z., Liu C., Zhang J., Li Y., Wang Y., (2025), Less-than-container cargo scheduling for China railway express along belt and road initiative routes, **Transportation Research Part E: Logistics and Transportation Review**, 197, 104066. **[PDF](https://ieyjzhou.github.io/files/2025TRE.pdf)**
