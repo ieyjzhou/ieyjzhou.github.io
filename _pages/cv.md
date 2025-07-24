@@ -115,6 +115,7 @@ Editorial Board
    * [中国舰船研究](http://journal16.magtechjournal.com/jwk_zgjcyj/CN/volumn/home.shtml) 
    * [交通运输工程学报英文版](http://jtte.chd.edu.cn/)
    * [工业工程](https://iej.gdut.edu.cn/)
+   * [包装工程]()
    
    
   Conference Reviewer
