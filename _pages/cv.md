@@ -73,6 +73,8 @@ Editorial Board
    * [Transportation Research Part C: Emerging Technologies](https://www.sciencedirect.com/journal/transportation-research-part-c-emerging-technologies)
    * [IEEE Transactions on Automation Science and Engineering](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=8856)
    * [IEEE Transactions on Engineering Management](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=17)
+   * [Frontiers of Engineering Management](https://link.springer.com/journal/42524)
+   * [Reliability Engineering & System Safety](https://www.sciencedirect.com/journal/reliability-engineering-and-system-safety)
    * [Transportation Research Part E: Logistics and Transportation Review](https://www.sciencedirect.com/journal/transportation-research-part-e-logistics-and-transportation-review)
    * [International Journal of Production Research](https://www.tandfonline.com/journals/tprs20)
    * [Journal of Retailing and Consumer Services](https://www.sciencedirect.com/journal/journal-of-retailing-and-consumer-services)
