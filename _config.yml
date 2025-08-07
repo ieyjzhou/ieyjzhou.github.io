@@ -265,6 +265,8 @@ sass:
 
 gems:
   - jekyll-sitemap
+  - jekyll-feed
+  - jekyll-scholar
 
 
 # Outputting
@@ -291,8 +293,35 @@ whitelist:
   - jekyll-gist
   - jekyll-feed
   - jemoji
+
 scholar:
-  style: modern-language-association
+  style: ieee-with-url
+  locale: en
+
+  sort_by: year
+  order: descending
+
+  group_by: type
+  type_order: thesis,article,inproceedings,techreport
+  group_order: none
+
+  source: ./_bibliography
+  bibliography: references.bib
+  bibliography_template: "{{reference}}"
+
+  replace_strings: true
+  join_strings:    true
+
+  use_raw_bibtex_entry: true
+  bibtex_filters:
+#  - superscript
+#  - latex
+
+  details_dir:    bibliography
+  details_layout: bibtex.html
+  details_link:   Details
+
+  query: "@*"
 
 # Archives
 #  Type
