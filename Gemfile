@@ -9,7 +9,7 @@ source "https://rubygems.org"
 # This will help ensure the proper Jekyll version is running.
 # Happy Jekylling!
 
-#gem "github-pages", group: :jekyll_plugins
+gem "github-pages", group: :jekyll_plugins
 
 
 
@@ -21,7 +21,9 @@ gem "jekyll", "~> 3.8.5"
 gem "minimal-mistakes-jekyll"
 
 #gem "rake"
-gem "jekyll-scholar"
+#gem "jekyll-scholar"
+gem "jekyll-scholar", "5.8.2"
+
 
 gem "wdm", "~> 0.1.0" if Gem.win_platform?
 
