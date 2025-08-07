@@ -282,7 +282,7 @@ plugins:
   - jekyll-feed
   - jekyll-redirect-from
   - jemoji
-#  - jekyll/scholar
+  - jekyll/scholar
 # mimic GitHub Pages with --safe
 whitelist:
   - jekyll/scholar
@@ -291,7 +291,8 @@ whitelist:
   - jekyll-gist
   - jekyll-feed
   - jemoji
-
+scholar:
+  style: modern-language-association
 
 # Archives
 #  Type
