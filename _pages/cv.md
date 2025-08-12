@@ -62,6 +62,7 @@ Guest Editor
  * [European Journal of Industrial Engineering](https://www.inderscience.com/jhome.php?jcode=ejie)
 
 Editorial Board
+ * [European Journal of Industrial Engineering](https://www.inderscience.com/jhome.php?jcode=ejie)
  * [Journal of Game Studies](https://systems.enpress-publisher.com/index.php/JGS)
  * [Social Sciences & Humanities Open](https://www.sciencedirect.com/journal/social-sciences-and-humanities-open)
  
