@@ -18,6 +18,13 @@ Educations
 * M.S. in Computer Applied Technology, [Zhengzhou University (郑州大学)](http://www.zzu.edu.cn/), 2012.09 ~ 2015.06
 * B.S. in Computer Science, [Zhengzhou University (郑州大学)](http://www.zzu.edu.cn/), 2008.09 ~ 2012.06
 
+* Visiting student, [Zhejiang University (浙江大学)](http://www.zju.edu.cn/), July.2013 ~ Apr.2015  
+    * [State Key Laboratory of CAD&CG (计算机辅助设计与图形学国家重点实验室)](http://www.cad.zju.edu.cn/)
+    * [Graphics and Parallel Systems Lab (图形与并行系统实验室)](http://www.gaps-zju.org/)  
+
+* Visiting student, [University of Chinese Academy of Sciences (中国科学院大学)](https://www.ucas.ac.cn/), July.2012 ~ Sep. 2012   
+    * [Cloud Computing & Intelligent Information Processing Lab (云计算与智能信息处理实验室)](http://feds.ac.cn/)
+
 
 Work Experiences
 ======
@@ -30,12 +37,6 @@ Work Experiences
    * School of Management Engineering (Department of Logistics Management), Sep.2020 ~ June.2022
    * School of Management (Department of Logistics Management), June 2022 ~ Mar.2023
 
-* Visiting student, [Zhejiang University (浙江大学)](http://www.zju.edu.cn/), July.2013 ~ Apr.2015  
-    * [State Key Laboratory of CAD&CG (计算机辅助设计与图形学国家重点实验室)](http://www.cad.zju.edu.cn/)
-    * [Graphics and Parallel Systems Lab (图形与并行系统实验室)](http://www.gaps-zju.org/)  
-
-* Visiting student, [University of Chinese Academy of Sciences (中国科学院大学)](https://www.ucas.ac.cn/), July.2012 ~ Sep. 2012   
-    * [Cloud Computing & Intelligent Information Processing Lab (云计算与智能信息处理实验室)](http://feds.ac.cn/)
 
 
 Awards and Honors
