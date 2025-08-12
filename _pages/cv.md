@@ -132,6 +132,8 @@ Editorial Board
    * [国家留学基金委](https://www.csc.edu.cn/), 通讯评审专家
    * [中国计算机学会](https://www.ccf.org.cn/), 专业会员
    * [中国运筹学会](https://www.orsc.org.cn/),普通会员
+   * [中国机械工程学会](https://www.cmes.org/cmes)
+       *工业工程分会,会员
    * [中国系统工程学会](http://www.sesc.org.cn/htm/index.htm),会员
    * [中国交通运输协会](https://www.cctaw.cn/) 
       * 青年科技工作者工作委员会委员 (2021.10~2025.10,第六届) 
