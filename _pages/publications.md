@@ -11,7 +11,7 @@ years: [2020, 2019, 2018,2017, 2016, 2015]
 
 ## International Journal Publications
 ------
-1. **Zhou Y.**, Wang X., Wang H., Xu J. (2025), A computational intelligence method to solve the problem of packing variable-length fresh products into fixed-size bins, **Computers & Industrial Engineering**, (accepted)
+1. **Zhou Y.**, Wang X., Wang H., Xu J. (2025), A computational intelligence method to solve the problem of packing variable-length fresh products into fixed-size bins, **Computers & Industrial Engineering**, 209, 111450.
 2. **Zhou Y.**, Zhang Z., Song N., Zhang J. (2025), Data driven-based thesis defense scheduling system: a theoretical framework and empirical development, **Engineering Applications of Artificial Intelligence**, 159, 111697.
 3. Xin j., Guo S., Liu Y., **Zhou Y.$^\dagger$**,  D’Ariano, A.,  (2025), Routing fast-charging agvs for non-stop manufacturing: Milp model and adaptive large neighborhood search, **Computers & Industrial Engineering**, 208, 111355.
 4. Tan J., Fan H., Luo J., **Zhou Y.**, Wang N., Wang X., Liu G., Liu C., Wang Z., (2025), A pediatric ECG database with disease diagnosis covering 11643 children. **Scientific Data**, 12(1), 1-10. **[PDF](https://www.nature.com/articles/s41597-025-05225-z.pdf)**
