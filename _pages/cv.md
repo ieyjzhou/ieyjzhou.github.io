@@ -28,7 +28,7 @@ Work Experiences
  
 * Associate professor, [Zhengzhou University (郑州大学)](http://www.zzu.edu.cn/), Mar.2023~  Now
    * School of Management (Department of Logistics Management), Mar.2023 ~ Now
-   * Department head of Logistics Management, May 2025 ~ Now
+   * Department Head of Logistics Management, May 2025 ~ Now
 
 * Assistant professor, [Zhengzhou University (郑州大学)](http://www.zzu.edu.cn/), Sep.2020 ~  Mar.2023
    * School of Management Engineering (Department of Logistics Management), Sep.2020 ~ June.2022
