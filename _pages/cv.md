@@ -142,12 +142,13 @@ Editorial Board
    * [Korean Operations Research and Management Science Society](http://www.korms.or.kr), Regular Member 
    
   Conference Committee 
-  * [The 10th International Conference on Logistics and Maritime Systems (LOGMS2021)](https://www.logms2021.com/)
-      * Local Organizing Committee
-      * Session Chair
-   * [IEEE International Conference on Computer and Communications, 2021,2024](http://www.iccc.org/) 
-     * Technical Committee
-     * Session Chair
+  * [International Conference on Logistics and Maritime Systems](https://www.logms2021.com/)
+      * Local Organizing Committee  (LOGMS2021)
+      * Session Chair  (LOGMS2021)
+      * International Advice Committee (LOGMS2023)
+   * [IEEE International Conference on Computer and Communications](http://www.iccc.org/) 
+     * Technical Committee (2021,2024)
+     * Session Chair (2021,2024)
   * [2021年中韩博士论坛](http://www.xinhan100.com/zixun/zuixin/2021-09-08/3174.html)
      * 经济学分会场主席
 
