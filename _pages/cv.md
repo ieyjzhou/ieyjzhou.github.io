@@ -56,7 +56,7 @@ Academic Services
 
 Associate Editor
   * [Engineering Optimization](https://www.tandfonline.com/journals/geno20)
-  
+
 Guest Editor
  * [Sustainability](https://www.mdpi.com/journal/sustainability)
  * [Case Studies on Transport Policy](https://www.sciencedirect.com/journal/case-studies-on-transport-policy)
