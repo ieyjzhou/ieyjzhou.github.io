@@ -55,7 +55,7 @@ Academic Services
 ======
 
 Associate Editor
-  * [Engineering Optimization](https://www.tandfonline.com/journals/geno20)
+ * [Engineering Optimization](https://www.tandfonline.com/journals/geno20)
 
 Guest Editor
  * [Sustainability](https://www.mdpi.com/journal/sustainability)
