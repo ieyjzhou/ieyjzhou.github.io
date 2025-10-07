@@ -11,7 +11,7 @@ years: [2020, 2019, 2018,2017, 2016, 2015]
 
 ## International Journal Publications
 ------
-1. **Zhou Y.**, Ma F., Li M., Zhang J., Li Y., Feng X. (2025), Co-opetition among dry ports for competing with seaports, **Maritime Policy & Management** (Accepted)
+1. **Zhou Y.**, Ma F., Li M., Zhang J., Li Y., Feng X. (2025), Co-opetition among dry ports for competing with seaports, **Maritime Policy & Management**, 1-28. **[PDF](https://ieyjzhou.github.io/files/2025MPM.pdf)**
 2.  **Zhou Y.**, Wang X., Wang H., Xu J. (2025), A computational intelligence method to solve the problem of packing variable-length fresh products into fixed-size bins, **Computers & Industrial Engineering**, 209, 111450.  **[PDF](https://ieyjzhou.github.io/files/2025CIEbinpacking.pdf)**
 3. **Zhou Y.**, Zhang Z., Song N., Zhang J. (2025), Data driven-based thesis defense scheduling system: a theoretical framework and empirical development, **Engineering Applications of Artificial Intelligence**, 159, 111697.  **[PDF](https://ieyjzhou.github.io/files/2025EAAIthesis.pdf)**
 4. Xin j., Guo S., Liu Y., **Zhou Y.$^\dagger$**,  D’Ariano, A.,  (2025), Routing fast-charging agvs for non-stop manufacturing: Milp model and adaptive large neighborhood search, **Computers & Industrial Engineering**, 208, 111355.  **[PDF](https://ieyjzhou.github.io/files/2025CIE-AGV.pdf)**
