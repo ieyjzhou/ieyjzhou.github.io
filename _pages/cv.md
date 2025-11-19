@@ -54,6 +54,8 @@ Awards and Honors
 Academic Services
 ======
 
+Secretary
+ * [Logistics and Maritime Systems (LOGMS)](https://logms.github.io/index.html)
 Associate Editor
  * [Engineering Optimization](https://www.tandfonline.com/journals/geno20)
 
