@@ -54,22 +54,23 @@ Awards and Honors
 Academic Services
 ======
 
-Secretary
+**Secretary**
  * [Logistics and Maritime Systems (LOGMS)](https://logms.github.io/index.html)
-Associate Editor
+
+**Associate Editor**
  * [Engineering Optimization](https://www.tandfonline.com/journals/geno20)
 
-Guest Editor
+**Guest Editor**
  * [Sustainability](https://www.mdpi.com/journal/sustainability)
  * [Case Studies on Transport Policy](https://www.sciencedirect.com/journal/case-studies-on-transport-policy)
  * [European Journal of Industrial Engineering](https://www.inderscience.com/jhome.php?jcode=ejie)
 
-Editorial Board
+**Editorial Board**
  * [European Journal of Industrial Engineering](https://www.inderscience.com/jhome.php?jcode=ejie)
  * [Journal of Game Studies](https://systems.enpress-publisher.com/index.php/JGS)
  * [Social Sciences & Humanities Open](https://www.sciencedirect.com/journal/social-sciences-and-humanities-open)
  
-  Journal Reviewer (International journals)
+**Journal Reviewer (International journals)**
    * [Operation Research](https://link.springer.com/journal/12351)
    * [Neural Networks](https://www.sciencedirect.com/journal/neural-networks)
    * [Neurocomputing](https://www.sciencedirect.com/journal/neurocomputing)
@@ -114,7 +115,7 @@ Editorial Board
    * [Cleaner Logistics and Supply Chain](https://www.sciencedirect.com/journal/cleaner-logistics-and-supply-chain)
    * ........
   
-  Journal Reviewer (Domestic journals)
+  **Journal Reviewer (Domestic journals)**
    * [中国管理科学](http://www.zgglkx.com/CN/1003-207X/home.shtml)
    * [中国舰船研究](http://journal16.magtechjournal.com/jwk_zgjcyj/CN/volumn/home.shtml) 
    * [交通运输工程学报英文版](http://jtte.chd.edu.cn/)
@@ -122,14 +123,14 @@ Editorial Board
    * [包装工程]()
    
    
-  Conference Reviewer
+  **Conference Reviewer**
    * IEEE Congress on Evolutionary Computation (CEC) 2023
    * The 20th Asia Pacific Industrial Engineering and Management Systems 
    * IEEE 7th International Conference on Computer and Communications
    * The 1nd International Conference of the Yangtze River Research and Innovation Belt 
    * CCF第37届中国计算机应用大会
   
-  Membership   
+ **Membership** 
    
    * 河南省物流学会, 副秘书长 (Henan Logistics Society, Deputy Secretary General) （2022.08-2026.08）
    * [国家留学基金委](https://www.csc.edu.cn/), 通讯评审专家
