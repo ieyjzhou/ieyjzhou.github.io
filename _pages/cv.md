@@ -139,7 +139,7 @@ Academic Services
    * [中国机械工程学会](https://www.cmes.org/cmes)
        * 工业工程分会,会员
    * [中国系统工程学会](http://www.sesc.org.cn/htm/index.htm),
-       *港航经济系统工程专业委员会, 常务委员
+       * 港航经济系统工程专业委员会, 常务委员
    * [中国交通运输协会](https://www.cctaw.cn/) 
       * 青年科技工作者工作委员会委员 (2021.10~2025.10,第六届) 
    * IEEE Membership, Member
