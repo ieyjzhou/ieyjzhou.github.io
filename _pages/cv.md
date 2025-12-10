@@ -64,6 +64,7 @@ Academic Services
  * [Sustainability](https://www.mdpi.com/journal/sustainability)
  * [Case Studies on Transport Policy](https://www.sciencedirect.com/journal/case-studies-on-transport-policy)
  * [European Journal of Industrial Engineering](https://www.inderscience.com/jhome.php?jcode=ejie)
+ * [Industrial Engineering Journal(工业工程)](https://iej.gdut.edu.cn/)
 
 **Editorial Board**
  * [European Journal of Industrial Engineering](https://www.inderscience.com/jhome.php?jcode=ejie)
