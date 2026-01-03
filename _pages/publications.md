@@ -12,7 +12,7 @@ years: [2020, 2019, 2018,2017, 2016, 2015]
 ## International Journal Publications
 ------
 1. Wang Y., Jin C., **Zhou Y.$^\dagger$**, Feng W., Zhong G., Wang D., Wang R., (2025), Optimizing pesticide matching: A comprehensive multi-objective framework, **IEEE Access**,13,205805-205825. **[PDF](https://ieyjzhou.github.io/files/2025IEEEAEESS.pdf)**
-2. Leng S., Wang Y., **Zhou Y.$^\dagger$**, Feng X., Lee P., Bai R., (2025), The growing role of artificial intelligence in smart container ports: its application and future research directions, **Journal of International Logistics and Trade**, Accepted.
+2. Leng S., Wang Y., **Zhou Y.$^\dagger$**, Feng X., Lee P., Bai R., (2025), The growing role of artificial intelligence in smart container ports: its application and future research directions, **Journal of International Logistics and Trade**, 1-35. **[PDF](https://www.emerald.com/jilt/article-pdf/doi/10.1108/JILT-11-2025-0105/11166809/jilt-11-2025-0105en.pdf)**.
 3. **Zhou Y.**, Ma F., Li M., Zhang J., Li Y., Feng X., (2025), Co-opetition among dry ports for competing with seaports, **Maritime Policy & Management**, 1-28. **[PDF](https://ieyjzhou.github.io/files/2025MPM.pdf)**
 4.  **Zhou Y.**, Wang X., Wang H., Xu J. (2025), A computational intelligence method to solve the problem of packing variable-length fresh products into fixed-size bins, **Computers & Industrial Engineering**, 209, 111450.  **[PDF](https://ieyjzhou.github.io/files/2025CIEbinpacking.pdf)**
 5. **Zhou Y.**, Zhang Z., Song N., Zhang J., (2025), Data driven-based thesis defense scheduling system: a theoretical framework and empirical development, **Engineering Applications of Artificial Intelligence**, 159, 111697.  **[PDF](https://ieyjzhou.github.io/files/2025EAAIthesis.pdf)**
