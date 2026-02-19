@@ -10,10 +10,9 @@ source "https://rubygems.org"
 # Happy Jekylling!
 
 
-gem 'github-pages', "~> 223", group: :jekyll_plugins
+ 
 
-
-#gem "github-pages", group: :jekyll_plugins
+gem "github-pages", group: :jekyll_plugins
 
 
 
