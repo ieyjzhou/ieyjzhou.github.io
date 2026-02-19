@@ -21,8 +21,8 @@ gem "jekyll", "~> 3.8.5"
 gem "minimal-mistakes-jekyll"
 
 #gem "rake"
-#gem "jekyll-scholar"
-gem 'jekyll-scholar', group: :jekyll_plugins
+gem "jekyll-scholar"
+
 
 
 gem "wdm", "~> 0.1.0" if Gem.win_platform?
