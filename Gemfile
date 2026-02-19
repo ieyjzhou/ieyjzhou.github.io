@@ -19,7 +19,8 @@ gem "github-pages", group: :jekyll_plugins
 #gem "jekyll"
 gem "jekyll", "~> 3.8.5"
 gem "minimal-mistakes-jekyll"
-
+gem 'uri', '0.10.0'
+gem 'rspec
 #gem "rake"
 
 gem 'jekyll-scholar', group: :jekyll_plugins
