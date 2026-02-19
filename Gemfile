@@ -24,7 +24,7 @@ gem 'github-pages', "~> 223", group: :jekyll_plugins
 gem "jekyll", "~> 3.8.5"
 gem "minimal-mistakes-jekyll"
 gem 'uri', '0.10.0'
-gem 'rspec
+gem 'rspec'
 #gem "rake"
 
 gem "jekyll-include-cache", group: :jekyll_plugins
