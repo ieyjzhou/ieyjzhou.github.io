@@ -7,8 +7,7 @@ years: [2020, 2019, 2018,2017, 2016, 2015]
 <div style="text-align: right"> $^\dagger$ corresponding author <br /> $^\ddagger$ student under my (co-)supervision </div>
 
 
-  
-{% bibliography %}
+
 ## International Journal Publications
 ------
 1. **Zhou Y.**, Kang Y. Li P., Feng X., (2026), Container relocation problem: a systematic review and bibliometric analysis, **Journal of Shipping and Trade**, (Accepted).
