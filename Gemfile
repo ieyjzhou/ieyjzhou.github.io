@@ -22,7 +22,7 @@ gem "minimal-mistakes-jekyll"
 
 #gem "rake"
 
-
+gem 'jekyll-scholar', group: :jekyll_plugins
 
 
 gem "wdm", "~> 0.1.0" if Gem.win_platform?
@@ -37,7 +37,6 @@ group :jekyll_plugins do
   gem "jemoji"
   gem "jekyll-include-cache"
   # gem "jekyll-archives"
-  gem "jekyll-scholar" 
   gem "jekyll-feed"
   #gem 'jekyll-sitemap'
   gem 'hawkins'
