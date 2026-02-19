@@ -21,7 +21,7 @@ gem "jekyll", "~> 3.8.5"
 gem "minimal-mistakes-jekyll"
 
 #gem "rake"
-gem "jekyll-scholar"
+gem "jekyll-scholar", group: :jekyll_plugins
 
 
 
@@ -37,7 +37,6 @@ group :jekyll_plugins do
   gem "jemoji"
   gem "jekyll-include-cache"
   # gem "jekyll-archives"
-  gem "jekyll-scholar"
   gem "jekyll-feed"
   #gem 'jekyll-sitemap'
   gem 'hawkins'
