@@ -55,21 +55,22 @@ Academic Services
 ======
 
 **Secretary**
- * [Logistics and Maritime Systems (LOGMS)](https://logms.github.io/index.html)
+ * [Logistics and Maritime Systems (LOGMS)](https://logms.github.io/index.html)(2025-now)
 
 **Associate Editor**
- * [Engineering Optimization](https://www.tandfonline.com/journals/geno20)
+ * [Engineering Optimization](https://www.tandfonline.com/journals/geno20)(2025-now)
+ * [European Journal of Industrial Engineering](https://www.inderscience.com/jhome.php?jcode=ejie)(2026-now)
 
 **Guest Editor**
- * [Sustainability](https://www.mdpi.com/journal/sustainability)
- * [Case Studies on Transport Policy](https://www.sciencedirect.com/journal/case-studies-on-transport-policy)
- * [European Journal of Industrial Engineering](https://www.inderscience.com/jhome.php?jcode=ejie)
- * [Industrial Engineering Journal(工业工程)](https://iej.gdut.edu.cn/)
+ * [Sustainability](https://www.mdpi.com/journal/sustainability)(2025-now)
+ * [Case Studies on Transport Policy](https://www.sciencedirect.com/journal/case-studies-on-transport-policy)(2025-now)
+ * [European Journal of Industrial Engineering](https://www.inderscience.com/jhome.php?jcode=ejie)(2024-2025)
+ * [Industrial Engineering Journal(工业工程)](https://iej.gdut.edu.cn/)(2025-now)
 
 **Editorial Board**
- * [European Journal of Industrial Engineering](https://www.inderscience.com/jhome.php?jcode=ejie)
- * [Journal of Game Studies](https://systems.enpress-publisher.com/index.php/JGS)
- * [Social Sciences & Humanities Open](https://www.sciencedirect.com/journal/social-sciences-and-humanities-open)
+ * [European Journal of Industrial Engineering](https://www.inderscience.com/jhome.php?jcode=ejie)(2025-2026)
+ * [Journal of Game Studies](https://systems.enpress-publisher.com/index.php/JGS)(2025-now)
+ * [Social Sciences & Humanities Open](https://www.sciencedirect.com/journal/social-sciences-and-humanities-open)(2025-now)
  
 **Journal Reviewer (International journals)**
    * [Operation Research](https://link.springer.com/journal/12351)
