@@ -68,9 +68,10 @@ Academic Services
  * [Industrial Engineering Journal(工业工程)](https://iej.gdut.edu.cn/)(2025-now)
 
 **Editorial Board**
- * [European Journal of Industrial Engineering](https://www.inderscience.com/jhome.php?jcode=ejie)(2025-2026)
- * [Journal of Game Studies](https://systems.enpress-publisher.com/index.php/JGS)(2025-now)
+ * [Journal of Game Studies](https://systems.enpress-publisher.com/index.php/JGS)(2024-now)
  * [Social Sciences & Humanities Open](https://www.sciencedirect.com/journal/social-sciences-and-humanities-open)(2025-2026)
+ * [European Journal of Industrial Engineering](https://www.inderscience.com/jhome.php?jcode=ejie)(2025-2026) 
+ 
  
 **Journal Reviewer (International journals)**
    * [Operation Research](https://link.springer.com/journal/12351)
