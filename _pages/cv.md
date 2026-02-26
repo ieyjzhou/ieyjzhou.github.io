@@ -14,7 +14,7 @@ redirect_from:
 Educations
 ======
 
-* Ph.D. in Industrial Engineering, 	[Pusan National University (부산대학교)](http://www.pusan.ac.kr/), 2015.09 ~ 2020.06
+* Ph.D. in Industrial Engineering, 	[Pusan National University (釜山国立大学/부산대학교)](http://www.pusan.ac.kr/), 2015.09 ~ 2020.06
 * Visiting student, [Zhejiang University (浙江大学)](http://www.zju.edu.cn/), July.2013 ~ Apr.2015  
     * [State Key Laboratory of CAD&CG (计算机辅助设计与图形学国家重点实验室)](http://www.cad.zju.edu.cn/)
     * [Graphics and Parallel Systems Lab (图形与并行系统实验室)](http://www.gaps-zju.org/)  
