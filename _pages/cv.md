@@ -70,7 +70,7 @@ Academic Services
 **Editorial Board**
  * [European Journal of Industrial Engineering](https://www.inderscience.com/jhome.php?jcode=ejie)(2025-2026)
  * [Journal of Game Studies](https://systems.enpress-publisher.com/index.php/JGS)(2025-now)
- * [Social Sciences & Humanities Open](https://www.sciencedirect.com/journal/social-sciences-and-humanities-open)(2025-now)
+ * [Social Sciences & Humanities Open](https://www.sciencedirect.com/journal/social-sciences-and-humanities-open)(2025-2026)
  
 **Journal Reviewer (International journals)**
    * [Operation Research](https://link.springer.com/journal/12351)
