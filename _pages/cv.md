@@ -62,10 +62,12 @@ Academic Services
  * [European Journal of Industrial Engineering](https://www.inderscience.com/jhome.php?jcode=ejie)(2026-now)
 
 **Guest Editor**
+ * [Computers & Industrial Engineering](https://www.sciencedirect.com/journal/computers-and-industrial-engineering)(2026-now)
  * [Sustainability](https://www.mdpi.com/journal/sustainability)(2025-now)
+ * [Industrial Engineering Journal(工业工程)](https://iej.gdut.edu.cn/)(2025-now)
  * [Case Studies on Transport Policy](https://www.sciencedirect.com/journal/case-studies-on-transport-policy)(2024-now)
  * [European Journal of Industrial Engineering](https://www.inderscience.com/jhome.php?jcode=ejie)(2024-2025)
- * [Industrial Engineering Journal(工业工程)](https://iej.gdut.edu.cn/)(2025-now)
+ 
 
 **Editorial Board**
  * [Journal of Game Studies](https://systems.enpress-publisher.com/index.php/JGS)(2024-now)
