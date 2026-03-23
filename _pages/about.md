@@ -42,8 +42,7 @@ I am looking for undergraduate students to join the [Computer and Industrial Eng
 
 About me
 ======
-I am an associate professor in the school of management at Zhengzhou University. I obtained my Ph.D degree from  the Department of Industrial Engineering at [Pusan National University](http://www.pusan.ac.kr) in June 2020. Before that, I received my B.S. Degree and M.S. Degree in Computer Science and Computer Applied Technology from [Zhengzhou University](http://www.zzu.edu.cn) in 2012 and 2015, respectively. 
-
+He is an Associate Professor and Head of the Logistics Management Department at the School of Management, Zhengzhou University. He earned his Ph.D. in Industrial Engineering from Pusan National University in June 2020. Prior to that, he received his B.S. in Computer Science and M.S. in Computer Applied Technology from Zhengzhou University in 2012 and 2015, respectively. He also leads the Computer and Industrial Engineering Group at Zhengzhou University. He serves as an Associate Editor for Engineering Optimization and European Journal of Industrial Engineering. He additionally acts as a Guest Editor and Editorial Board Member for numerous prestigious academic journals, including CIE, EJIE, CSTP, and SSHO. His research interests include optimization problems in industrial engineering, game theory, logistics, scheduling and artificial intelligent. He has published more than 50 papers in leading academic journals, such as IEEE TNNLS, CIE, TRD/E, and EAAI.
 
 Educations
 ======
