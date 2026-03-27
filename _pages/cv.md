@@ -1,4 +1,4 @@
----
+![63d75b9f5819903575538839dfe8477c](https://github.com/user-attachments/assets/0fff60de-feac-4a1b-aa9f-67adfe68abdb)---
 layout: archive
 title: "CV"
 permalink: /cv/
@@ -93,6 +93,7 @@ Academic Services
    * [Knowledge-Based Systems](https://www.sciencedirect.com/journal/knowledge-based-systems)
    * [Computers & Operations Research](https://www.sciencedirect.com/journal/computers-and-operations-research)
    * [Computer and Industrial Engineering](https://www.journals.elsevier.com/computers-and-industrial-engineering)
+   * [Computers and Electrical Engineering](https://www.sciencedirect.com/journal/computers-and-electrical-engineering)
    * [Managerial and Decision Economics](https://onlinelibrary.wiley.com/journal/10991468)
    * [Maritime Policy & Management](https://www.tandfonline.com/toc/tmpm20/current)
    * [Flexible Services and Manufacturing Journal](https://link.springer.com/journal/10696/updates)
