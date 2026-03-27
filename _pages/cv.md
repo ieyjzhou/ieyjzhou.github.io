@@ -92,7 +92,7 @@ Academic Services
    * [Applied Soft Computing](https://www.journals.elsevier.com/applied-soft-computing)
    * [Knowledge-Based Systems](https://www.sciencedirect.com/journal/knowledge-based-systems)
    * [Computers & Operations Research](https://www.sciencedirect.com/journal/computers-and-operations-research)
-   * [Computer and Industrial Engineering](https://www.journals.elsevier.com/computers-and-industrial-engineering)
+   * [Computer & Industrial Engineering](https://www.journals.elsevier.com/computers-and-industrial-engineering)
    * [Computers and Electrical Engineering](https://www.sciencedirect.com/journal/computers-and-electrical-engineering)
    * [Managerial and Decision Economics](https://onlinelibrary.wiley.com/journal/10991468)
    * [Maritime Policy & Management](https://www.tandfonline.com/toc/tmpm20/current)
