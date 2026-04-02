@@ -10,7 +10,7 @@ years: [2020, 2019, 2018,2017, 2016, 2015]
 
 ## International Journal Publications
 ------
-1. **Zhou Y.**, Kang Y. Li P., Feng X., (2026), Container relocation problem: a systematic review and bibliometric analysis, **Journal of Shipping and Trade**, (Accepted).
+1. **Zhou Y.**, Kang Y. Li P., Feng X., (2026), Container relocation problem: a systematic review and bibliometric analysis, **Journal of Shipping and Trade**,11, 11. **[PDF](https://link.springer.com/article/10.1186/s41072-026-00231-9)**.
 2. Wang Y., Jin C., **Zhou Y.$^\dagger$**, Feng W., Zhong G., Wang D., Wang R., (2025), Optimizing pesticide matching: A comprehensive multi-objective framework, **IEEE Access**,13,205805-205825. **[PDF](https://ieyjzhou.github.io/files/2025IEEEAEESS.pdf)**
 3. Leng S., Wang Y., **Zhou Y.$^\dagger$**, Feng X., Lee P., Bai R., (2025), The growing role of artificial intelligence in smart container ports: its application and future research directions, **Journal of International Logistics and Trade**, 1-35. **[PDF](https://www.emerald.com/jilt/article-pdf/doi/10.1108/JILT-11-2025-0105/11166809/jilt-11-2025-0105en.pdf)**.
 4. **Zhou Y.**, Ma F., Li M., Zhang J., Li Y., Feng X., (2025), Co-opetition among dry ports for competing with seaports, **Maritime Policy & Management**, 1-28. **[PDF](https://ieyjzhou.github.io/files/2025MPM.pdf)**
