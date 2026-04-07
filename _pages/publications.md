@@ -92,39 +92,4 @@ minimize greenhouse gas emissions. **Sustainability**, 9(5), 776. **[PDF](https:
 3. Zhou, B., **Zhou, Y.**, Xu, M., & Wu, F. (2014). Computation-aware motion estimation algorithm based on qoe control. In
 2014 ieee computers communications and it applications conference (pp. 261–265). IEEE. doi:10.1109/ComComAp.2014.7017207. (October 20-22, 2014, Beijing, China.)
 
-## Conference Presentations 
-------
-1. **Zhou, Y.**, & Liu G. (2021). A deep learning method to predict container throughput for inland port. In The 10th International Conference on Logistics and Maritime Systems (LOGMS 2021). (Oct 29-31, 2021, Zhejiang, China.)
-2. Shi, Y., **Zhou, Y.**, & Zhao Q. (2021). A zone-based pricing for vehicle routing problem with time window and stochastic demand. In The 10th International Conference on Logistics and Maritime Systems (LOGMS 2021). (Oct 29-31, 2021, Zhejiang, China.)
-3. **Zhou, Y.**, & Kim, K. H. (2019). Competition and Cooperation among Vessel Carriers in Feeder Network Design The 2nd Y-RIB International Conference (December 1-3, 2019, Chongqing, China.) <font color="red">Out Standing Paper Award<font>
-4. **Zhou, Y.**, & Kim, K. H. (2019). A note on optimizing the concession contracts for landlord port authorities to max-
-imise fee revenues. In The 4 th international conference of supply chain and technology innovation (ICOSTI 2019). (August
-13-15, 2019, Busan, Korea.)
-1. **Zhou, Y.**, & Kim, K. H. (2019). Competition and collaboration among express delivery companies. In The 9th international conference on logistics and maritime systems (LOGMS 2019). (August 14-16, 2019, Singapore, Singapore.)
-1. **Zhou, Y.**, & Kim, K. H. (2019). Optimal rental charge schedule between the port authority and container terminals
-under various contract schemes. In The 27th annual conference of the international association of maritime economists
-2019 (IAME 2019 ). (June 25-28, 2019, Athens, Greece.)
-1. **Zhou, Y.**, & Kim, K. H. (2019). Terminal location and sharing problem in a competitive environment. In The 4th belt
-and road initiative conference 2019(BRI 2019). (August 1-3, 2019, Bangkok, Thailand.)
-1. **Zhou, Y.**, Choi, S.-H., & Kim, K. H. (2018). Determining rental charges by a port authority considering container han-
-dling prices by terminals. In The 19th asia pacific industrial engineering and management systems (APIEMS 2018). (December 5-8, 2018, Hong Kong, China.)
-1. **Zhou, Y.**, & Kim, K. H. (2018). Optimal concession contract between the port authority and container terminals by a
-royalty fee scheme. In The 8th international conference on logistics and maritime systems (LOGMS 2018). (December 9-12,
-2018, Guangzhou, China.)
-1. **Zhou, Y.**, Kim, K. H., & Kim, J. G. (2018). A coevolutionary approach to pricing container handles by container termi-
-nals. In The seventh international conference on transportation and logistics (7th T-LOG). (September 8-10, 2018, Dalian,
-China.)
-1. **Zhou, Y.**, & Lee, G. M. (2018). A robust mathematical model for capacity planning in semiconductor industry under
-demand uncertainty. In 2018 ieee international conference on smart manufacturing, industrial & logistics engineering.
-(February 7-9, 2018, Hsinchu, Taiwan.)
-1. Tuladhar, U. M., **Zhou, Y.**, Lee, G. M., & Ahn, S. (2017). Design and implementation of segmentation algorithm for artistic drawing using 2-axis computer numerical controller. In The 7th international conference on manufacturing, machine
-design and tribology. (April 19-22, 2017, Jeju, Korea.)
-1. **Zhou, Y.**, Das, A., Gao, X., & Lee, G. M. (2017). A biobjective mathematical programming for medical relief shelter lo-
-cation problem. In The second global conference on theory and applications of or & om for sustainability. (September 6-8,
-2017, Beijing, China.) <font color="red">Best Paper Award<font>
-1. Gu, J., **Zhou, Y.**, & Lee, G. M. (2016). Medical relief shelter location considering the severity of patients under limited
-relief budget. In The 46th international conference on computers & industrial engineering. (October 29-31, 2016, Tianjin,
-China.) <font color="red">Best Student Paper Award<font> 
-1. **Zhou, Y.**, & Lee, G. M. (2016). Linking the optimization to the art; an efficient k-continuous line drawing using image
-segmentation, stippling, and the traveling salesman problem. In The 2016 international symposium on semiconductor
-manufacturing intelligence. (August 7-10, 2016, Hsinchu, Taiwan.)
+
