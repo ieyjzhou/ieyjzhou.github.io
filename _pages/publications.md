@@ -67,7 +67,11 @@ Theory, Applications and Practice**, 24(6), 663–679. **[PDF](https://ieyjzhou.
 1. **Zhou Y.**, & Lee G. M. (2017). A lagrangian relaxation-based solution method for a green vehicle routing problem to
 minimize greenhouse gas emissions. **Sustainability**, 9(5), 776. **[PDF](https://ieyjzhou.github.io/CIEG/Paper/sustainability-09-00776.pdf)**
 
-
+## Books(教材/专著)
+------
+1. 冯雪皓,**周艳杰**,叶观琼,王振国. 智慧港口管理方法与前沿实践, 浙江大学出版社, 2026
+2. 李俊杰,徐江,**周艳杰**. 大数据视阈下的房地产市场波动研究, 中国财政经济出版社, 2025
+   
 ## Domestic Journal Publications
 ------
 1. 徐江, 王航, **周艳杰$^\dagger$**，冯雪皓. 基于混合遗传算法的可变尺寸货物装箱问题研究，**包装工程** 录用出版中
