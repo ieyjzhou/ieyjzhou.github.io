@@ -77,6 +77,7 @@ Academic Services
  
 **Journal Reviewer (International journals)**
    * [Operation Research](https://link.springer.com/journal/12351)
+   * [Pattern Recognition](https://www.sciencedirect.com/journal/pattern-recognition)
    * [Neural Networks](https://www.sciencedirect.com/journal/neural-networks)
    * [Neurocomputing](https://www.sciencedirect.com/journal/neurocomputing)
    * [Transportation Research Part B: Methodological](https://www.sciencedirect.com/journal/transportation-research-part-b-methodological)
