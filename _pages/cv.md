@@ -84,7 +84,8 @@ Academic Services
    * [Transportation Research Part C: Emerging Technologies](https://www.sciencedirect.com/journal/transportation-research-part-c-emerging-technologies)
    * [IEEE Transactions on Automation Science and Engineering](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=8856)
    * [IEEE Transactions on Engineering Management](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=17)
-   * [Frontiers of Engineering Management](https://link.springer.com/journal/42524)
+   * [Engineering Management](https://link.springer.com/journal/42524)
+   * [Humanities and Social Sciences Communications](https://www.nature.com/palcomms/)
    * [Reliability Engineering & System Safety](https://www.sciencedirect.com/journal/reliability-engineering-and-system-safety)
    * [Transportation Research Part E: Logistics and Transportation Review](https://www.sciencedirect.com/journal/transportation-research-part-e-logistics-and-transportation-review)
    * [International Journal of Production Research](https://www.tandfonline.com/journals/tprs20)
@@ -145,7 +146,7 @@ Academic Services
    * [中国计算机学会](https://www.ccf.org.cn/), 专业会员
    * [中国运筹学会](https://www.orsc.org.cn/),普通会员
    * [中国机械工程学会](https://www.cmes.org/cmes)
-       * 工业工程分会,会员
+       * 工业工程分会,委员,会员
    * [中国系统工程学会](http://www.sesc.org.cn/htm/index.htm),
        * 港航经济系统工程专业委员会, 常务委员
    * [中国交通运输协会](https://www.cctaw.cn/) 
@@ -159,6 +160,10 @@ Academic Services
       * Local Organizing Committee  (LOGMS2021)
       * Session Chair  (LOGMS2021)
       * International Advice Committee (LOGMS2023)
+      * Organization Committee (LOGMS2025)
+      * Steering Committee (LOGMS2026)
+   * [Global Research Network Belt - Road Initiative (GRN-BRI) Conference](https://grn-bri.github.io/)
+      * International Steering Committee (2026)
    * [IEEE International Conference on Computer and Communications](http://www.iccc.org/) 
      * Technical Committee (2021,2024)
      * Session Chair (2021,2024)
