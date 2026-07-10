@@ -39,6 +39,7 @@ Work Experiences
 Awards and Honors
 ======
  
+   * Best Student Paper Award of LOGMS and EUROMar (2026)
    * Best Paper Award of 6th Y-RIB in collaboration with UNESCAP (2024)
    * 河南省科学技术进步一等奖, 2023
    * 河南省教育厅科技成果一等奖, 2022  
