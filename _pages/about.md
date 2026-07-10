@@ -35,7 +35,7 @@ gallery:
 News
 ======
 
-Our paper won the best student paper award for 14th International Conference on Logistics and Maritime Systems (LOGMS 2026) and EUROMar Conference on Maritime Optimization and Logistics (EUROMar 2026)!!!
+Our paper has won the Best Student Paper Award at the 14th International Conference on Logistics and Maritime Systems (LOGMS 2026) as well as the EUROMar Conference on Maritime Optimization and Logistics (EUROMar 2026)!
 <img src="../images/logms2026bestpaper.jpg" alt="Logms best paper award">
 
 I am looking for undergraduate students to join the [Computer and Industrial Engineering Group](https://ieyjzhou.github.io/lab/).
