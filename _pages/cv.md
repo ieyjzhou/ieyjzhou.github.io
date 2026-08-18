@@ -39,6 +39,9 @@ Work Experiences
 Awards and Honors
 ======
  
+   * Best Paper Award of CIEDH 2026 & CSIE 2026
+     * 2026 International Conference for Chinese Scholars in Industrial Engineering
+     * 16th Global Forum for Council of Industrial Engineering and Logistics Management Department Heads
    * Best Student Paper Award of LOGMS and EUROMar (2026)
    * Best Paper Award of 6th Y-RIB in collaboration with UNESCAP (2024)
    * 河南省科学技术进步一等奖, 2023
@@ -61,6 +64,7 @@ Academic Services
 **Associate Editor**
  * [Engineering Optimization](https://www.tandfonline.com/journals/geno20)(2025-now)
  * [European Journal of Industrial Engineering](https://www.inderscience.com/jhome.php?jcode=ejie)(2026-now)
+ * [Journal of International Logistics and Trade](https://www.emeraldgrouppublishing.com/journal/jilt)(2026-now)
 
 **Guest Editor**
  * [Computers & Industrial Engineering](https://www.sciencedirect.com/journal/computers-and-industrial-engineering)(2026-now)
@@ -128,9 +132,12 @@ Academic Services
   **Journal Reviewer (Domestic journals)**
    * [中国管理科学](http://www.zgglkx.com/CN/1003-207X/home.shtml)
    * [中国舰船研究](http://journal16.magtechjournal.com/jwk_zgjcyj/CN/volumn/home.shtml) 
-   * [交通运输工程学报英文版](http://jtte.chd.edu.cn/)
+   * [交通运输工程学报-英文版](http://jtte.chd.edu.cn/)
    * [工业工程](https://iej.gdut.edu.cn/)
    * [包装工程]()
+   * [中国航海](https://zghh.cinnet.cn/)
+   * [系统科学与系统工程学报-英文版](https://link.springer.com/journal/11518)
+   * [管理科学学报-英文版](https://www.sciencedirect.com/journal/journal-of-management-science-and-engineering)
    
    
   **Conference Reviewer**
