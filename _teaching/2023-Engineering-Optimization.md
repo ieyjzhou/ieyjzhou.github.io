@@ -15,7 +15,7 @@ location: "Zhengzhou, China"
 - Lectures/Location:
     - 周三上午 1‑4 节（1‑4、6‑9 周），上课地点：**主校区 北 1_206**
     - 周五下午 5‑8 节（1‑2、5‑6 周），上课地点：**主校区 北 1_103**
-    - 7‑9 周无周五课程
+    - 3、4、7、8、9周无周五课程
 - Instructor: [Yanjie Zhou](https://ieyjzhou.github.io/) 
 - Email: [ieyjzhou@zzu.edu.cn](ieyjzhou@zzu.edu.cn)
 
