@@ -18,7 +18,6 @@ location: "Zhengzhou, China"
     - 7‑9 周无周五课程
 - Instructor: [Yanjie Zhou](https://ieyjzhou.github.io/) 
 - Email: [ieyjzhou@zzu.edu.cn](ieyjzhou@zzu.edu.cn)
-- TA: 钱嘉乐, 
 
 ## Prerequisites
 - Calculus I and II
