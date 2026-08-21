@@ -61,9 +61,9 @@ Prerequisites include calculus, linear algebra, and basic programming skills. No
 <td>周三（上午1‑4节）</td>
 <td>主校区 北1_206</td>
 <td>4</td>
-<td>Preface；Part‑I Ch1</td>
+<td>Part‑I Ch1</td>
 <td>【Part‑I 基础】课程导论；Ch1 决策问题、优化问题、工程问题，三类问题嵌套关系、多项式等价；可/不可数学建模的工程问题</td>
-<td>理论讲授，介绍课程考核、小组项目要求</td>
+<td>理论讲授，介绍课程考核项目要求</td>
 </tr>
 <tr>
 <td>周五（下午5‑8节）</td>
