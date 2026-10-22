@@ -131,6 +131,7 @@ Academic Services
   
   **Journal Reviewer (Domestic journals)**
    * [中国管理科学](http://www.zgglkx.com/CN/1003-207X/home.shtml)
+   * [自动化学报](https://www.aas.net.cn/)
    * [中国舰船研究](http://journal16.magtechjournal.com/jwk_zgjcyj/CN/volumn/home.shtml) 
    * [交通运输工程学报-英文版](http://jtte.chd.edu.cn/)
    * [工业工程](https://iej.gdut.edu.cn/)
