@@ -90,6 +90,7 @@ Academic Services
    * [IEEE Transactions on Automation Science and Engineering](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=8856)
    * [IEEE Transactions on Engineering Management](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=17)
    * [Engineering Management](https://link.springer.com/journal/42524)
+   * [Memetic Computing](https://link.springer.com/journal/12293)
    * [Humanities and Social Sciences Communications](https://www.nature.com/palcomms/)
    * [Reliability Engineering & System Safety](https://www.sciencedirect.com/journal/reliability-engineering-and-system-safety)
    * [Transportation Research Part E: Logistics and Transportation Review](https://www.sciencedirect.com/journal/transportation-research-part-e-logistics-and-transportation-review)
