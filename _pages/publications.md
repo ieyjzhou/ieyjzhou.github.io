@@ -10,7 +10,7 @@ years: [2020, 2019, 2018,2017, 2016, 2015]
 
 ## International Journal Publications
 ------
-1.Zhang Y., Liu J., Jing M., **Zhou Y.** (2026),Differential game analysis of quality improvement in new energy vehicle supply chain: Cooperation or incentive strategy, **International Journal of Industrial Engineering Computations**, **[PDF](https://www.growingscience.com/ijiec/online/IJIEC_2026_122.pdf)**
+1. Zhang Y., Liu J., Jing M., **Zhou Y.** (2026),Differential game analysis of quality improvement in new energy vehicle supply chain: Cooperation or incentive strategy, **International Journal of Industrial Engineering Computations**, **[PDF](https://www.growingscience.com/ijiec/online/IJIEC_2026_122.pdf)**
 2. Cho S. W., Lee J. H., Park Y., **Zhou Y.**, Lee W.  Lee C.(2026), Coverage path planning for multiple UAVs in prioritized regions using ant colony optimization, **Soft Computing**, **[PDF](https://link.springer.com/article/10.1007/s00500-025-11020-0?utm_source=rct_congratemailt&utm_medium=email&utm_campaign=oa_20260521&utm_content=10.1007/s00500-025-11020-0)**
 3. Feng X., Jin C. Zhu J., **Zhou Y.$^\dagger$**, (2026), A hybrid two-stage algorithm for solving synchronous loading operation of quay cranes and straddle carriers, **European Journal of Industrial Engineering**, 21(3/4), 328-370. **[PDF](https://ieyjzhou.github.io/files/2026EJIE.pdf)**
 4. **Zhou Y.**, Kang Y. Li P., Feng X., (2026), Container relocation problem: a systematic review and bibliometric analysis, **Journal of Shipping and Trade**,11, 11. **[PDF](https://link.springer.com/article/10.1186/s41072-026-00231-9)**
